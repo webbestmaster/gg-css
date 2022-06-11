@@ -37411,8 +37411,8 @@ gg-buy-premium {
 @font-face {
     font-family: icomoon;
     font-display: swap;
-    src: url(../fonts/icomoon/fonts/icomoon.eot?ver=373);
-    src: url(../fonts/icomoon/fonts/icomoon.eot?rnd=373#iefix) format("embedded-opentype"), url(../fonts/icomoon/fonts/icomoon.woff?ver=373) format("woff"), url(../fonts/icomoon/fonts/icomoon.ttf?ver=373) format("truetype"), url(../fonts/icomoon/fonts/icomoon.svg?rnd=373#icomoon) format("svg");
+    /* src: url(../fonts/icomoon/fonts/icomoon.eot?ver=373); */
+    /* src: url(../fonts/icomoon/fonts/icomoon.eot?rnd=373#iefix) format("embedded-opentype"), url(../fonts/icomoon/fonts/icomoon.woff?ver=373) format("woff"), url(../fonts/icomoon/fonts/icomoon.ttf?ver=373) format("truetype"), url(../fonts/icomoon/fonts/icomoon.svg?rnd=373#icomoon) format("svg"); */
     font-weight: 400;
     font-style: normal
 }
@@ -46490,8 +46490,8 @@ gg-ads-block[zone-id="26"] a img {
 
 @font-face {
     font-family: gg-editor;
-    src: url(/css/fonts/editor-fonts/fonts/gg-editor.eot?czurc4);
-    src: url(/css/fonts/editor-fonts/fonts/gg-editor.eot?czurc4#iefix) format("embedded-opentype"), url(/css/fonts/editor-fonts/fonts/gg-editor.ttf?czurc4) format("truetype"), url(/css/fonts/editor-fonts/fonts/gg-editor.woff?czurc4) format("woff"), url(/css/fonts/editor-fonts/fonts/gg-editor.svg?czurc4#gg-editor) format("svg");
+    /* src: url(/css/fonts/editor-fonts/fonts/gg-editor.eot?czurc4); */
+    /* src: url(/css/fonts/editor-fonts/fonts/gg-editor.eot?czurc4#iefix) format("embedded-opentype"), url(/css/fonts/editor-fonts/fonts/gg-editor.ttf?czurc4) format("truetype"), url(/css/fonts/editor-fonts/fonts/gg-editor.woff?czurc4) format("woff"), url(/css/fonts/editor-fonts/fonts/gg-editor.svg?czurc4#gg-editor) format("svg"); */
     font-weight: 400;
     font-style: normal
 }
