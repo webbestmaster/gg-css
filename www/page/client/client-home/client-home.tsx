@@ -132,9 +132,7 @@ div.content-window {
                             />
                         </p>
                     </label>
-                    <textarea key={css} rows={10}>
-                        {css}
-                    </textarea>
+                    <textarea defaultValue={css} key={css} rows={30} />
                 </div>
                 <div className={classNames(styleClientHome.home_container, 'result-wrapper')}>
                     <style
