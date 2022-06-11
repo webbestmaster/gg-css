@@ -878,7 +878,7 @@ input[type=checkbox] + label:before, input[type=radio] + label:before {
     height: 15px;
     width: 15px;
     margin: 0 5px 0 0;
-    background: url(/images/rc-sprite2.png) no-repeat
+/* background: url(/images/rc-sprite2.png) no-repeat */
 }
 
 input[type=checkbox] + label:before {
@@ -1678,239 +1678,239 @@ gg-custom-spoiler > * {
 }
 
 .gameicon-default {
-    background-image: url(/images/gameicon/default.png)
+/* background-image: url(/images/gameicon/default.png) */
 }
 
 .gameicon-bf3 {
-    background-image: url(/images/gameicon/bf3.png)
+/* background-image: url(/images/gameicon/bf3.png) */
 }
 
 .gameicon-bf4 {
-    background-image: url(/images/gameicon/bf4.png)
+/* background-image: url(/images/gameicon/bf4.png) */
 }
 
 .gameicon-blc {
-    background-image: url(/images/gameicon/blc.png)
+/* background-image: url(/images/gameicon/blc.png) */
 }
 
 .gameicon-cod {
-    background-image: url(/images/gameicon/cod.png)
+/* background-image: url(/images/gameicon/cod.png) */
 }
 
 .gameicon-cs {
-    background-image: url(/images/gameicon/cs.png)
+/* background-image: url(/images/gameicon/cs.png) */
 }
 
 .gameicon-cs-female {
-    background-image: url(/images/gameicon/cs-female.png)
+/* background-image: url(/images/gameicon/cs-female.png) */
 }
 
 .gameicon-cs-go {
-    background-image: url(/images/gameicon/cs-go.png)
+/* background-image: url(/images/gameicon/cs-go.png) */
 }
 
 .gameicon-css {
-    background-image: url(/images/gameicon/css.png)
+/* background-image: url(/images/gameicon/css.png) */
 }
 
 .gameicon-d3 {
-    background-image: url(/images/gameicon/d3.png)
+/* background-image: url(/images/gameicon/d3.png) */
 }
 
 .gameicon-d3-n {
-    background-image: url(/images/gameicon/d3-n.png)
+/* background-image: url(/images/gameicon/d3-n.png) */
 }
 
 .gameicon-dota {
-    background-image: url(/images/gameicon/dota.png)
+/* background-image: url(/images/gameicon/dota.png) */
 }
 
 .gameicon-dota2 {
-    background-image: url(/images/gameicon/dota2.png)
+/* background-image: url(/images/gameicon/dota2.png) */
 }
 
 .gameicon-dota-barathrum {
-    background-image: url(/images/gameicon/dota-barathrum.png)
+/* background-image: url(/images/gameicon/dota-barathrum.png) */
 }
 
 .gameicon-fifa {
-    background-image: url(/images/gameicon/fifa.png)
+/* background-image: url(/images/gameicon/fifa.png) */
 }
 
 .gameicon-flood {
-    background-image: url(/images/gameicon/flood.png)
+/* background-image: url(/images/gameicon/flood.png) */
 }
 
 .gameicon-hardware {
-    background-image: url(/images/gameicon/hardware.png)
+/* background-image: url(/images/gameicon/hardware.png) */
 }
 
 .gameicon-home {
-    background-image: url(/images/gameicon/home.png)
+/* background-image: url(/images/gameicon/home.png) */
 }
 
 .gameicon-hon {
-    background-image: url(/images/gameicon/hon.png)
+/* background-image: url(/images/gameicon/hon.png) */
 }
 
 .gameicon-hots {
-    background-image: url(/images/gameicon/hots.png)
+/* background-image: url(/images/gameicon/hots.png) */
 }
 
 .gameicon-hs {
-    background-image: url(/images/gameicon/hs.png)
+/* background-image: url(/images/gameicon/hs.png) */
 }
 
 .gameicon-lol {
-    background-image: url(/images/gameicon/lol.png)
+/* background-image: url(/images/gameicon/lol.png) */
 }
 
 .gameicon-mw3 {
-    background-image: url(/images/gameicon/mw3.png)
+/* background-image: url(/images/gameicon/mw3.png) */
 }
 
 .gameicon-nfs {
-    background-image: url(/images/gameicon/nfs.png)
+/* background-image: url(/images/gameicon/nfs.png) */
 }
 
 .gameicon-othergames {
-    background-image: url(/images/gameicon/othergames.png)
+/* background-image: url(/images/gameicon/othergames.png) */
 }
 
 .gameicon-panzar {
-    background-image: url(/images/gameicon/panzar.png)
+/* background-image: url(/images/gameicon/panzar.png) */
 }
 
 .gameicon-pb {
-    background-image: url(/images/gameicon/pb.png)
+/* background-image: url(/images/gameicon/pb.png) */
 }
 
 .gameicon-protoss {
-    background-image: url(/images/gameicon/protoss.png)
+/* background-image: url(/images/gameicon/protoss.png) */
 }
 
 .gameicon-quake {
-    background-image: url(/images/gameicon/quake.png)
+/* background-image: url(/images/gameicon/quake.png) */
 }
 
 .gameicon-quake-live {
-    background-image: url(/images/gameicon/quake-live.png)
+/* background-image: url(/images/gameicon/quake-live.png) */
 }
 
 .gameicon-rot {
-    background-image: url(/images/gameicon/rot.png)
+/* background-image: url(/images/gameicon/rot.png) */
 }
 
 .gameicon-sc {
-    background-image: url(/images/gameicon/sc.png)
+/* background-image: url(/images/gameicon/sc.png) */
 }
 
 .gameicon-sc2 {
-    background-image: url(/images/gameicon/sc2.png)
+/* background-image: url(/images/gameicon/sc2.png) */
 }
 
 .gameicon-sc2-bober {
-    background-image: url(/images/gameicon/sc2-bober.png)
+/* background-image: url(/images/gameicon/sc2-bober.png) */
 }
 
 .gameicon-sc2-photonka {
-    background-image: url(/images/gameicon/sc2-photonka.png)
+/* background-image: url(/images/gameicon/sc2-photonka.png) */
 }
 
 .gameicon-sc2-protoss {
-    background-image: url(/images/gameicon/sc2-protoss.png)
+/* background-image: url(/images/gameicon/sc2-protoss.png) */
 }
 
 .gameicon-sc2-terran {
-    background-image: url(/images/gameicon/sc2-terran.png)
+/* background-image: url(/images/gameicon/sc2-terran.png) */
 }
 
 .gameicon-sc2-zerg {
-    background-image: url(/images/gameicon/sc2-zerg.png)
+/* background-image: url(/images/gameicon/sc2-zerg.png) */
 }
 
 .gameicon-sc-terran {
-    background-image: url(/images/gameicon/sc-terran.png)
+/* background-image: url(/images/gameicon/sc-terran.png) */
 }
 
 .gameicon-sc-protoss {
-    background-image: url(/images/gameicon/sc-protoss.png)
+/* background-image: url(/images/gameicon/sc-protoss.png) */
 }
 
 .gameicon-sc-zerg {
-    background-image: url(/images/gameicon/sc-zerg.png)
+/* background-image: url(/images/gameicon/sc-zerg.png) */
 }
 
 .gameicon-steam {
-    background-image: url(/images/gameicon/steam.png)
+/* background-image: url(/images/gameicon/steam.png) */
 }
 
 .gameicon-stream {
-    background-image: url(/images/gameicon/stream.png)
+/* background-image: url(/images/gameicon/stream.png) */
 }
 
 .gameicon-tf2 {
-    background-image: url(/images/gameicon/tf2.png)
+/* background-image: url(/images/gameicon/tf2.png) */
 }
 
 .gameicon-trackmania {
-    background-image: url(/images/gameicon/trackmania.png)
+/* background-image: url(/images/gameicon/trackmania.png) */
 }
 
 .gameicon-trackmania-wheel {
-    background-image: url(/images/gameicon/trackmania-wheel.png)
+/* background-image: url(/images/gameicon/trackmania-wheel.png) */
 }
 
 .gameicon-tv {
-    background-image: url(/images/gameicon/tv.png)
+/* background-image: url(/images/gameicon/tv.png) */
 }
 
 .gameicon-ut {
-    background-image: url(/images/gameicon/ut.png)
+/* background-image: url(/images/gameicon/ut.png) */
 }
 
 .gameicon-warhammer {
-    background-image: url(/images/gameicon/warhammer.png)
+/* background-image: url(/images/gameicon/warhammer.png) */
 }
 
 .gameicon-wc3 {
-    background-image: url(/images/gameicon/wc3.png)
+/* background-image: url(/images/gameicon/wc3.png) */
 }
 
 .gameicon-wc3-elf {
-    background-image: url(/images/gameicon/wc3-elf.png)
+/* background-image: url(/images/gameicon/wc3-elf.png) */
 }
 
 .gameicon-wc3-hum {
-    background-image: url(/images/gameicon/wc3-hum.png)
+/* background-image: url(/images/gameicon/wc3-hum.png) */
 }
 
 .gameicon-wc3-orc {
-    background-image: url(/images/gameicon/wc3-orc.png)
+/* background-image: url(/images/gameicon/wc3-orc.png) */
 }
 
 .gameicon-wc3-rnd {
-    background-image: url(/images/gameicon/wc3-rnd.png)
+/* background-image: url(/images/gameicon/wc3-rnd.png) */
 }
 
 .gameicon-wc3-und {
-    background-image: url(/images/gameicon/wc3-und.png)
+/* background-image: url(/images/gameicon/wc3-und.png) */
 }
 
 .gameicon-wot {
-    background-image: url(/images/gameicon/wot.png)
+/* background-image: url(/images/gameicon/wot.png) */
 }
 
 .gameicon-wow {
-    background-image: url(/images/gameicon/wow.png)
+/* background-image: url(/images/gameicon/wow.png) */
 }
 
 .gameicon-dota-cm {
-    background-image: url(/images/gameicon/dota-cm.png)
+/* background-image: url(/images/gameicon/dota-cm.png) */
 }
 
 .gameicon-overwatch {
-    background-image: url(/images/gameicon/overwatch.png)
+/* background-image: url(/images/gameicon/overwatch.png) */
 }
 
 .flag-icon {
@@ -6254,7 +6254,7 @@ h2 a:hover, h3 a:hover {
     margin: 0;
     width: 11px;
     height: 10px;
-    background: url(/images/gg_ckeditor/resizer.png);
+/* background: url(/images/gg_ckeditor/resizer.png); */
     border: none
 }
 
@@ -6313,7 +6313,7 @@ h2 a:hover, h3 a:hover {
     width: 26px;
     height: 26px;
     opacity: 1;
-    background: url(/images/gg_ckeditor/editor-icons-sprite.png) no-repeat !important
+/* background: url(/images/gg_ckeditor/editor-icons-sprite.png) no-repeat !important */
 }
 
 .editor:not(.materials-editor) .cke_top .cke_toolgroup a.cke_button .cke_button_icon.cke_button__bold_icon {
@@ -8406,7 +8406,7 @@ table.table-history tbody tr.line:hover:before {
     height: 281px;
     opacity: .5;
     mix-blend-mode: overlay;
-    background: url(/images/tbghs.png) no-repeat;
+/* background: url(/images/tbghs.png) no-repeat; */
     background-size: cover
 }
 
@@ -11433,7 +11433,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     display: block;
     height: 270px;
     width: 312px;
-    background: url(/images/exampl-01.png) no-repeat 0 0;
+/* background: url(/images/exampl-01.png) no-repeat 0 0; */
     padding: 0 10px
 }
 
@@ -12413,7 +12413,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
 }
 
 .smiles-edit-wrap .smile-add-block .form-group.checkbox input[type=checkbox] + label:before {
-    background: url(../../images/rc-sprite2.png) -5px -5px no-repeat
+/* background: url(../../images/rc-sprite2.png) -5px -5px no-repeat */
 }
 
 .smiles-edit-wrap .smile-add-block .form-group.btn-block {
@@ -13082,7 +13082,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     width: 429px;
     height: 38px;
     transform: translate(-50%);
-    background: url(/images/promo/new-year/title.png) no-repeat;
+/* background: url(/images/promo/new-year/title.png) no-repeat; */
     z-index: 1
 }
 
@@ -13090,14 +13090,14 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     width: 530px;
     height: 199px;
     left: 0;
-    background: url(/images/promo/new-year/left-side.png) no-repeat
+/* background: url(/images/promo/new-year/left-side.png) no-repeat */
 }
 
 .promo-streams .decor.right {
     width: 521px;
     height: 133px;
     right: 0;
-    background: url(/images/promo/new-year/right-side.png) no-repeat
+/* background: url(/images/promo/new-year/right-side.png) no-repeat */
 }
 
 .promo-streams .stream-wrap {
@@ -15166,15 +15166,15 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
 }
 
 .featured-streams-wrap .featured-streams-list .stream-block.warrior {
-    background: url(../../images/featured/warrior.png) 100%/auto 100% no-repeat
+/* background: url(../../images/featured/warrior.png) 100%/auto 100% no-repeat */
 }
 
 .featured-streams-wrap .featured-streams-list .stream-block.thief {
-    background: url(../../images/featured/thief.png) 100%/auto 100% no-repeat
+/* background: url(../../images/featured/thief.png) 100%/auto 100% no-repeat */
 }
 
 .featured-streams-wrap .featured-streams-list .stream-block.mage {
-    background: url(../../images/featured/mage.png) 100%/auto 100% no-repeat
+/* background: url(../../images/featured/mage.png) 100%/auto 100% no-repeat */
 }
 
 .featured-streams-wrap .featured-streams-list .stream-block.green, .featured-streams-wrap .featured-streams-list .stream-block.orange, .featured-streams-wrap .featured-streams-list .stream-block.purple {
@@ -15355,7 +15355,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     width: 1570px;
     height: 300px;
     transform: translateX(-50%);
-    background-image: url(/images/bingo/bingo_bg.png)
+/* background-image: url(/images/bingo/bingo_bg.png) */
 }
 
 .bingo-banner__wrapper {
@@ -21704,7 +21704,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.chest {
-    background: url(https://goodgame.ru/images/smiles/chest-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/chest-big.png) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.chest.animated {
@@ -21712,7 +21712,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.cat {
-    background: url(https://goodgame.ru/images/smiles/getout-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/getout-big.png) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.cat.animated {
@@ -21720,7 +21720,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.fry {
-    background: url(https://goodgame.ru/images/smiles/fry-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/fry-big.png) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.fry.animated {
@@ -21728,7 +21728,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.bender {
-    background: url(https://goodgame.ru/images/smiles/bender-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/bender-big.png) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.bender.animated {
@@ -21736,7 +21736,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.scrooge {
-    background: url(https://goodgame.ru/images/smiles/scrooge-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/scrooge-big.png) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.scrooge.animated {
@@ -22483,7 +22483,7 @@ body.theatre:hover .feed-block .opener {
     vertical-align: top;
     width: 16px;
     height: 11px;
-    background: url(/images/flag/gb.png) no-repeat
+/* background: url(/images/flag/gb.png) no-repeat */
 }
 
 .tournaments-wrap .lang-switcher a.ru .ru {
@@ -22495,7 +22495,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .tournaments-wrap .lang-switcher a.ru:before {
-    background: url(/images/flag/ru.png) no-repeat
+/* background: url(/images/flag/ru.png) no-repeat */
 }
 
 .tournaments-wrap .lang-switcher a.en .ru {
@@ -26439,7 +26439,7 @@ body.theatre:hover .feed-block .opener {
     right: 0;
     width: 20px;
     height: 100%;
-    background: url(/images/triangle-left.png) no-repeat 100%;
+/* background: url(/images/triangle-left.png) no-repeat 100%; */
     background-size: 100% 100%
 }
 
@@ -26747,7 +26747,7 @@ body.theatre:hover .feed-block .opener {
     position: relative;
     width: 100%;
     height: 300px;
-    background: url(/images/profile/smile_pattern.png)
+/* background: url(/images/profile/smile_pattern.png) */
 }
 
 .user-profile-wrap .left-col .user-profile-block .background-block .avatar-block {
@@ -27259,7 +27259,7 @@ body.theatre:hover .feed-block .opener {
     right: 0;
     width: 20px;
     height: 100%;
-    background: url(/images/triangle-left.png) no-repeat 100%;
+/* background: url(/images/triangle-left.png) no-repeat 100%; */
     background-size: 100% 100%
 }
 
@@ -31249,7 +31249,7 @@ body.theatre:hover .feed-block .opener {
     right: 0;
     width: 20px;
     height: 100%;
-    background: url(/images/triangle-left.png) no-repeat 100%;
+/* background: url(/images/triangle-left.png) no-repeat 100%; */
     background-size: 100% 100%
 }
 
@@ -31378,7 +31378,7 @@ body.theatre:hover .feed-block .opener {
     bottom: -200%;
     top: -200%;
     position: absolute;
-    background: url(/images/posters/blik.png);
+/* background: url(/images/posters/blik.png); */
     background-size: 100%;
     background-position: 50%;
     opacity: 1;
@@ -40247,7 +40247,7 @@ i.icon {
     position: relative;
     width: 21px;
     height: 18px;
-    background: url(/images/promo/gifts/gift-1-18.png) no-repeat
+/* background: url(/images/promo/gifts/gift-1-18.png) no-repeat */
 }
 
 .chat-container .popup-wrap .popup-block.gift-block .gift .gift-img .count {
@@ -40279,7 +40279,7 @@ i.icon {
 }
 
 .chat-container .popup-wrap .popup-block.gift-block.empty .gift .gift-img {
-    background: url(/images/promo/gifts/gift-empty-18.png) no-repeat
+/* background: url(/images/promo/gifts/gift-empty-18.png) no-repeat */
 }
 
 .chat-container .popup-wrap .popup-block.gift-block.empty:hover .gift .gift-img {
@@ -41040,7 +41040,7 @@ i.icon {
     right: 0;
     width: 100%;
     height: 188px;
-    background: url(/images/featured/warrior.png) #1c2644 right -15px/auto 188px no-repeat;
+/* background: url(/images/featured/warrior.png) #1c2644 right -15px/auto 188px no-repeat; */
     background-blend-mode: overlay;
     opacity: .5
 }
@@ -41371,7 +41371,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.chest {
-    background: url(https://goodgame.ru/images/smiles/chest-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/chest-big.png) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.chest.animated {
@@ -41379,7 +41379,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.cat {
-    background: url(https://goodgame.ru/images/smiles/getout-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/getout-big.png) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.cat.animated {
@@ -41387,7 +41387,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.fry {
-    background: url(https://goodgame.ru/images/smiles/fry-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/fry-big.png) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.fry.animated {
@@ -41395,7 +41395,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.bender {
-    background: url(https://goodgame.ru/images/smiles/bender-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/bender-big.png) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.bender.animated {
@@ -41403,7 +41403,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.scrooge {
-    background: url(https://goodgame.ru/images/smiles/scrooge-big.png) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/smiles/scrooge-big.png) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.scrooge.animated {
@@ -43813,7 +43813,7 @@ body.hidden .tse-scrollable.scroller > .simplebar-track, body.hidden .tse-scroll
     right: 0;
     width: 20px;
     height: 100%;
-    background: url(/images/triangle-left-news.png) no-repeat 100%;
+/* background: url(/images/triangle-left-news.png) no-repeat 100%; */
     border-radius: 2px;
     background-size: 100% 100%
 }
