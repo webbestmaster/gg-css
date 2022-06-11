@@ -1,10 +1,20 @@
 /* global HTMLInputElement */
 import {SyntheticEvent, useState} from "react";
+import rawHtml from './../../../material/187145.txt';
 
 // import foreign styles
-import style1 from '../../../material/187145_files/style-new.css';
+// import style1 from '../../../material/187145_files/style-new.css';
 
-console.log(style1)
+// <link href="./187145_files/style-new.css" rel="stylesheet" type="text/css">
+// <link rel="stylesheet" type="text/css" href="./187145_files/style-new(1).css">
+// <link rel="stylesheet" type="text/css" href="./187145_files/fonts.css">
+// <link rel="stylesheet" href="./187145_files/channels_icons.css" media="all">
+// <link rel="stylesheet" href="./187145_files/channels_smiles.css" media="all">
+// <link rel="stylesheet" href="./187145_files/common_smiles.css" media="all">
+
+// console.log(style1)
+
+console.log(rawHtml)
 
 import styleClientHome from './client-home.scss';
 
@@ -48,7 +58,8 @@ export function ClientHome(): JSX.Element {
                 <h1>result</h1>
                 <p>{backgroundColor}</p>
                 <p>{backgroundColorAlpha}</p>
-                <div>
+
+                <div dangerouslySetInnerHTML={{__html: rawHtml}}>
 
                 </div>
 
