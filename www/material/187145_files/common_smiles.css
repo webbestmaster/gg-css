@@ -1,0 +1,4591 @@
+.smile.bratok, .smiles.bratok {
+background:url('/images/smiles/bratok.png?tuvney') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.bratok, .smile.bratok-big, .smiles.bratok-big  {
+background:url('/images/smiles/bratok-big.png?tuvney') 0 0 no-repeat;
+width:59px;
+height:36px;
+}.smile.cat, .smiles.cat {
+background:url('/images/smiles/cat.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.cat, .smile.cat-big, .smiles.cat-big  {
+background:url('/images/smiles/cat-big.png?tuvney') 0 0 no-repeat;
+width:39px;
+height:36px;
+}.animated-smiles .smile.cat.animated {
+background:url('/images/anismiles/cat-gif.gif?tuvnei') 0 0 no-repeat;
+width:39px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.cat.animated {
+background:url('/images/smiles/cat-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.cat.animated:hover {
+background:url('/images/anismiles/cat-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.crab, .smiles.crab {
+background:url('/images/smiles/crab.png?tuvney') 0 0 no-repeat;
+width:19px;
+height:18px;
+}
+.big-smiles .smile.crab, .smile.crab-big, .smiles.crab-big  {
+background:url('/images/smiles/crab-big.png?tuvney') 0 0 no-repeat;
+width:38px;
+height:36px;
+}.animated-smiles .smile.crab.animated {
+background:url('/images/anismiles/crab-gif.gif?tuvnei') 0 0 no-repeat;
+width:38px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.crab.animated {
+background:url('/images/smiles/crab-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.crab.animated:hover {
+background:url('/images/anismiles/crab-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.rat, .smiles.rat {
+background:url('/images/smiles/rat.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.rat, .smile.rat-big, .smiles.rat-big  {
+background:url('/images/smiles/rat-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.rat.animated {
+background:url('/images/anismiles/rat-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.rat.animated {
+background:url('/images/smiles/rat-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.rat.animated:hover {
+background:url('/images/anismiles/rat-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.jackie, .smiles.jackie {
+background:url('/images/smiles/jackie.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.jackie, .smile.jackie-big, .smiles.jackie-big  {
+background:url('/images/smiles/jackie-big.png?tuvney') 0 0 no-repeat;
+width:57px;
+height:36px;
+}.smile.fp, .smiles.fp {
+background:url('/images/smiles/fp.png?tuvney') 0 0 no-repeat;
+width:23px;
+height:18px;
+}
+.big-smiles .smile.fp, .smile.fp-big, .smiles.fp-big  {
+background:url('/images/smiles/fp-big.png?tuvney') 0 0 no-repeat;
+width:46px;
+height:36px;
+}.smile.daun, .smiles.daun {
+background:url('/images/smiles/daun.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.daun, .smile.daun-big, .smiles.daun-big  {
+background:url('/images/smiles/daun-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.daun.animated {
+background:url('/images/anismiles/daun-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.daun.animated {
+background:url('/images/smiles/daun-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.daun.animated:hover {
+background:url('/images/anismiles/daun-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.shoked, .smiles.shoked {
+background:url('/images/smiles/shoked.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.shoked, .smile.shoked-big, .smiles.shoked-big  {
+background:url('/images/smiles/shoked-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.shoked.animated {
+background:url('/images/anismiles/shoked-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.shoked.animated {
+background:url('/images/smiles/shoked-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.shoked.animated:hover {
+background:url('/images/anismiles/shoked-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.happyface, .smiles.happyface {
+background:url('/images/smiles/happyface.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.happyface, .smile.happyface-big, .smiles.happyface-big  {
+background:url('/images/smiles/happyface-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.happyface.animated {
+background:url('/images/anismiles/happyface-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.happyface.animated {
+background:url('/images/smiles/happyface-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.happyface.animated:hover {
+background:url('/images/anismiles/happyface-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.cry, .smiles.cry {
+background:url('/images/smiles/cry.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.cry, .smile.cry-big, .smiles.cry-big  {
+background:url('/images/smiles/cry-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.cry.animated {
+background:url('/images/anismiles/cry-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.cry.animated {
+background:url('/images/smiles/cry-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.cry.animated:hover {
+background:url('/images/anismiles/cry-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.dm, .smiles.dm {
+background:url('/images/smiles/dm.png?tuvney') 0 0 no-repeat;
+width:24px;
+height:15px;
+}
+.big-smiles .smile.dm, .smile.dm-big, .smiles.dm-big  {
+background:url('/images/smiles/dm-big.png?tuvney') 0 0 no-repeat;
+width:38px;
+height:24px;
+}.smile.rage, .smiles.rage {
+background:url('/images/smiles/rage.png?tuvney') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.rage, .smile.rage-big, .smiles.rage-big  {
+background:url('/images/smiles/rage-big.png?tuvney') 0 0 no-repeat;
+width:44px;
+height:36px;
+}.animated-smiles .smile.rage.animated {
+background:url('/images/anismiles/rage-gif.gif?tuvnei') 0 0 no-repeat;
+width:44px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.rage.animated {
+background:url('/images/smiles/rage-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.rage.animated:hover {
+background:url('/images/anismiles/rage-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.flame, .smiles.flame {
+background:url('/images/smiles/flame.png?tuvney') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.flame, .smile.flame-big, .smiles.flame-big  {
+background:url('/images/smiles/flame-big.png?tuvney') 0 0 no-repeat;
+width:42px;
+height:36px;
+}.animated-smiles .smile.flame.animated {
+background:url('/images/anismiles/flame-gif.gif?tuvnei') 0 0 no-repeat;
+width:42px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.flame.animated {
+background:url('/images/smiles/flame-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.flame.animated:hover {
+background:url('/images/anismiles/flame-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.muta, .smiles.muta {
+background:url('/images/smiles/muta.png?tuvney') 0 0 no-repeat;
+width:16px;
+height:18px;
+}
+.big-smiles .smile.muta, .smile.muta-big, .smiles.muta-big  {
+background:url('/images/smiles/muta-big.png?tuvney') 0 0 no-repeat;
+width:33px;
+height:36px;
+}.smile.slow, .smiles.slow {
+background:url('/images/smiles/slow.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.slow, .smile.slow-big, .smiles.slow-big  {
+background:url('/images/smiles/slow-big.png?tuvney') 0 0 no-repeat;
+width:55px;
+height:36px;
+}.animated-smiles .smile.slow.animated {
+background:url('/images/anismiles/slow-gif.gif?tuvnei') 0 0 no-repeat;
+width:55px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.slow.animated {
+background:url('/images/smiles/slow-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.slow.animated:hover {
+background:url('/images/anismiles/slow-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.bane, .smiles.bane {
+background:url('/images/smiles/bane.png?tuvney') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.bane, .smile.bane-big, .smiles.bane-big  {
+background:url('/images/smiles/bane-big.png?tuvney') 0 0 no-repeat;
+width:41px;
+height:36px;
+}.smile.grumpy, .smiles.grumpy {
+background:url('/images/smiles/grumpy.png?tuvney') 0 0 no-repeat;
+width:19px;
+height:18px;
+}
+.big-smiles .smile.grumpy, .smile.grumpy-big, .smiles.grumpy-big  {
+background:url('/images/smiles/grumpy-big.png?tuvney') 0 0 no-repeat;
+width:38px;
+height:36px;
+}.smile.zerg, .smiles.zerg {
+background:url('/images/smiles/zerg.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:17px;
+}
+.big-smiles .smile.zerg, .smile.zerg-big, .smiles.zerg-big  {
+background:url('/images/smiles/zerg-big.png?tuvney') 0 0 no-repeat;
+width:41px;
+height:36px;
+}.animated-smiles .smile.zerg.animated {
+background:url('/images/anismiles/zerg-gif.gif?tuvnei') 0 0 no-repeat;
+width:41px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.zerg.animated {
+background:url('/images/smiles/zerg-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.zerg.animated:hover {
+background:url('/images/anismiles/zerg-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.toss, .smiles.toss {
+background:url('/images/smiles/toss.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.toss, .smile.toss-big, .smiles.toss-big  {
+background:url('/images/smiles/toss-big.png?tuvney') 0 0 no-repeat;
+width:54px;
+height:36px;
+}.animated-smiles .smile.toss.animated {
+background:url('/images/anismiles/toss-gif.gif?tuvnei') 0 0 no-repeat;
+width:54px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.toss.animated {
+background:url('/images/smiles/toss-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.toss.animated:hover {
+background:url('/images/anismiles/toss-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.rocket, .smiles.rocket {
+background:url('/images/smiles/rocket.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.rocket, .smile.rocket-big, .smiles.rocket-big  {
+background:url('/images/smiles/rocket-big.png?tuvney') 0 0 no-repeat;
+width:50px;
+height:36px;
+}.animated-smiles .smile.rocket.animated {
+background:url('/images/anismiles/rocket-gif.gif?tuvnei') 0 0 no-repeat;
+width:50px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.rocket.animated {
+background:url('/images/smiles/rocket-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.rocket.animated:hover {
+background:url('/images/anismiles/rocket-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.rail, .smiles.rail {
+background:url('/images/smiles/rail.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.rail, .smile.rail-big, .smiles.rail-big  {
+background:url('/images/smiles/rail-big.png?tuvney') 0 0 no-repeat;
+width:50px;
+height:36px;
+}.animated-smiles .smile.rail.animated {
+background:url('/images/anismiles/rail-gif.gif?tuvnei') 0 0 no-repeat;
+width:50px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.rail.animated {
+background:url('/images/smiles/rail-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.rail.animated:hover {
+background:url('/images/anismiles/rail-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.shaft, .smiles.shaft {
+background:url('/images/smiles/shaft.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.shaft, .smile.shaft-big, .smiles.shaft-big  {
+background:url('/images/smiles/shaft-big.png?tuvney') 0 0 no-repeat;
+width:50px;
+height:36px;
+}.animated-smiles .smile.shaft.animated {
+background:url('/images/anismiles/shaft-gif.gif?tuvnei') 0 0 no-repeat;
+width:50px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.shaft.animated {
+background:url('/images/smiles/shaft-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.shaft.animated:hover {
+background:url('/images/anismiles/shaft-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.moscow, .smiles.moscow {
+background:url('/images/smiles/moscow.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.moscow, .smile.moscow-big, .smiles.moscow-big  {
+background:url('/images/smiles/moscow-big.png?tuvney') 0 0 no-repeat;
+width:55px;
+height:36px;
+}.smile.dendi, .smiles.dendi {
+background:url('/images/smiles/dendi.png?tuvney') 0 0 no-repeat;
+width:14px;
+height:19px;
+}
+.big-smiles .smile.dendi, .smile.dendi-big, .smiles.dendi-big  {
+background:url('/images/smiles/dendi-big.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:36px;
+}.smile.gabe, .smiles.gabe {
+background:url('/images/smiles/gabe.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.gabe, .smile.gabe-big, .smiles.gabe-big  {
+background:url('/images/smiles/gabe-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.gabe.animated {
+background:url('/images/anismiles/gabe-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gabe.animated {
+background:url('/images/smiles/gabe-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gabe.animated:hover {
+background:url('/images/anismiles/gabe-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.chest, .smiles.chest {
+background:url('/images/smiles/chest.png?tuvney') 0 0 no-repeat;
+width:19px;
+height:18px;
+}
+.big-smiles .smile.chest, .smile.chest-big, .smiles.chest-big  {
+background:url('/images/smiles/chest-big.png?tuvney') 0 0 no-repeat;
+width:37px;
+height:36px;
+}.animated-smiles .smile.chest.animated {
+background:url('/images/anismiles/chest-gif.gif?tuvnei') 0 0 no-repeat;
+width:37px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.chest.animated {
+background:url('/images/smiles/chest-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.chest.animated:hover {
+background:url('/images/anismiles/chest-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.fry, .smiles.fry {
+background:url('/images/smiles/fry.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.fry, .smile.fry-big, .smiles.fry-big  {
+background:url('/images/smiles/fry-big.png?tuvney') 0 0 no-repeat;
+width:55px;
+height:36px;
+}.animated-smiles .smile.fry.animated {
+background:url('/images/anismiles/fry-gif.gif?tuvnei') 0 0 no-repeat;
+width:55px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fry.animated {
+background:url('/images/smiles/fry-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fry.animated:hover {
+background:url('/images/anismiles/fry-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.bender, .smiles.bender {
+background:url('/images/smiles/bender.png?tuvney') 0 0 no-repeat;
+width:32px;
+height:18px;
+}
+.big-smiles .smile.bender, .smile.bender-big, .smiles.bender-big  {
+background:url('/images/smiles/bender-big.png?tuvney') 0 0 no-repeat;
+width:63px;
+height:36px;
+}.animated-smiles .smile.bender.animated {
+background:url('/images/anismiles/bender-gif.gif?tuvnei') 0 0 no-repeat;
+width:63px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bender.animated {
+background:url('/images/smiles/bender-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bender.animated:hover {
+background:url('/images/anismiles/bender-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.zzz, .smiles.zzz {
+background:url('/images/smiles/zzz.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.zzz, .smile.zzz-big, .smiles.zzz-big  {
+background:url('/images/smiles/zzz-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.zzz.animated {
+background:url('/images/anismiles/zzz-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.zzz.animated {
+background:url('/images/smiles/zzz-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.zzz.animated:hover {
+background:url('/images/anismiles/zzz-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.sosp, .smiles.sosp {
+background:url('/images/smiles/sosp.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.sosp, .smile.sosp-big, .smiles.sosp-big  {
+background:url('/images/smiles/sosp-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.sosp.animated {
+background:url('/images/anismiles/sosp-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sosp.animated {
+background:url('/images/smiles/sosp-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sosp.animated:hover {
+background:url('/images/anismiles/sosp-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.yazik, .smiles.yazik {
+background:url('/images/smiles/yazik.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.yazik, .smile.yazik-big, .smiles.yazik-big  {
+background:url('/images/smiles/yazik-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.yazik.animated {
+background:url('/images/anismiles/yazik-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.yazik.animated {
+background:url('/images/smiles/yazik-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.yazik.animated:hover {
+background:url('/images/anismiles/yazik-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.sheep, .smiles.sheep {
+background:url('/images/smiles/sheep.png?tuvney') 0 0 no-repeat;
+width:23px;
+height:18px;
+}
+.big-smiles .smile.sheep, .smile.sheep-big, .smiles.sheep-big  {
+background:url('/images/smiles/sheep-big.png?tuvney') 0 0 no-repeat;
+width:45px;
+height:36px;
+}.animated-smiles .smile.sheep.animated {
+background:url('/images/anismiles/sheep-gif.gif?tuvnei') 0 0 no-repeat;
+width:45px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sheep.animated {
+background:url('/images/smiles/sheep-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sheep.animated:hover {
+background:url('/images/anismiles/sheep-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.kiss, .smiles.kiss {
+background:url('/images/smiles/kiss.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.kiss, .smile.kiss-big, .smiles.kiss-big  {
+background:url('/images/smiles/kiss-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.kiss.animated {
+background:url('/images/anismiles/kiss-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.kiss.animated {
+background:url('/images/smiles/kiss-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.kiss.animated:hover {
+background:url('/images/anismiles/kiss-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.dance, .smiles.dance {
+background:url('/images/smiles/dance.png?tuvney') 0 0 no-repeat;
+width:53px;
+height:18px;
+}
+.big-smiles .smile.dance, .smile.dance-big, .smiles.dance-big  {
+background:url('/images/smiles/dance-big.png?tuvney') 0 0 no-repeat;
+width:82px;
+height:28px;
+}.animated-smiles .smile.dance.animated {
+background:url('/images/anismiles/dance-gif.gif?tuvnei') 0 0 no-repeat;
+width:82px;
+height:31px;
+}
+.animated-smiles .smiles-panel .smile.dance.animated {
+background:url('/images/smiles/dance-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.dance.animated:hover {
+background:url('/images/anismiles/dance-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.acordion, .smiles.acordion {
+background:url('/images/smiles/acordion.png?tuvney') 0 0 no-repeat;
+width:32px;
+height:18px;
+}
+.big-smiles .smile.acordion, .smile.acordion-big, .smiles.acordion-big  {
+background:url('/images/smiles/acordion-big.png?tuvney') 0 0 no-repeat;
+width:63px;
+height:36px;
+}.animated-smiles .smile.acordion.animated {
+background:url('/images/anismiles/acordion-gif.gif?tuvnei') 0 0 no-repeat;
+width:63px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.acordion.animated {
+background:url('/images/smiles/acordion-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.acordion.animated:hover {
+background:url('/images/anismiles/acordion-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.whaaat, .smiles.whaaat {
+background:url('/images/smiles/whaaat.png?tuvney') 0 0 no-repeat;
+width:19px;
+height:18px;
+}
+.big-smiles .smile.whaaat, .smile.whaaat-big, .smiles.whaaat-big  {
+background:url('/images/smiles/whaaat-big.png?tuvney') 0 0 no-repeat;
+width:37px;
+height:36px;
+}.smile.bomb, .smiles.bomb {
+background:url('/images/smiles/bomb.png?tuvney') 0 0 no-repeat;
+width:32px;
+height:18px;
+}
+.big-smiles .smile.bomb, .smile.bomb-big, .smiles.bomb-big  {
+background:url('/images/smiles/bomb-big.png?tuvney') 0 0 no-repeat;
+width:63px;
+height:36px;
+}.animated-smiles .smile.bomb.animated {
+background:url('/images/anismiles/bomb-gif.gif?tuvnei') 0 0 no-repeat;
+width:63px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bomb.animated {
+background:url('/images/smiles/bomb-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bomb.animated:hover {
+background:url('/images/anismiles/bomb-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.panic, .smiles.panic {
+background:url('/images/smiles/panic.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.panic, .smile.panic-big, .smiles.panic-big  {
+background:url('/images/smiles/panic-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.panic.animated {
+background:url('/images/anismiles/panic-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.panic.animated {
+background:url('/images/smiles/panic-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.panic.animated:hover {
+background:url('/images/anismiles/panic-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.sic, .smiles.sic {
+background:url('/images/smiles/sic.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.sic, .smile.sic-big, .smiles.sic-big  {
+background:url('/images/smiles/sic-big.png?tuvney') 0 0 no-repeat;
+width:46px;
+height:36px;
+}.animated-smiles .smile.sic.animated {
+background:url('/images/anismiles/sic-gif.gif?tuvnei') 0 0 no-repeat;
+width:46px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sic.animated {
+background:url('/images/smiles/sic-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sic.animated:hover {
+background:url('/images/anismiles/sic-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.karl, .smiles.karl {
+background:url('/images/smiles/karl.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.karl, .smile.karl-big, .smiles.karl-big  {
+background:url('/images/smiles/karl-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.smile.comf, .smiles.comf {
+background:url('/images/smiles/comf.png?tuvney') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.comf, .smile.comf-big, .smiles.comf-big  {
+background:url('/images/smiles/comf-big.png?tuvney') 0 0 no-repeat;
+width:47px;
+height:36px;
+}.animated-smiles .smile.comf.animated {
+background:url('/images/anismiles/comf-gif.gif?tuvnei') 0 0 no-repeat;
+width:47px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.comf.animated {
+background:url('/images/smiles/comf-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.comf.animated:hover {
+background:url('/images/anismiles/comf-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.gamepad1, .smiles.gamepad1 {
+background:url('/images/smiles/gamepad1.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.gamepad1, .smile.gamepad1-big, .smiles.gamepad1-big  {
+background:url('/images/smiles/gamepad1-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.gamepad1.animated {
+background:url('/images/anismiles/gamepad1-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gamepad1.animated {
+background:url('/images/smiles/gamepad1-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gamepad1.animated:hover {
+background:url('/images/anismiles/gamepad1-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.reynor, .smiles.reynor {
+background:url('/images/smiles/reynor.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.reynor, .smile.reynor-big, .smiles.reynor-big  {
+background:url('/images/smiles/reynor-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.reynor.animated {
+background:url('/images/anismiles/reynor-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.reynor.animated {
+background:url('/images/smiles/reynor-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.reynor.animated:hover {
+background:url('/images/anismiles/reynor-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.bessa, .smiles.bessa {
+background:url('/images/smiles/bessa.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.bessa, .smile.bessa-big, .smiles.bessa-big  {
+background:url('/images/smiles/bessa-big.png?tuvney') 0 0 no-repeat;
+width:59px;
+height:36px;
+}.animated-smiles .smile.bessa.animated {
+background:url('/images/anismiles/bessa-gif.gif?tuvnei') 0 0 no-repeat;
+width:59px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bessa.animated {
+background:url('/images/smiles/bessa-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bessa.animated:hover {
+background:url('/images/anismiles/bessa-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.verybad, .smiles.verybad {
+background:url('/images/smiles/verybad.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.verybad, .smile.verybad-big, .smiles.verybad-big  {
+background:url('/images/smiles/verybad-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.verybad.animated {
+background:url('/images/anismiles/verybad-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.verybad.animated {
+background:url('/images/smiles/verybad-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.verybad.animated:hover {
+background:url('/images/anismiles/verybad-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.gamepad2, .smiles.gamepad2 {
+background:url('/images/smiles/gamepad2.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.gamepad2, .smile.gamepad2-big, .smiles.gamepad2-big  {
+background:url('/images/smiles/gamepad2-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.gamepad2.animated {
+background:url('/images/anismiles/gamepad2-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gamepad2.animated {
+background:url('/images/smiles/gamepad2-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gamepad2.animated:hover {
+background:url('/images/anismiles/gamepad2-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.smilegasm, .smiles.smilegasm {
+background:url('/images/smiles/smilegasm.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.smilegasm, .smile.smilegasm-big, .smiles.smilegasm-big  {
+background:url('/images/smiles/smilegasm-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.smilegasm.animated {
+background:url('/images/anismiles/smilegasm-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.smilegasm.animated {
+background:url('/images/smiles/smilegasm-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.smilegasm.animated:hover {
+background:url('/images/anismiles/smilegasm-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.goodnews, .smiles.goodnews {
+background:url('/images/smiles/goodnews.png?tuvney') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.goodnews, .smile.goodnews-big, .smiles.goodnews-big  {
+background:url('/images/smiles/goodnews-big.png?tuvney') 0 0 no-repeat;
+width:41px;
+height:36px;
+}.animated-smiles .smile.goodnews.animated {
+background:url('/images/anismiles/goodnews-gif.gif?tuvnei') 0 0 no-repeat;
+width:41px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.goodnews.animated {
+background:url('/images/smiles/goodnews-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.goodnews.animated:hover {
+background:url('/images/anismiles/goodnews-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.fireext, .smiles.fireext {
+background:url('/images/smiles/fireext.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.fireext, .smile.fireext-big, .smiles.fireext-big  {
+background:url('/images/smiles/fireext-big.png?tuvney') 0 0 no-repeat;
+width:54px;
+height:36px;
+}.animated-smiles .smile.fireext.animated {
+background:url('/images/anismiles/fireext-gif.gif?tuvnei') 0 0 no-repeat;
+width:54px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fireext.animated {
+background:url('/images/smiles/fireext-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fireext.animated:hover {
+background:url('/images/anismiles/fireext-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.geek, .smiles.geek {
+background:url('/images/smiles/geek.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.geek, .smile.geek-big, .smiles.geek-big  {
+background:url('/images/smiles/geek-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.geek.animated {
+background:url('/images/anismiles/geek-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.geek.animated {
+background:url('/images/smiles/geek-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.geek.animated:hover {
+background:url('/images/anismiles/geek-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.homer, .smiles.homer {
+background:url('/images/smiles/homer.png?tuvney') 0 0 no-repeat;
+width:15px;
+height:18px;
+}
+.big-smiles .smile.homer, .smile.homer-big, .smiles.homer-big  {
+background:url('/images/smiles/homer-big.png?tuvney') 0 0 no-repeat;
+width:29px;
+height:36px;
+}.animated-smiles .smile.homer.animated {
+background:url('/images/anismiles/homer-gif.gif?tuvnei') 0 0 no-repeat;
+width:29px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.homer.animated {
+background:url('/images/smiles/homer-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.homer.animated:hover {
+background:url('/images/anismiles/homer-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.respect, .smiles.respect {
+background:url('/images/smiles/respect.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.respect, .smile.respect-big, .smiles.respect-big  {
+background:url('/images/smiles/respect-big.png?tuvney') 0 0 no-repeat;
+width:50px;
+height:36px;
+}.animated-smiles .smile.respect.animated {
+background:url('/images/anismiles/respect-gif.gif?tuvnei') 0 0 no-repeat;
+width:50px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.respect.animated {
+background:url('/images/smiles/respect-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.respect.animated:hover {
+background:url('/images/anismiles/respect-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.boring, .smiles.boring {
+background:url('/images/smiles/boring.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.boring, .smile.boring-big, .smiles.boring-big  {
+background:url('/images/smiles/boring-big.png?tuvney') 0 0 no-repeat;
+width:39px;
+height:36px;
+}.animated-smiles .smile.boring.animated {
+background:url('/images/anismiles/boring-gif.gif?tuvnei') 0 0 no-repeat;
+width:39px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.boring.animated {
+background:url('/images/smiles/boring-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.boring.animated:hover {
+background:url('/images/anismiles/boring-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.joker, .smiles.joker {
+background:url('/images/smiles/joker.png?tuvney') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.joker, .smile.joker-big, .smiles.joker-big  {
+background:url('/images/smiles/joker-big.png?tuvney') 0 0 no-repeat;
+width:41px;
+height:36px;
+}.animated-smiles .smile.joker.animated {
+background:url('/images/anismiles/joker-gif.gif?tuvnei') 0 0 no-repeat;
+width:41px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.joker.animated {
+background:url('/images/smiles/joker-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.joker.animated:hover {
+background:url('/images/anismiles/joker-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.heal, .smiles.heal {
+background:url('/images/smiles/heal.png?tuvney') 0 0 no-repeat;
+width:31px;
+height:18px;
+}
+.big-smiles .smile.heal, .smile.heal-big, .smiles.heal-big  {
+background:url('/images/smiles/heal-big.png?tuvney') 0 0 no-repeat;
+width:62px;
+height:36px;
+}.animated-smiles .smile.heal.animated {
+background:url('/images/anismiles/heal-gif.gif?tuvnei') 0 0 no-repeat;
+width:62px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.heal.animated {
+background:url('/images/smiles/heal-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.heal.animated:hover {
+background:url('/images/anismiles/heal-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.evil, .smiles.evil {
+background:url('/images/smiles/evil.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.evil, .smile.evil-big, .smiles.evil-big  {
+background:url('/images/smiles/evil-big.png?tuvney') 0 0 no-repeat;
+width:59px;
+height:36px;
+}.animated-smiles .smile.evil.animated {
+background:url('/images/anismiles/evil-gif.gif?tuvnei') 0 0 no-repeat;
+width:59px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.evil.animated {
+background:url('/images/smiles/evil-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.evil.animated:hover {
+background:url('/images/anismiles/evil-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.exorcism, .smiles.exorcism {
+background:url('/images/smiles/exorcism.png?tuvney') 0 0 no-repeat;
+width:38px;
+height:18px;
+}
+.big-smiles .smile.exorcism, .smile.exorcism-big, .smiles.exorcism-big  {
+background:url('/images/smiles/exorcism-big.png?tuvney') 0 0 no-repeat;
+width:75px;
+height:36px;
+}.animated-smiles .smile.exorcism.animated {
+background:url('/images/anismiles/exorcism-gif.gif?tuvnei') 0 0 no-repeat;
+width:75px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.exorcism.animated {
+background:url('/images/smiles/exorcism-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.exorcism.animated:hover {
+background:url('/images/anismiles/exorcism-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.sound, .smiles.sound {
+background:url('/images/smiles/sound.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.sound, .smile.sound-big, .smiles.sound-big  {
+background:url('/images/smiles/sound-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.sound.animated {
+background:url('/images/anismiles/sound-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sound.animated {
+background:url('/images/smiles/sound-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sound.animated:hover {
+background:url('/images/anismiles/sound-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.brofist, .smiles.brofist {
+background:url('/images/smiles/brofist.png?tuvney') 0 0 no-repeat;
+width:38px;
+height:18px;
+}
+.big-smiles .smile.brofist, .smile.brofist-big, .smiles.brofist-big  {
+background:url('/images/smiles/brofist-big.png?tuvney') 0 0 no-repeat;
+width:75px;
+height:36px;
+}.animated-smiles .smile.brofist.animated {
+background:url('/images/anismiles/brofist-gif.gif?tuvnei') 0 0 no-repeat;
+width:75px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.brofist.animated {
+background:url('/images/smiles/brofist-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.brofist.animated:hover {
+background:url('/images/anismiles/brofist-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.charisma, .smiles.charisma {
+background:url('/images/smiles/charisma.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.charisma, .smile.charisma-big, .smiles.charisma-big  {
+background:url('/images/smiles/charisma-big.png?tuvney') 0 0 no-repeat;
+width:53px;
+height:36px;
+}.animated-smiles .smile.charisma.animated {
+background:url('/images/anismiles/charisma-gif.gif?tuvnei') 0 0 no-repeat;
+width:53px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.charisma.animated {
+background:url('/images/smiles/charisma-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.charisma.animated:hover {
+background:url('/images/anismiles/charisma-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.delorian, .smiles.delorian {
+background:url('/images/smiles/delorian.png?tuvney') 0 0 no-repeat;
+width:34px;
+height:18px;
+}
+.big-smiles .smile.delorian, .smile.delorian-big, .smiles.delorian-big  {
+background:url('/images/smiles/delorian-big.png?tuvney') 0 0 no-repeat;
+width:67px;
+height:36px;
+}.animated-smiles .smile.delorian.animated {
+background:url('/images/anismiles/delorian-gif.gif?tuvnei') 0 0 no-repeat;
+width:67px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.delorian.animated {
+background:url('/images/smiles/delorian-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.delorian.animated:hover {
+background:url('/images/anismiles/delorian-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.darthbobr, .smiles.darthbobr {
+background:url('/images/smiles/darthbobr.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.darthbobr, .smile.darthbobr-big, .smiles.darthbobr-big  {
+background:url('/images/smiles/darthbobr-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.darthbobr.animated {
+background:url('/images/anismiles/darthbobr-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.darthbobr.animated {
+background:url('/images/smiles/darthbobr-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.darthbobr.animated:hover {
+background:url('/images/anismiles/darthbobr-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.nichobobr, .smiles.nichobobr {
+background:url('/images/smiles/nichobobr.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.nichobobr, .smile.nichobobr-big, .smiles.nichobobr-big  {
+background:url('/images/smiles/nichobobr-big.png?tuvney') 0 0 no-repeat;
+width:46px;
+height:36px;
+}.animated-smiles .smile.nichobobr.animated {
+background:url('/images/anismiles/nichobobr-gif.gif?tuvnei') 0 0 no-repeat;
+width:46px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.nichobobr.animated {
+background:url('/images/smiles/nichobobr-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.nichobobr.animated:hover {
+background:url('/images/anismiles/nichobobr-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.kran, .smiles.kran {
+background:url('/images/smiles/kran.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.kran, .smile.kran-big, .smiles.kran-big  {
+background:url('/images/smiles/kran-big.png?tuvney') 0 0 no-repeat;
+width:53px;
+height:36px;
+}.animated-smiles .smile.kran.animated {
+background:url('/images/anismiles/kran-gif.gif?tuvnei') 0 0 no-repeat;
+width:53px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.kran.animated {
+background:url('/images/smiles/kran-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.kran.animated:hover {
+background:url('/images/anismiles/kran-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.dno, .smiles.dno {
+background:url('/images/smiles/dno.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.dno, .smile.dno-big, .smiles.dno-big  {
+background:url('/images/smiles/dno-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.dno.animated {
+background:url('/images/anismiles/dno-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.dno.animated {
+background:url('/images/smiles/dno-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.dno.animated:hover {
+background:url('/images/anismiles/dno-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.bobrpirat, .smiles.bobrpirat {
+background:url('/images/smiles/bobrpirat.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.bobrpirat, .smile.bobrpirat-big, .smiles.bobrpirat-big  {
+background:url('/images/smiles/bobrpirat-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.bobrpirat.animated {
+background:url('/images/anismiles/bobrpirat-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bobrpirat.animated {
+background:url('/images/smiles/bobrpirat-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bobrpirat.animated:hover {
+background:url('/images/anismiles/bobrpirat-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.valla, .smiles.valla {
+background:url('/images/smiles/valla.png?tuvney') 0 0 no-repeat;
+width:38px;
+height:18px;
+}
+.big-smiles .smile.valla, .smile.valla-big, .smiles.valla-big  {
+background:url('/images/smiles/valla-big.png?tuvney') 0 0 no-repeat;
+width:75px;
+height:36px;
+}.animated-smiles .smile.valla.animated {
+background:url('/images/anismiles/valla-gif.gif?tuvnei') 0 0 no-repeat;
+width:75px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.valla.animated {
+background:url('/images/smiles/valla-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.valla.animated:hover {
+background:url('/images/anismiles/valla-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.peka, .smiles.peka {
+background:url('/images/smiles/peka.png?v9is2f') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.peka, .smile.peka-big, .smiles.peka-big  {
+background:url('/images/smiles/peka-big.png?v9is2g') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.smile.scarypeka, .smiles.scarypeka {
+background:url('/images/smiles/scarypeka.png?v9is2u') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.scarypeka, .smile.scarypeka-big, .smiles.scarypeka-big  {
+background:url('/images/smiles/scarypeka-big.png?v9is2u') 0 0 no-repeat;
+width:41px;
+height:36px;
+}.smile.thup, .smiles.thup {
+background:url('/images/smiles/thup.png?tuvney') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.thup, .smile.thup-big, .smiles.thup-big  {
+background:url('/images/smiles/thup-big.png?tuvney') 0 0 no-repeat;
+width:57px;
+height:36px;
+}.animated-smiles .smile.thup.animated {
+background:url('/images/anismiles/thup-gif.gif?tuvnei') 0 0 no-repeat;
+width:57px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.thup.animated {
+background:url('/images/smiles/thup-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.thup.animated:hover {
+background:url('/images/anismiles/thup-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.racer, .smiles.racer {
+background:url('/images/smiles/racer.png?tuvney') 0 0 no-repeat;
+width:37px;
+height:18px;
+}
+.big-smiles .smile.racer, .smile.racer-big, .smiles.racer-big  {
+background:url('/images/smiles/racer-big.png?tuvney') 0 0 no-repeat;
+width:73px;
+height:36px;
+}.animated-smiles .smile.racer.animated {
+background:url('/images/anismiles/racer-gif.gif?tuvnei') 0 0 no-repeat;
+width:73px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.racer.animated {
+background:url('/images/smiles/racer-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.racer.animated:hover {
+background:url('/images/anismiles/racer-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.pekaclap, .smiles.pekaclap {
+background:url('/images/smiles/pekaclap.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.pekaclap, .smile.pekaclap-big, .smiles.pekaclap-big  {
+background:url('/images/smiles/pekaclap-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.pekaclap.animated {
+background:url('/images/anismiles/pekaclap-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pekaclap.animated {
+background:url('/images/smiles/pekaclap-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pekaclap.animated:hover {
+background:url('/images/anismiles/pekaclap-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.muton, .smiles.muton {
+background:url('/images/smiles/muton.png?tuvney') 0 0 no-repeat;
+width:50px;
+height:18px;
+}
+.big-smiles .smile.muton, .smile.muton-big, .smiles.muton-big  {
+background:url('/images/smiles/muton-big.png?tuvney') 0 0 no-repeat;
+width:100px;
+height:36px;
+}.animated-smiles .smile.muton.animated {
+background:url('/images/anismiles/muton-gif.gif?tuvnei') 0 0 no-repeat;
+width:100px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.muton.animated {
+background:url('/images/smiles/muton-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.muton.animated:hover {
+background:url('/images/anismiles/muton-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.badass, .smiles.badass {
+background:url('/images/smiles/badass.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.badass, .smile.badass-big, .smiles.badass-big  {
+background:url('/images/smiles/badass-big.png?tuvney') 0 0 no-repeat;
+width:53px;
+height:36px;
+}.animated-smiles .smile.badass.animated {
+background:url('/images/anismiles/badass-gif.gif?tuvnei') 0 0 no-repeat;
+width:53px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.badass.animated {
+background:url('/images/smiles/badass-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.badass.animated:hover {
+background:url('/images/anismiles/badass-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.omg, .smiles.omg {
+background:url('/images/smiles/omg.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.omg, .smile.omg-big, .smiles.omg-big  {
+background:url('/images/smiles/omg-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.omg.animated {
+background:url('/images/anismiles/omg-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.omg.animated {
+background:url('/images/smiles/omg-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.omg.animated:hover {
+background:url('/images/anismiles/omg-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.rofl, .smiles.rofl {
+background:url('/images/smiles/rofl.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.rofl, .smile.rofl-big, .smiles.rofl-big  {
+background:url('/images/smiles/rofl-big.png?tuvney') 0 0 no-repeat;
+width:38px;
+height:36px;
+}.animated-smiles .smile.rofl.animated {
+background:url('/images/anismiles/rofl-gif.gif?tuvnei') 0 0 no-repeat;
+width:38px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.rofl.animated {
+background:url('/images/smiles/rofl-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.rofl.animated:hover {
+background:url('/images/anismiles/rofl-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.fight, .smiles.fight {
+background:url('/images/smiles/fight.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.fight, .smile.fight-big, .smiles.fight-big  {
+background:url('/images/smiles/fight-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.fight.animated {
+background:url('/images/anismiles/fight-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fight.animated {
+background:url('/images/smiles/fight-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fight.animated:hover {
+background:url('/images/anismiles/fight-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.rsp, .smiles.rsp {
+background:url('/images/smiles/rsp.png?tuvney') 0 0 no-repeat;
+width:28px;
+height:18px;
+}
+.big-smiles .smile.rsp, .smile.rsp-big, .smiles.rsp-big  {
+background:url('/images/smiles/rsp-big.png?tuvney') 0 0 no-repeat;
+width:55px;
+height:36px;
+}.animated-smiles .smile.rsp.animated {
+background:url('/images/anismiles/rsp-gif.gif?tuvnei') 0 0 no-repeat;
+width:55px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.rsp.animated {
+background:url('/images/smiles/rsp-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.rsp.animated:hover {
+background:url('/images/anismiles/rsp-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.whocares, .smiles.whocares {
+background:url('/images/smiles/whocares.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.whocares, .smile.whocares-big, .smiles.whocares-big  {
+background:url('/images/smiles/whocares-big.png?tuvney') 0 0 no-repeat;
+width:59px;
+height:36px;
+}.animated-smiles .smile.whocares.animated {
+background:url('/images/anismiles/whocares-gif.gif?tuvnei') 0 0 no-repeat;
+width:59px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.whocares.animated {
+background:url('/images/smiles/whocares-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.whocares.animated:hover {
+background:url('/images/anismiles/whocares-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.marik, .smiles.marik {
+background:url('/images/smiles/marik.png?tuvney') 0 0 no-repeat;
+width:22px;
+height:18px;
+}
+.big-smiles .smile.marik, .smile.marik-big, .smiles.marik-big  {
+background:url('/images/smiles/marik-big.png?tuvney') 0 0 no-repeat;
+width:44px;
+height:36px;
+}.animated-smiles .smile.marik.animated {
+background:url('/images/anismiles/marik-gif.gif?tuvnei') 0 0 no-repeat;
+width:44px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.marik.animated {
+background:url('/images/smiles/marik-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.marik.animated:hover {
+background:url('/images/anismiles/marik-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.drake, .smiles.drake {
+background:url('/images/smiles/drake.png?tuvney') 0 0 no-repeat;
+width:13px;
+height:18px;
+}
+.big-smiles .smile.drake, .smile.drake-big, .smiles.drake-big  {
+background:url('/images/smiles/drake-big.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:36px;
+}.smile.gravitypeka, .smiles.gravitypeka {
+background:url('/images/smiles/gravitypeka.png?tuvney') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.gravitypeka, .smile.gravitypeka-big, .smiles.gravitypeka-big  {
+background:url('/images/smiles/gravitypeka-big.png?tuvney') 0 0 no-repeat;
+width:41px;
+height:36px;
+}.animated-smiles .smile.gravitypeka.animated {
+background:url('/images/anismiles/gravitypeka-gif.gif?tuvnei') 0 0 no-repeat;
+width:41px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gravitypeka.animated {
+background:url('/images/smiles/gravitypeka-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gravitypeka.animated:hover {
+background:url('/images/anismiles/gravitypeka-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.poo, .smiles.poo {
+background:url('/images/smiles/poo.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.poo, .smile.poo-big, .smiles.poo-big  {
+background:url('/images/smiles/poo-big.png?tuvney') 0 0 no-repeat;
+width:35px;
+height:36px;
+}.animated-smiles .smile.poo.animated {
+background:url('/images/anismiles/poo-gif.gif?tuvnei') 0 0 no-repeat;
+width:35px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.poo.animated {
+background:url('/images/smiles/poo-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.poo.animated:hover {
+background:url('/images/anismiles/poo-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.divan, .smiles.divan {
+background:url('/images/smiles/divan.png?tuvney') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.divan, .smile.divan-big, .smiles.divan-big  {
+background:url('/images/smiles/divan-big.png?tuvney') 0 0 no-repeat;
+width:47px;
+height:36px;
+}.smile.roach, .smiles.roach {
+background:url('/images/smiles/roach.png?tuvney') 0 0 no-repeat;
+width:23px;
+height:18px;
+}
+.big-smiles .smile.roach, .smile.roach-big, .smiles.roach-big  {
+background:url('/images/smiles/roach-big.png?tuvney') 0 0 no-repeat;
+width:45px;
+height:36px;
+}.smile.hello, .smiles.hello {
+background:url('/images/smiles/hello.png?tuvney') 0 0 no-repeat;
+width:16px;
+height:18px;
+}
+.big-smiles .smile.hello, .smile.hello-big, .smiles.hello-big  {
+background:url('/images/smiles/hello-big.png?tuvney') 0 0 no-repeat;
+width:31px;
+height:36px;
+}.smile.gg, .smiles.gg {
+background:url('/images/smiles/gg.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.gg, .smile.gg-big, .smiles.gg-big  {
+background:url('/images/smiles/gg-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.gg.animated {
+background:url('/images/anismiles/gg-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gg.animated {
+background:url('/images/smiles/gg-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gg.animated:hover {
+background:url('/images/anismiles/gg-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.bodyb, .smiles.bodyb {
+background:url('/images/smiles/F1bonacc1/bodyb.png?tuvnf0') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.bodyb, .smile.bodyb-big, .smiles.bodyb-big  {
+background:url('/images/smiles/F1bonacc1/bodyb-big.png?tuvnf0') 0 0 no-repeat;
+width:60px;
+height:36px;
+}.animated-smiles .smile.bodyb.animated {
+background:url('/images/smiles/F1bonacc1/bodyb-gif.gif?tuvnf0') 0 0 no-repeat;
+width:60px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bodyb.animated {
+background:url('/images/smiles/F1bonacc1/bodyb-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bodyb.animated:hover {
+background:url('/images/smiles/F1bonacc1/bodyb-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.dicaprio, .smiles.dicaprio {
+background:url('/images/smiles/F1bonacc1/dicaprio.png?tuvnf0') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.dicaprio, .smile.dicaprio-big, .smiles.dicaprio-big  {
+background:url('/images/smiles/F1bonacc1/dicaprio-big.png?tuvnf0') 0 0 no-repeat;
+width:54px;
+height:36px;
+}.animated-smiles .smile.dicaprio.animated {
+background:url('/images/smiles/F1bonacc1/dicaprio-gif.gif?tuvnf0') 0 0 no-repeat;
+width:54px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.dicaprio.animated {
+background:url('/images/smiles/F1bonacc1/dicaprio-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.dicaprio.animated:hover {
+background:url('/images/smiles/F1bonacc1/dicaprio-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.canon, .smiles.canon {
+background:url('/images/smiles/F1bonacc1/canon.png?tuvnf0') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.canon, .smile.canon-big, .smiles.canon-big  {
+background:url('/images/smiles/F1bonacc1/canon-big.png?tuvnf0') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.canon.animated {
+background:url('/images/smiles/F1bonacc1/canon-gif.gif?tuvnf0') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.canon.animated {
+background:url('/images/smiles/F1bonacc1/canon-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.canon.animated:hover {
+background:url('/images/smiles/F1bonacc1/canon-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.flamer, .smiles.flamer {
+background:url('/images/smiles/F1bonacc1/flamer.png?tuvnf0') 0 0 no-repeat;
+width:50px;
+height:18px;
+}
+.big-smiles .smile.flamer, .smile.flamer-big, .smiles.flamer-big  {
+background:url('/images/smiles/F1bonacc1/flamer-big.png?tuvnf0') 0 0 no-repeat;
+width:100px;
+height:36px;
+}.animated-smiles .smile.flamer.animated {
+background:url('/images/smiles/F1bonacc1/flamer-gif.gif?tuvnf0') 0 0 no-repeat;
+width:100px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.flamer.animated {
+background:url('/images/smiles/F1bonacc1/flamer-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.flamer.animated:hover {
+background:url('/images/smiles/F1bonacc1/flamer-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.slug, .smiles.slug {
+background:url('/images/smiles/F1bonacc1/slug.png?tuvnf0') 0 0 no-repeat;
+width:17px;
+height:18px;
+}
+.big-smiles .smile.slug, .smile.slug-big, .smiles.slug-big  {
+background:url('/images/smiles/F1bonacc1/slug-big.png?tuvnf0') 0 0 no-repeat;
+width:34px;
+height:36px;
+}.animated-smiles .smile.slug.animated {
+background:url('/images/smiles/F1bonacc1/slug-gif.gif?tuvnf0') 0 0 no-repeat;
+width:34px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.slug.animated {
+background:url('/images/smiles/F1bonacc1/slug-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.slug.animated:hover {
+background:url('/images/smiles/F1bonacc1/slug-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.homerdonut, .smiles.homerdonut {
+background:url('/images/smiles/F1bonacc1/homerdonut.png?tuvnf0') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.homerdonut, .smile.homerdonut-big, .smiles.homerdonut-big  {
+background:url('/images/smiles/F1bonacc1/homerdonut-big.png?tuvnf0') 0 0 no-repeat;
+width:51px;
+height:36px;
+}.animated-smiles .smile.homerdonut.animated {
+background:url('/images/smiles/F1bonacc1/homerdonut-gif.gif?tuvnf0') 0 0 no-repeat;
+width:51px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.homerdonut.animated {
+background:url('/images/smiles/F1bonacc1/homerdonut-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.homerdonut.animated:hover {
+background:url('/images/smiles/F1bonacc1/homerdonut-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.sospfry, .smiles.sospfry {
+background:url('/images/smiles/F1bonacc1/sospfry.png?tuvnf0') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.sospfry, .smile.sospfry-big, .smiles.sospfry-big  {
+background:url('/images/smiles/F1bonacc1/sospfry-big.png?tuvnf0') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.smile.wonder, .smiles.wonder {
+background:url('/images/smiles/F1bonacc1/wonder.png?tuvnf0') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.wonder, .smile.wonder-big, .smiles.wonder-big  {
+background:url('/images/smiles/F1bonacc1/wonder-big.png?tuvnf0') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.wonder.animated {
+background:url('/images/smiles/F1bonacc1/wonder-gif.gif?tuvnf0') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.wonder.animated {
+background:url('/images/smiles/F1bonacc1/wonder-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.wonder.animated:hover {
+background:url('/images/smiles/F1bonacc1/wonder-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.vanga, .smiles.vanga {
+background:url('/images/smiles/F1bonacc1/vanga.png?tuvnf0') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.vanga, .smile.vanga-big, .smiles.vanga-big  {
+background:url('/images/smiles/F1bonacc1/vanga-big.png?tuvnf0') 0 0 no-repeat;
+width:50px;
+height:36px;
+}.animated-smiles .smile.vanga.animated {
+background:url('/images/smiles/F1bonacc1/vanga-gif.gif?tuvnf0') 0 0 no-repeat;
+width:50px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.vanga.animated {
+background:url('/images/smiles/F1bonacc1/vanga-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.vanga.animated:hover {
+background:url('/images/smiles/F1bonacc1/vanga-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.runaway, .smiles.runaway {
+background:url('/images/smiles/F1bonacc1/runaway.png?tuvnf0') 0 0 no-repeat;
+width:28px;
+height:18px;
+}
+.big-smiles .smile.runaway, .smile.runaway-big, .smiles.runaway-big  {
+background:url('/images/smiles/F1bonacc1/runaway-big.png?tuvnf0') 0 0 no-repeat;
+width:57px;
+height:36px;
+}.animated-smiles .smile.runaway.animated {
+background:url('/images/smiles/F1bonacc1/runaway-gif.gif?tuvnf0') 0 0 no-repeat;
+width:57px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.runaway.animated {
+background:url('/images/smiles/F1bonacc1/runaway-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.runaway.animated:hover {
+background:url('/images/smiles/F1bonacc1/runaway-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.tactics, .smiles.tactics {
+background:url('/images/smiles/F1bonacc1/tactics.png?tuvnf0') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.tactics, .smile.tactics-big, .smiles.tactics-big  {
+background:url('/images/smiles/F1bonacc1/tactics-big.png?tuvnf0') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.tactics.animated {
+background:url('/images/smiles/F1bonacc1/tactics-gif.gif?tuvnf0') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.tactics.animated {
+background:url('/images/smiles/F1bonacc1/tactics-big.png?tuvnf0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.tactics.animated:hover {
+background:url('/images/smiles/F1bonacc1/tactics-gif.gif?tuvnf0') 0 0 no-repeat;
+}.smile.ghost, .smiles.ghost {
+background:url('/images/smiles/ghost.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.ghost, .smile.ghost-big, .smiles.ghost-big  {
+background:url('/images/smiles/ghost-big.png?tuvney') 0 0 no-repeat;
+width:40px;
+height:36px;
+}.animated-smiles .smile.ghost.animated {
+background:url('/images/anismiles/ghost-gif.gif?tuvnei') 0 0 no-repeat;
+width:40px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.ghost.animated {
+background:url('/images/smiles/ghost-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.ghost.animated:hover {
+background:url('/images/anismiles/ghost-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.pumpkin, .smiles.pumpkin {
+background:url('/images/smiles/pumpkin.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.pumpkin, .smile.pumpkin-big, .smiles.pumpkin-big  {
+background:url('/images/smiles/pumpkin-big.png?tuvney') 0 0 no-repeat;
+width:49px;
+height:36px;
+}.animated-smiles .smile.pumpkin.animated {
+background:url('/images/anismiles/pumpkin-gif.gif?tuvnei') 0 0 no-repeat;
+width:49px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pumpkin.animated {
+background:url('/images/smiles/pumpkin-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pumpkin.animated:hover {
+background:url('/images/anismiles/pumpkin-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.plane, .smiles.plane {
+background:url('/images/smiles/plane.png?tuvney') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.plane, .smile.plane-big, .smiles.plane-big  {
+background:url('/images/smiles/plane-big.png?tuvney') 0 0 no-repeat;
+width:48px;
+height:36px;
+}.smile.axe, .smiles.axe {
+background:url('/images/smiles/axe.png?tuvney') 0 0 no-repeat;
+width:35px;
+height:18px;
+}
+.big-smiles .smile.axe, .smile.axe-big, .smiles.axe-big  {
+background:url('/images/smiles/axe-big.png?tuvney') 0 0 no-repeat;
+width:60px;
+height:36px;
+}.smile.tire, .smiles.tire {
+background:url('/images/smiles/tire.png?tuvney') 0 0 no-repeat;
+width:28px;
+height:18px;
+}
+.big-smiles .smile.tire, .smile.tire-big, .smiles.tire-big  {
+background:url('/images/smiles/tire-big.png?tuvney') 0 0 no-repeat;
+width:56px;
+height:36px;
+}.animated-smiles .smile.tire.animated {
+background:url('/images/anismiles/tire-gif.gif?tuvnei') 0 0 no-repeat;
+width:56px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.tire.animated {
+background:url('/images/smiles/tire-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.tire.animated:hover {
+background:url('/images/anismiles/tire-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.insanepeka, .smiles.insanepeka {
+background:url('/images/smiles/insanepeka.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.insanepeka, .smile.insanepeka-big, .smiles.insanepeka-big  {
+background:url('/images/smiles/insanepeka-big.png?tuvney') 0 0 no-repeat;
+width:39px;
+height:36px;
+}.smile.awesome, .smiles.awesome {
+background:url('/images/smiles/awesome.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.awesome, .smile.awesome-big, .smiles.awesome-big  {
+background:url('/images/smiles/awesome-big.png?tuvney') 0 0 no-repeat;
+width:53px;
+height:36px;
+}.animated-smiles .smile.awesome.animated {
+background:url('/images/anismiles/awesome-gif.gif?tuvnei') 0 0 no-repeat;
+width:53px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.awesome.animated {
+background:url('/images/smiles/awesome-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.awesome.animated:hover {
+background:url('/images/anismiles/awesome-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.buff, .smiles.buff {
+background:url('/images/smiles/buff.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.buff, .smile.buff-big, .smiles.buff-big  {
+background:url('/images/smiles/buff-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.buff.animated {
+background:url('/images/anismiles/buff-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.buff.animated {
+background:url('/images/smiles/buff-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.buff.animated:hover {
+background:url('/images/anismiles/buff-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.charge, .smiles.charge {
+background:url('/images/smiles/charge.png?tuvney') 0 0 no-repeat;
+width:28px;
+height:18px;
+}
+.big-smiles .smile.charge, .smile.charge-big, .smiles.charge-big  {
+background:url('/images/smiles/charge-big.png?tuvney') 0 0 no-repeat;
+width:56px;
+height:36px;
+}.animated-smiles .smile.charge.animated {
+background:url('/images/anismiles/charge-gif.gif?tuvnei') 0 0 no-repeat;
+width:56px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.charge.animated {
+background:url('/images/smiles/charge-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.charge.animated:hover {
+background:url('/images/anismiles/charge-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.snow, .smiles.snow {
+background:url('/images/smiles/snow.png?tuvney') 0 0 no-repeat;
+width:32px;
+height:18px;
+}
+.big-smiles .smile.snow, .smile.snow-big, .smiles.snow-big  {
+background:url('/images/smiles/snow-big.png?tuvney') 0 0 no-repeat;
+width:64px;
+height:36px;
+}.animated-smiles .smile.snow.animated {
+background:url('/images/anismiles/snow-gif.gif?tuvnei') 0 0 no-repeat;
+width:64px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.snow.animated {
+background:url('/images/smiles/snow-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.snow.animated:hover {
+background:url('/images/anismiles/snow-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.taunt, .smiles.taunt {
+background:url('/images/smiles/taunt.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.taunt, .smile.taunt-big, .smiles.taunt-big  {
+background:url('/images/smiles/taunt-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.taunt.animated {
+background:url('/images/anismiles/taunt-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.taunt.animated {
+background:url('/images/smiles/taunt-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.taunt.animated:hover {
+background:url('/images/anismiles/taunt-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.sad, .smiles.sad {
+background:url('/images/smiles/sad.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.sad, .smile.sad-big, .smiles.sad-big  {
+background:url('/images/smiles/sad-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.sad.animated {
+background:url('/images/anismiles/sad-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sad.animated {
+background:url('/images/smiles/sad-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sad.animated:hover {
+background:url('/images/anismiles/sad-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.huh, .smiles.huh {
+background:url('/images/smiles/huh.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.huh, .smile.huh-big, .smiles.huh-big  {
+background:url('/images/smiles/huh-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.huh.animated {
+background:url('/images/anismiles/huh-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.huh.animated {
+background:url('/images/smiles/huh-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.huh.animated:hover {
+background:url('/images/anismiles/huh-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.wink, .smiles.wink {
+background:url('/images/smiles/wink.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.wink, .smile.wink-big, .smiles.wink-big  {
+background:url('/images/smiles/wink-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.wink.animated {
+background:url('/images/anismiles/wink-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.wink.animated {
+background:url('/images/smiles/wink-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.wink.animated:hover {
+background:url('/images/anismiles/wink-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.toohot, .smiles.toohot {
+background:url('/images/smiles/toohot.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.toohot, .smile.toohot-big, .smiles.toohot-big  {
+background:url('/images/smiles/toohot-big.png?tuvney') 0 0 no-repeat;
+width:49px;
+height:36px;
+}.animated-smiles .smile.toohot.animated {
+background:url('/images/anismiles/toohot-gif.gif?tuvnei') 0 0 no-repeat;
+width:48px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.toohot.animated {
+background:url('/images/smiles/toohot-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.toohot.animated:hover {
+background:url('/images/anismiles/toohot-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.megafon, .smiles.megafon {
+background:url('/images/smiles/megafon.png?tuvney') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.megafon, .smile.megafon-big, .smiles.megafon-big  {
+background:url('/images/smiles/megafon-big.png?tuvney') 0 0 no-repeat;
+width:58px;
+height:36px;
+}.animated-smiles .smile.megafon.animated {
+background:url('/images/anismiles/megafon-gif.gif?tuvnei') 0 0 no-repeat;
+width:58px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.megafon.animated {
+background:url('/images/smiles/megafon-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.megafon.animated:hover {
+background:url('/images/anismiles/megafon-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.yoyo, .smiles.yoyo {
+background:url('/images/smiles/yoyo.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.yoyo, .smile.yoyo-big, .smiles.yoyo-big  {
+background:url('/images/smiles/yoyo-big.png?tuvney') 0 0 no-repeat;
+width:54px;
+height:36px;
+}.animated-smiles .smile.yoyo.animated {
+background:url('/images/anismiles/yoyo-gif.gif?tuvnei') 0 0 no-repeat;
+width:54px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.yoyo.animated {
+background:url('/images/smiles/yoyo-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.yoyo.animated:hover {
+background:url('/images/anismiles/yoyo-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.lighter, .smiles.lighter {
+background:url('/images/smiles/lighter.png?tuvney') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.lighter, .smile.lighter-big, .smiles.lighter-big  {
+background:url('/images/smiles/lighter-big.png?tuvney') 0 0 no-repeat;
+width:52px;
+height:36px;
+}.animated-smiles .smile.lighter.animated {
+background:url('/images/anismiles/lighter-gif.gif?tuvnei') 0 0 no-repeat;
+width:52px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.lighter.animated {
+background:url('/images/smiles/lighter-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.lighter.animated:hover {
+background:url('/images/anismiles/lighter-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.psyduck, .smiles.psyduck {
+background:url('/images/smiles/psyduck.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.psyduck, .smile.psyduck-big, .smiles.psyduck-big  {
+background:url('/images/smiles/psyduck-big.png?tuvney') 0 0 no-repeat;
+width:49px;
+height:36px;
+}.animated-smiles .smile.psyduck.animated {
+background:url('/images/anismiles/psyduck-gif.gif?tuvnei') 0 0 no-repeat;
+width:49px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.psyduck.animated {
+background:url('/images/smiles/psyduck-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.psyduck.animated:hover {
+background:url('/images/anismiles/psyduck-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.metal, .smiles.metal {
+background:url('/images/smiles/metal.png?tuvney') 0 0 no-repeat;
+width:12px;
+height:18px;
+}
+.big-smiles .smile.metal, .smile.metal-big, .smiles.metal-big  {
+background:url('/images/smiles/metal-big.png?tuvney') 0 0 no-repeat;
+width:24px;
+height:36px;
+}.animated-smiles .smile.metal.animated {
+background:url('/images/anismiles/metal-gif.gif?tuvnei') 0 0 no-repeat;
+width:24px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.metal.animated {
+background:url('/images/smiles/metal-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.metal.animated:hover {
+background:url('/images/anismiles/metal-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.search, .smiles.search {
+background:url('/images/smiles/search.png?tuvney') 0 0 no-repeat;
+width:23px;
+height:18px;
+}
+.big-smiles .smile.search, .smile.search-big, .smiles.search-big  {
+background:url('/images/smiles/search-big.png?tuvney') 0 0 no-repeat;
+width:45px;
+height:36px;
+}.animated-smiles .smile.search.animated {
+background:url('/images/anismiles/search-gif.gif?tuvnei') 0 0 no-repeat;
+width:45px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.search.animated {
+background:url('/images/smiles/search-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.search.animated:hover {
+background:url('/images/anismiles/search-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.selfie, .smiles.selfie {
+background:url('/images/smiles/selfie.png?tuvney') 0 0 no-repeat;
+width:22px;
+height:18px;
+}
+.big-smiles .smile.selfie, .smile.selfie-big, .smiles.selfie-big  {
+background:url('/images/smiles/selfie-big.png?tuvney') 0 0 no-repeat;
+width:43px;
+height:36px;
+}.animated-smiles .smile.selfie.animated {
+background:url('/images/anismiles/selfie-gif.gif?tuvnei') 0 0 no-repeat;
+width:43px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.selfie.animated {
+background:url('/images/smiles/selfie-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.selfie.animated:hover {
+background:url('/images/anismiles/selfie-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.police, .smiles.police {
+background:url('/images/smiles/police.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.police, .smile.police-big, .smiles.police-big  {
+background:url('/images/smiles/police-big.png?tuvney') 0 0 no-repeat;
+width:60px;
+height:36px;
+}.animated-smiles .smile.police.animated {
+background:url('/images/anismiles/police-gif.gif?tuvnei') 0 0 no-repeat;
+width:60px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.police.animated {
+background:url('/images/smiles/police-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.police.animated:hover {
+background:url('/images/anismiles/police-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.goliath, .smiles.goliath {
+background:url('/images/smiles/goliath.png?tuvney') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.goliath, .smile.goliath-big, .smiles.goliath-big  {
+background:url('/images/smiles/goliath-big.png?tuvney') 0 0 no-repeat;
+width:42px;
+height:36px;
+}.animated-smiles .smile.goliath.animated {
+background:url('/images/anismiles/goliath-gif.gif?tuvnei') 0 0 no-repeat;
+width:42px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.goliath.animated {
+background:url('/images/smiles/goliath-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.goliath.animated:hover {
+background:url('/images/anismiles/goliath-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.overfan, .smiles.overfan {
+background:url('/images/smiles/overfan.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.overfan, .smile.overfan-big, .smiles.overfan-big  {
+background:url('/images/smiles/overfan-big.png?tuvney') 0 0 no-repeat;
+width:60px;
+height:36px;
+}.animated-smiles .smile.overfan.animated {
+background:url('/images/anismiles/overfan-gif.gif?tuvnei') 0 0 no-repeat;
+width:60px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.overfan.animated {
+background:url('/images/smiles/overfan-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.overfan.animated:hover {
+background:url('/images/anismiles/overfan-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.marikbw, .smiles.marikbw {
+background:url('/images/smiles/marikbw.png?tuvney') 0 0 no-repeat;
+width:22px;
+height:18px;
+}
+.big-smiles .smile.marikbw, .smile.marikbw-big, .smiles.marikbw-big  {
+background:url('/images/smiles/marikbw-big.png?tuvney') 0 0 no-repeat;
+width:44px;
+height:36px;
+}.animated-smiles .smile.marikbw.animated {
+background:url('/images/anismiles/marikbw-gif.gif?tuvnei') 0 0 no-repeat;
+width:44px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.marikbw.animated {
+background:url('/images/smiles/marikbw-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.marikbw.animated:hover {
+background:url('/images/anismiles/marikbw-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.archon, .smiles.archon {
+background:url('/images/smiles/archon.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.archon, .smile.archon-big, .smiles.archon-big  {
+background:url('/images/smiles/archon-big.png?tuvney') 0 0 no-repeat;
+width:40px;
+height:36px;
+}.animated-smiles .smile.archon.animated {
+background:url('/images/anismiles/archon-gif.gif?tuvnei') 0 0 no-repeat;
+width:40px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.archon.animated {
+background:url('/images/smiles/archon-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.archon.animated:hover {
+background:url('/images/anismiles/archon-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.kerrievil, .smiles.kerrievil {
+background:url('/images/smiles/kerrievil.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.kerrievil, .smile.kerrievil-big, .smiles.kerrievil-big  {
+background:url('/images/smiles/kerrievil-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.kerrievil.animated {
+background:url('/images/anismiles/kerrievil-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.kerrievil.animated {
+background:url('/images/smiles/kerrievil-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.kerrievil.animated:hover {
+background:url('/images/anismiles/kerrievil-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.kerrisad, .smiles.kerrisad {
+background:url('/images/smiles/kerrisad.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.kerrisad, .smile.kerrisad-big, .smiles.kerrisad-big  {
+background:url('/images/smiles/kerrisad-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.kerrisad.animated {
+background:url('/images/anismiles/kerrisad-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.kerrisad.animated {
+background:url('/images/smiles/kerrisad-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.kerrisad.animated:hover {
+background:url('/images/anismiles/kerrisad-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.loot, .smiles.loot {
+background:url('/images/smiles/loot.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.loot, .smile.loot-big, .smiles.loot-big  {
+background:url('/images/smiles/loot-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.loot.animated {
+background:url('/images/anismiles/loot-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.loot.animated {
+background:url('/images/smiles/loot-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.loot.animated:hover {
+background:url('/images/anismiles/loot-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.buggy, .smiles.buggy {
+background:url('/images/smiles/buggy.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.buggy, .smile.buggy-big, .smiles.buggy-big  {
+background:url('/images/smiles/buggy-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.buggy.animated {
+background:url('/images/anismiles/buggy-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.buggy.animated {
+background:url('/images/smiles/buggy-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.buggy.animated:hover {
+background:url('/images/anismiles/buggy-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.waiting, .smiles.waiting {
+background:url('/images/smiles/waiting.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.waiting, .smile.waiting-big, .smiles.waiting-big  {
+background:url('/images/smiles/waiting-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.waiting.animated {
+background:url('/images/anismiles/waiting-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.waiting.animated {
+background:url('/images/smiles/waiting-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.waiting.animated:hover {
+background:url('/images/anismiles/waiting-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.pun, .smiles.pun {
+background:url('/images/smiles/pun.png?tuvney') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.pun, .smile.pun-big, .smiles.pun-big  {
+background:url('/images/smiles/pun-big.png?tuvney') 0 0 no-repeat;
+width:51px;
+height:36px;
+}.animated-smiles .smile.pun.animated {
+background:url('/images/anismiles/pun-gif.gif?tuvnei') 0 0 no-repeat;
+width:51px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pun.animated {
+background:url('/images/smiles/pun-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pun.animated:hover {
+background:url('/images/anismiles/pun-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.winner, .smiles.winner {
+background:url('/images/smiles/winner.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.winner, .smile.winner-big, .smiles.winner-big  {
+background:url('/images/smiles/winner-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.winner.animated {
+background:url('/images/anismiles/winner-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.winner.animated {
+background:url('/images/smiles/winner-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.winner.animated:hover {
+background:url('/images/anismiles/winner-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.bandages, .smiles.bandages {
+background:url('/images/smiles/bandages.png?tuvney') 0 0 no-repeat;
+width:17px;
+height:18px;
+}
+.big-smiles .smile.bandages, .smile.bandages-big, .smiles.bandages-big  {
+background:url('/images/smiles/bandages-big.png?tuvney') 0 0 no-repeat;
+width:34px;
+height:36px;
+}.animated-smiles .smile.bandages.animated {
+background:url('/images/anismiles/bandages-gif.gif?tuvnei') 0 0 no-repeat;
+width:34px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bandages.animated {
+background:url('/images/smiles/bandages-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bandages.animated:hover {
+background:url('/images/anismiles/bandages-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.spark, .smiles.spark {
+background:url('/images/smiles/spark.png?tuvney') 0 0 no-repeat;
+width:15px;
+height:18px;
+}
+.big-smiles .smile.spark, .smile.spark-big, .smiles.spark-big  {
+background:url('/images/smiles/spark-big.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:36px;
+}.animated-smiles .smile.spark.animated {
+background:url('/images/anismiles/spark-gif.gif?tuvnei') 0 0 no-repeat;
+width:30px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.spark.animated {
+background:url('/images/smiles/spark-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.spark.animated:hover {
+background:url('/images/anismiles/spark-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.sing, .smiles.sing {
+background:url('/images/smiles/sing.png?tuvney') 0 0 no-repeat;
+width:28px;
+height:18px;
+}
+.big-smiles .smile.sing, .smile.sing-big, .smiles.sing-big  {
+background:url('/images/smiles/sing-big.png?tuvney') 0 0 no-repeat;
+width:56px;
+height:36px;
+}.animated-smiles .smile.sing.animated {
+background:url('/images/anismiles/sing-gif.gif?tuvnei') 0 0 no-repeat;
+width:56px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sing.animated {
+background:url('/images/smiles/sing-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sing.animated:hover {
+background:url('/images/anismiles/sing-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.orange, .smiles.orange {
+background:url('/images/smiles/orange.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.orange, .smile.orange-big, .smiles.orange-big  {
+background:url('/images/smiles/orange-big.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:36px;
+}.smile.flowers, .smiles.flowers {
+background:url('/images/smiles/flowers.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.flowers, .smile.flowers-big, .smiles.flowers-big  {
+background:url('/images/smiles/flowers-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.flowers.animated {
+background:url('/images/anismiles/flowers-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.flowers.animated {
+background:url('/images/smiles/flowers-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.flowers.animated:hover {
+background:url('/images/anismiles/flowers-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.kabluk, .smiles.kabluk {
+background:url('/images/smiles/kabluk.png?tuvney') 0 0 no-repeat;
+width:22px;
+height:18px;
+}
+.big-smiles .smile.kabluk, .smile.kabluk-big, .smiles.kabluk-big  {
+background:url('/images/smiles/kabluk-big.png?tuvney') 0 0 no-repeat;
+width:43px;
+height:36px;
+}.animated-smiles .smile.kabluk.animated {
+background:url('/images/anismiles/kabluk-gif.gif?tuvnei') 0 0 no-repeat;
+width:43px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.kabluk.animated {
+background:url('/images/smiles/kabluk-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.kabluk.animated:hover {
+background:url('/images/anismiles/kabluk-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.nofeels, .smiles.nofeels {
+background:url('/images/smiles/nofeels.png?u2uou0') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.nofeels, .smile.nofeels-big, .smiles.nofeels-big  {
+background:url('/images/smiles/nofeels-big.png?u2uou0') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.nofeels.animated {
+background:url('/images/anismiles/nofeels-gif.gif?u2uou0') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.nofeels.animated {
+background:url('/images/smiles/nofeels-big.png?u2uou0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.nofeels.animated:hover {
+background:url('/images/anismiles/nofeels-gif.gif?u2uou0') 0 0 no-repeat;
+}.smile.detective, .smiles.detective {
+background:url('/images/smiles/detective.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.detective, .smile.detective-big, .smiles.detective-big  {
+background:url('/images/smiles/detective-big.png?tuvney') 0 0 no-repeat;
+width:53px;
+height:36px;
+}.animated-smiles .smile.detective.animated {
+background:url('/images/anismiles/detective-gif.gif?tuvnei') 0 0 no-repeat;
+width:53px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.detective.animated {
+background:url('/images/smiles/detective-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.detective.animated:hover {
+background:url('/images/anismiles/detective-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.dejavu, .smiles.dejavu {
+background:url('/images/smiles/dejavu.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.dejavu, .smile.dejavu-big, .smiles.dejavu-big  {
+background:url('/images/smiles/dejavu-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.dejavu.animated {
+background:url('/images/anismiles/dejavu-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.dejavu.animated {
+background:url('/images/smiles/dejavu-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.dejavu.animated:hover {
+background:url('/images/anismiles/dejavu-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.wow, .smiles.wow {
+background:url('/images/smiles/wow.png?tuvney') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.wow, .smile.wow-big, .smiles.wow-big  {
+background:url('/images/smiles/wow-big.png?tuvney') 0 0 no-repeat;
+width:47px;
+height:36px;
+}.smile.dog2, .smiles.dog2 {
+background:url('/images/smiles/dog2.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.dog2, .smile.dog2-big, .smiles.dog2-big  {
+background:url('/images/smiles/dog2-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.smile.bdbessa, .smiles.bdbessa {
+background:url('/images/smiles/bdbessa.png?v7gawc') 0 0 no-repeat;
+width:19px;
+height:18px;
+}
+.big-smiles .smile.bdbessa, .smile.bdbessa-big, .smiles.bdbessa-big  {
+background:url('/images/smiles/bdbessa-big.png?v7gawc') 0 0 no-repeat;
+width:37px;
+height:36px;
+}.animated-smiles .smile.bdbessa.animated {
+background:url('/images/anismiles/bdbessa-gif.gif?v7gawc') 0 0 no-repeat;
+width:37px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bdbessa.animated {
+background:url('/images/smiles/bdbessa-big.png?v7gawc') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bdbessa.animated:hover {
+background:url('/images/anismiles/bdbessa-gif.gif?v7gawc') 0 0 no-repeat;
+}.smile.ten, .smiles.ten {
+background:url('/images/smiles/ten.png?tuvney') 0 0 no-repeat;
+width:22px;
+height:18px;
+}
+.big-smiles .smile.ten, .smile.ten-big, .smiles.ten-big  {
+background:url('/images/smiles/ten-big.png?tuvney') 0 0 no-repeat;
+width:44px;
+height:36px;
+}.animated-smiles .smile.ten.animated {
+background:url('/images/anismiles/ten-gif.gif?tuvnei') 0 0 no-repeat;
+width:44px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.ten.animated {
+background:url('/images/smiles/ten-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.ten.animated:hover {
+background:url('/images/anismiles/ten-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.www, .smiles.www {
+background:url('/images/smiles/www.png?tuvney') 0 0 no-repeat;
+width:34px;
+height:18px;
+}
+.big-smiles .smile.www, .smile.www-big, .smiles.www-big  {
+background:url('/images/smiles/www-big.png?tuvney') 0 0 no-repeat;
+width:67px;
+height:36px;
+}.animated-smiles .smile.www.animated {
+background:url('/images/anismiles/www-gif.gif?tuvnei') 0 0 no-repeat;
+width:67px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.www.animated {
+background:url('/images/smiles/www-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.www.animated:hover {
+background:url('/images/anismiles/www-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.chommander, .smiles.chommander {
+background:url('/images/smiles/chommander.png?tuvney') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.chommander, .smile.chommander-big, .smiles.chommander-big  {
+background:url('/images/smiles/chommander-big.png?tuvney') 0 0 no-repeat;
+width:57px;
+height:36px;
+}.animated-smiles .smile.chommander.animated {
+background:url('/images/anismiles/chommander-gif.gif?tuvnei') 0 0 no-repeat;
+width:57px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.chommander.animated {
+background:url('/images/smiles/chommander-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.chommander.animated:hover {
+background:url('/images/anismiles/chommander-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.catouh, .smiles.catouh {
+background:url('/images/smiles/catouh.png?tuvney') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.catouh, .smile.catouh-big, .smiles.catouh-big  {
+background:url('/images/smiles/catouh-big.png?tuvney') 0 0 no-repeat;
+width:51px;
+height:36px;
+}.animated-smiles .smile.catouh.animated {
+background:url('/images/anismiles/catouh-gif.gif?tuvnei') 0 0 no-repeat;
+width:51px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.catouh.animated {
+background:url('/images/smiles/catouh-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.catouh.animated:hover {
+background:url('/images/anismiles/catouh-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.catrain, .smiles.catrain {
+background:url('/images/smiles/catrain.png?tuvney') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.catrain, .smile.catrain-big, .smiles.catrain-big  {
+background:url('/images/smiles/catrain-big.png?tuvney') 0 0 no-repeat;
+width:54px;
+height:36px;
+}.animated-smiles .smile.catrain.animated {
+background:url('/images/anismiles/catrain-gif.gif?tuvnei') 0 0 no-repeat;
+width:54px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.catrain.animated {
+background:url('/images/smiles/catrain-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.catrain.animated:hover {
+background:url('/images/anismiles/catrain-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.catyuck, .smiles.catyuck {
+background:url('/images/smiles/catyuck.png?uleed5') 0 0 no-repeat;
+width:19px;
+height:18px;
+}
+.big-smiles .smile.catyuck, .smile.catyuck-big, .smiles.catyuck-big  {
+background:url('/images/smiles/catyuck-big.png?uleed5') 0 0 no-repeat;
+width:38px;
+height:36px;
+}.smile.calc, .smiles.calc {
+background:url('/images/smiles/calc.png?tuvney') 0 0 no-repeat;
+width:34px;
+height:18px;
+}
+.big-smiles .smile.calc, .smile.calc-big, .smiles.calc-big  {
+background:url('/images/smiles/calc-big.png?tuvney') 0 0 no-repeat;
+width:68px;
+height:36px;
+}.animated-smiles .smile.calc.animated {
+background:url('/images/anismiles/calc-gif.gif?tuvnei') 0 0 no-repeat;
+width:68px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.calc.animated {
+background:url('/images/smiles/calc-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.calc.animated:hover {
+background:url('/images/anismiles/calc-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.jdun, .smiles.jdun {
+background:url('/images/smiles/jdun.png?tuvney') 0 0 no-repeat;
+width:19px;
+height:18px;
+}
+.big-smiles .smile.jdun, .smile.jdun-big, .smiles.jdun-big  {
+background:url('/images/smiles/jdun-big.png?tuvney') 0 0 no-repeat;
+width:38px;
+height:36px;
+}.smile.pilon, .smiles.pilon {
+background:url('/images/smiles/pilon.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.pilon, .smile.pilon-big, .smiles.pilon-big  {
+background:url('/images/smiles/pilon-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.pilon.animated {
+background:url('/images/anismiles/pilon-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pilon.animated {
+background:url('/images/smiles/pilon-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pilon.animated:hover {
+background:url('/images/anismiles/pilon-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.fotonka, .smiles.fotonka {
+background:url('/images/smiles/fotonka.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.fotonka, .smile.fotonka-big, .smiles.fotonka-big  {
+background:url('/images/smiles/fotonka-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.fotonka.animated {
+background:url('/images/anismiles/fotonka-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fotonka.animated {
+background:url('/images/smiles/fotonka-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fotonka.animated:hover {
+background:url('/images/anismiles/fotonka-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.burger, .smiles.burger {
+background:url('/images/smiles/burger.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.burger, .smile.burger-big, .smiles.burger-big  {
+background:url('/images/smiles/burger-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.burger.animated {
+background:url('/images/anismiles/burger-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.burger.animated {
+background:url('/images/smiles/burger-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.burger.animated:hover {
+background:url('/images/anismiles/burger-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.comfort, .smiles.comfort {
+background:url('/images/smiles/comfort.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.comfort, .smile.comfort-big, .smiles.comfort-big  {
+background:url('/images/smiles/comfort-big.png?tuvney') 0 0 no-repeat;
+width:40px;
+height:36px;
+}.animated-smiles .smile.comfort.animated {
+background:url('/images/anismiles/comfort-gif.gif?tuvnei') 0 0 no-repeat;
+width:40px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.comfort.animated {
+background:url('/images/smiles/comfort-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.comfort.animated:hover {
+background:url('/images/anismiles/comfort-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.walter, .smiles.walter {
+background:url('/images/smiles/walter.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.walter, .smile.walter-big, .smiles.walter-big  {
+background:url('/images/smiles/walter-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.walter.animated {
+background:url('/images/anismiles/walter-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.walter.animated {
+background:url('/images/smiles/walter-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.walter.animated:hover {
+background:url('/images/anismiles/walter-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.lagdog, .smiles.lagdog {
+background:url('/images/smiles/lagdog.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.lagdog, .smile.lagdog-big, .smiles.lagdog-big  {
+background:url('/images/smiles/lagdog-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.lagdog.animated {
+background:url('/images/anismiles/lagdog-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.lagdog.animated {
+background:url('/images/smiles/lagdog-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.lagdog.animated:hover {
+background:url('/images/anismiles/lagdog-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.kojima, .smiles.kojima {
+background:url('/images/smiles/kojima.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.kojima, .smile.kojima-big, .smiles.kojima-big  {
+background:url('/images/smiles/kojima-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.kojima.animated {
+background:url('/images/anismiles/kojima-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.kojima.animated {
+background:url('/images/smiles/kojima-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.kojima.animated:hover {
+background:url('/images/anismiles/kojima-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.fsb, .smiles.fsb {
+background:url('/images/smiles/fsb.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.fsb, .smile.fsb-big, .smiles.fsb-big  {
+background:url('/images/smiles/fsb-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.fsb.animated {
+background:url('/images/anismiles/fsb-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fsb.animated {
+background:url('/images/smiles/fsb-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fsb.animated:hover {
+background:url('/images/anismiles/fsb-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.ufreddie, .smiles.ufreddie {
+background:url('/images/smiles/ufreddie.png?tuvney') 0 0 no-repeat;
+width:33px;
+height:18px;
+}
+.big-smiles .smile.ufreddie, .smile.ufreddie-big, .smiles.ufreddie-big  {
+background:url('/images/smiles/ufreddie-big.png?tuvney') 0 0 no-repeat;
+width:66px;
+height:36px;
+}.animated-smiles .smile.ufreddie.animated {
+background:url('/images/anismiles/ufreddie-gif.gif?tuvnei') 0 0 no-repeat;
+width:66px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.ufreddie.animated {
+background:url('/images/smiles/ufreddie-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.ufreddie.animated:hover {
+background:url('/images/anismiles/ufreddie-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.forespect, .smiles.forespect {
+background:url('/images/smiles/forespect.png?tuvney') 0 0 no-repeat;
+width:32px;
+height:18px;
+}
+.big-smiles .smile.forespect, .smile.forespect-big, .smiles.forespect-big  {
+background:url('/images/smiles/forespect-big.png?tuvney') 0 0 no-repeat;
+width:64px;
+height:36px;
+}.animated-smiles .smile.forespect.animated {
+background:url('/images/anismiles/forespect-gif.gif?tuvnei') 0 0 no-repeat;
+width:64px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.forespect.animated {
+background:url('/images/smiles/forespect-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.forespect.animated:hover {
+background:url('/images/anismiles/forespect-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.worker, .smiles.worker {
+background:url('/images/smiles/worker.png?tuvney') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.worker, .smile.worker-big, .smiles.worker-big  {
+background:url('/images/smiles/worker-big.png?tuvney') 0 0 no-repeat;
+width:39px;
+height:36px;
+}.animated-smiles .smile.worker.animated {
+background:url('/images/anismiles/worker-gif.gif?tuvnei') 0 0 no-repeat;
+width:39px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.worker.animated {
+background:url('/images/smiles/worker-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.worker.animated:hover {
+background:url('/images/anismiles/worker-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.bowsette, .smiles.bowsette {
+background:url('/images/smiles/bowsette.png?tuvney') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.bowsette, .smile.bowsette-big, .smiles.bowsette-big  {
+background:url('/images/smiles/bowsette-big.png?tuvney') 0 0 no-repeat;
+width:48px;
+height:36px;
+}.animated-smiles .smile.bowsette.animated {
+background:url('/images/anismiles/bowsette-gif.gif?tuvnei') 0 0 no-repeat;
+width:48px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bowsette.animated {
+background:url('/images/smiles/bowsette-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bowsette.animated:hover {
+background:url('/images/anismiles/bowsette-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.slap, .smiles.slap {
+background:url('/images/smiles/slap.png?tuvney') 0 0 no-repeat;
+width:25px;
+height:18px;
+}
+.big-smiles .smile.slap, .smile.slap-big, .smiles.slap-big  {
+background:url('/images/smiles/slap-big.png?tuvney') 0 0 no-repeat;
+width:49px;
+height:36px;
+}.animated-smiles .smile.slap.animated {
+background:url('/images/anismiles/slap-gif.gif?tuvnei') 0 0 no-repeat;
+width:49px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.slap.animated {
+background:url('/images/smiles/slap-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.slap.animated:hover {
+background:url('/images/anismiles/slap-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.pled, .smiles.pled {
+background:url('/images/smiles/pled.png?tuvney') 0 0 no-repeat;
+width:23px;
+height:18px;
+}
+.big-smiles .smile.pled, .smile.pled-big, .smiles.pled-big  {
+background:url('/images/smiles/pled-big.png?tuvney') 0 0 no-repeat;
+width:45px;
+height:36px;
+}.smile.giftcat, .smiles.giftcat {
+background:url('/images/smiles/giftcat.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.giftcat, .smile.giftcat-big, .smiles.giftcat-big  {
+background:url('/images/smiles/giftcat-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.giftcat.animated {
+background:url('/images/anismiles/giftcat-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.giftcat.animated {
+background:url('/images/smiles/giftcat-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.giftcat.animated:hover {
+background:url('/images/anismiles/giftcat-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.oneone, .smiles.oneone {
+background:url('/images/smiles/oneone.png?u9f4kt') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.oneone, .smile.oneone-big, .smiles.oneone-big  {
+background:url('/images/smiles/oneone-big.png?u9f4kt') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.oneone.animated {
+background:url('/images/anismiles/oneone-gif.gif?u9f4kt') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.oneone.animated {
+background:url('/images/smiles/oneone-big.png?u9f4kt') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.oneone.animated:hover {
+background:url('/images/anismiles/oneone-gif.gif?u9f4kt') 0 0 no-repeat;
+}.smile.badumtss, .smiles.badumtss {
+background:url('/images/smiles/badumtss.png?u9f4m4') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.badumtss, .smile.badumtss-big, .smiles.badumtss-big  {
+background:url('/images/smiles/badumtss-big.png?u9f4m4') 0 0 no-repeat;
+width:57px;
+height:36px;
+}.animated-smiles .smile.badumtss.animated {
+background:url('/images/anismiles/badumtss-gif.gif?u9f4m4') 0 0 no-repeat;
+width:57px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.badumtss.animated {
+background:url('/images/smiles/badumtss-big.png?u9f4m4') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.badumtss.animated:hover {
+background:url('/images/anismiles/badumtss-gif.gif?u9f4m4') 0 0 no-repeat;
+}.smile.nope, .smiles.nope {
+background:url('/images/smiles/nope.png?u9f4ps') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.nope, .smile.nope-big, .smiles.nope-big  {
+background:url('/images/smiles/nope-big.png?u9f4ps') 0 0 no-repeat;
+width:59px;
+height:36px;
+}.animated-smiles .smile.nope.animated {
+background:url('/images/anismiles/nope-gif.gif?u9f4ps') 0 0 no-repeat;
+width:59px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.nope.animated {
+background:url('/images/smiles/nope-big.png?u9f4ps') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.nope.animated:hover {
+background:url('/images/anismiles/nope-gif.gif?u9f4ps') 0 0 no-repeat;
+}.smile.gottafast, .smiles.gottafast {
+background:url('/images/smiles/gottafast.png?u9f4nn') 0 0 no-repeat;
+width:34px;
+height:18px;
+}
+.big-smiles .smile.gottafast, .smile.gottafast-big, .smiles.gottafast-big  {
+background:url('/images/smiles/gottafast-big.png?u9f4nn') 0 0 no-repeat;
+width:67px;
+height:36px;
+}.animated-smiles .smile.gottafast.animated {
+background:url('/images/anismiles/gottafast-gif.gif?u9f4nn') 0 0 no-repeat;
+width:67px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gottafast.animated {
+background:url('/images/smiles/gottafast-big.png?u9f4nn') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gottafast.animated:hover {
+background:url('/images/anismiles/gottafast-gif.gif?u9f4nn') 0 0 no-repeat;
+}.smile.emerald, .smiles.emerald {
+background:url('/images/smiles/emerald.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.emerald, .smile.emerald-big, .smiles.emerald-big  {
+background:url('/images/smiles/emerald-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.emerald.animated {
+background:url('/images/anismiles/emerald-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.emerald.animated {
+background:url('/images/smiles/emerald-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.emerald.animated:hover {
+background:url('/images/anismiles/emerald-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.salt, .smiles.salt {
+background:url('/images/smiles/salt.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.salt, .smile.salt-big, .smiles.salt-big  {
+background:url('/images/smiles/salt-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.salt.animated {
+background:url('/images/anismiles/salt-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.salt.animated {
+background:url('/images/smiles/salt-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.salt.animated:hover {
+background:url('/images/anismiles/salt-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.myway, .smiles.myway {
+background:url('/images/smiles/myway.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.myway, .smile.myway-big, .smiles.myway-big  {
+background:url('/images/smiles/myway-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.myway.animated {
+background:url('/images/anismiles/myway-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.myway.animated {
+background:url('/images/smiles/myway-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.myway.animated:hover {
+background:url('/images/anismiles/myway-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.clear, .smiles.clear {
+background:url('/images/smiles/clear.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.clear, .smile.clear-big, .smiles.clear-big  {
+background:url('/images/smiles/clear-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.clear.animated {
+background:url('/images/anismiles/clear-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.clear.animated {
+background:url('/images/smiles/clear-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.clear.animated:hover {
+background:url('/images/anismiles/clear-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.mcomplete, .smiles.mcomplete {
+background:url('/images/smiles/mcomplete.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.mcomplete, .smile.mcomplete-big, .smiles.mcomplete-big  {
+background:url('/images/smiles/mcomplete-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.mcomplete.animated {
+background:url('/images/anismiles/mcomplete-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.mcomplete.animated {
+background:url('/images/smiles/mcomplete-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.mcomplete.animated:hover {
+background:url('/images/anismiles/mcomplete-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.bdcake, .smiles.bdcake {
+background:url('/images/smiles/bdcake.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.bdcake, .smile.bdcake-big, .smiles.bdcake-big  {
+background:url('/images/smiles/bdcake-big.png?tuvney') 0 0 no-repeat;
+width:35px;
+height:36px;
+}.smile.gta, .smiles.gta {
+background:url('/images/smiles/gta.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.gta, .smile.gta-big, .smiles.gta-big  {
+background:url('/images/smiles/gta-big.png?tuvney') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.gta.animated {
+background:url('/images/anismiles/gta-gif.gif?tuvnei') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gta.animated {
+background:url('/images/smiles/gta-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gta.animated:hover {
+background:url('/images/anismiles/gta-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.love, .smiles.love {
+background:url('/images/smiles/love.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.love, .smile.love-big, .smiles.love-big  {
+background:url('/images/smiles/love-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.love.animated {
+background:url('/images/anismiles/love-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.love.animated {
+background:url('/images/smiles/love-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.love.animated:hover {
+background:url('/images/anismiles/love-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.getout, .smiles.getout {
+background:url('/images/smiles/getout.png?tuvney') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.getout, .smile.getout-big, .smiles.getout-big  {
+background:url('/images/smiles/getout-big.png?tuvney') 0 0 no-repeat;
+width:51px;
+height:36px;
+}.animated-smiles .smile.getout.animated {
+background:url('/images/anismiles/getout-gif.gif?tuvnei') 0 0 no-repeat;
+width:51px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.getout.animated {
+background:url('/images/smiles/getout-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.getout.animated:hover {
+background:url('/images/anismiles/getout-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.angry, .smiles.angry {
+background:url('/images/smiles/angry.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.angry, .smile.angry-big, .smiles.angry-big  {
+background:url('/images/smiles/angry-big.png?tuvney') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.angry.animated {
+background:url('/images/anismiles/angry-gif.gif?tuvnei') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.angry.animated {
+background:url('/images/smiles/angry-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.angry.animated:hover {
+background:url('/images/anismiles/angry-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.cryalot, .smiles.cryalot {
+background:url('/images/smiles/cryalot.png?tuvney') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.cryalot, .smile.cryalot-big, .smiles.cryalot-big  {
+background:url('/images/smiles/cryalot-big.png?tuvney') 0 0 no-repeat;
+width:62px;
+height:36px;
+}.animated-smiles .smile.cryalot.animated {
+background:url('/images/anismiles/cryalot-gif.gif?tuvnei') 0 0 no-repeat;
+width:62px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.cryalot.animated {
+background:url('/images/smiles/cryalot-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.cryalot.animated:hover {
+background:url('/images/anismiles/cryalot-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.marvelous, .smiles.marvelous {
+background:url('/images/smiles/marvelous.png?tuvney') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.marvelous, .smile.marvelous-big, .smiles.marvelous-big  {
+background:url('/images/smiles/marvelous-big.png?tuvney') 0 0 no-repeat;
+width:48px;
+height:36px;
+}.animated-smiles .smile.marvelous.animated {
+background:url('/images/anismiles/marvelous-gif.gif?tuvnei') 0 0 no-repeat;
+width:48px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.marvelous.animated {
+background:url('/images/smiles/marvelous-big.png?tuvney') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.marvelous.animated:hover {
+background:url('/images/anismiles/marvelous-gif.gif?tuvnei') 0 0 no-repeat;
+}.smile.notfunny, .smiles.notfunny {
+background:url('/images/smiles/notfunny.png?txj8gx') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.notfunny, .smile.notfunny-big, .smiles.notfunny-big  {
+background:url('/images/smiles/notfunny-big.png?txj8gy') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.notfunny.animated {
+background:url('/images/anismiles/notfunny-gif.gif?txj8gy') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.notfunny.animated {
+background:url('/images/smiles/notfunny-big.png?txj8gy') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.notfunny.animated:hover {
+background:url('/images/anismiles/notfunny-gif.gif?txj8gy') 0 0 no-repeat;
+}.smile.cool, .smiles.cool {
+background:url('/images/smiles/cool.png?txj8ib') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.cool, .smile.cool-big, .smiles.cool-big  {
+background:url('/images/smiles/cool-big.png?txj8ib') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.cool.animated {
+background:url('/images/anismiles/cool-gif.gif?txj8ib') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.cool.animated {
+background:url('/images/smiles/cool-big.png?txj8ib') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.cool.animated:hover {
+background:url('/images/anismiles/cool-gif.gif?txj8ib') 0 0 no-repeat;
+}.smile.skull, .smiles.skull {
+background:url('/images/smiles/skull.png?txj8jv') 0 0 no-repeat;
+width:23px;
+height:18px;
+}
+.big-smiles .smile.skull, .smile.skull-big, .smiles.skull-big  {
+background:url('/images/smiles/skull-big.png?txj8jv') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.skull.animated {
+background:url('/images/anismiles/skull-gif.gif?txj8jv') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.skull.animated {
+background:url('/images/smiles/skull-big.png?txj8jv') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.skull.animated:hover {
+background:url('/images/anismiles/skull-gif.gif?txj8jv') 0 0 no-repeat;
+}.smile.acolyte, .smiles.acolyte {
+background:url('/images/smiles/acolyte.png?ulee1o') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.acolyte, .smile.acolyte-big, .smiles.acolyte-big  {
+background:url('/images/smiles/acolyte-big.png?ulee1o') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.smile.sorka, .smiles.sorka {
+background:url('/images/smiles/sorka.png?u097y0') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.sorka, .smile.sorka-big, .smiles.sorka-big  {
+background:url('/images/smiles/sorka-big.png?u097y0') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.sorka.animated {
+background:url('/images/anismiles/sorka-gif.gif?u097y0') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sorka.animated {
+background:url('/images/smiles/sorka-big.png?u097y0') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sorka.animated:hover {
+background:url('/images/anismiles/sorka-gif.gif?u097y0') 0 0 no-repeat;
+}.smile.pitlord, .smiles.pitlord {
+background:url('/images/smiles/pitlord.png?u097yu') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.pitlord, .smile.pitlord-big, .smiles.pitlord-big  {
+background:url('/images/smiles/pitlord-big.png?u097yu') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.pitlord.animated {
+background:url('/images/anismiles/pitlord-gif.gif?u097yu') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pitlord.animated {
+background:url('/images/smiles/pitlord-big.png?u097yu') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pitlord.animated:hover {
+background:url('/images/anismiles/pitlord-gif.gif?u097yu') 0 0 no-repeat;
+}.smile.jobagain, .smiles.jobagain {
+background:url('/images/smiles/jobagain.png?u0981k') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.jobagain, .smile.jobagain-big, .smiles.jobagain-big  {
+background:url('/images/smiles/jobagain-big.png?u0981k') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.jobagain.animated {
+background:url('/images/anismiles/jobagain-gif.gif?u0981k') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.jobagain.animated {
+background:url('/images/smiles/jobagain-big.png?u0981k') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.jobagain.animated:hover {
+background:url('/images/anismiles/jobagain-gif.gif?u0981k') 0 0 no-repeat;
+}.smile.doornoloot, .smiles.doornoloot {
+background:url('/images/smiles/doornoloot.png?u0983c') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.doornoloot, .smile.doornoloot-big, .smiles.doornoloot-big  {
+background:url('/images/smiles/doornoloot-big.png?u0983c') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.doornoloot.animated {
+background:url('/images/anismiles/doornoloot-gif.gif?u0983c') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.doornoloot.animated {
+background:url('/images/smiles/doornoloot-big.png?u0983c') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.doornoloot.animated:hover {
+background:url('/images/anismiles/doornoloot-gif.gif?u0983c') 0 0 no-repeat;
+}.smile.archmage, .smiles.archmage {
+background:url('/images/smiles/archmage.png?u09854') 0 0 no-repeat;
+width:31px;
+height:18px;
+}
+.big-smiles .smile.archmage, .smile.archmage-big, .smiles.archmage-big  {
+background:url('/images/smiles/archmage-big.png?u09854') 0 0 no-repeat;
+width:62px;
+height:36px;
+}.animated-smiles .smile.archmage.animated {
+background:url('/images/anismiles/archmage-gif.gif?u09854') 0 0 no-repeat;
+width:62px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.archmage.animated {
+background:url('/images/smiles/archmage-big.png?u09854') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.archmage.animated:hover {
+background:url('/images/anismiles/archmage-gif.gif?u09854') 0 0 no-repeat;
+}.smile.snow2, .smiles.snow2 {
+background:url('/images/smiles/snow2.png?u09ary') 0 0 no-repeat;
+width:35px;
+height:18px;
+}
+.big-smiles .smile.snow2, .smile.snow2-big, .smiles.snow2-big  {
+background:url('/images/smiles/snow2-big.png?u09ary') 0 0 no-repeat;
+width:69px;
+height:36px;
+}.animated-smiles .smile.snow2.animated {
+background:url('/images/anismiles/snow2-gif.gif?u09ary') 0 0 no-repeat;
+width:69px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.snow2.animated {
+background:url('/images/smiles/snow2-big.png?u09ary') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.snow2.animated:hover {
+background:url('/images/anismiles/snow2-gif.gif?u09ary') 0 0 no-repeat;
+}.smile.kovipeka, .smiles.kovipeka {
+background:url('/images/smiles/kovipeka.png?u5xvhu') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.kovipeka, .smile.kovipeka-big, .smiles.kovipeka-big  {
+background:url('/images/smiles/kovipeka-big.png?u5xvhu') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.kovipeka.animated {
+background:url('/images/anismiles/kovipeka-gif.gif?u5xvhu') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.kovipeka.animated {
+background:url('/images/smiles/kovipeka-big.png?u5xvhu') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.kovipeka.animated:hover {
+background:url('/images/anismiles/kovipeka-gif.gif?u5xvhu') 0 0 no-repeat;
+}.smile.bravo, .smiles.bravo {
+background:url('/images/smiles/bravo.png?u8tm8p') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.bravo, .smile.bravo-big, .smiles.bravo-big  {
+background:url('/images/smiles/bravo-big.png?u8tm8p') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.bravo.animated {
+background:url('/images/anismiles/bravo-gif.gif?u8tm8p') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bravo.animated {
+background:url('/images/smiles/bravo-big.png?u8tm8p') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bravo.animated:hover {
+background:url('/images/anismiles/bravo-gif.gif?u8tm8p') 0 0 no-repeat;
+}.smile.hlebushek, .smiles.hlebushek {
+background:url('/images/smiles/hlebushek.png?u8tma3') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.hlebushek, .smile.hlebushek-big, .smiles.hlebushek-big  {
+background:url('/images/smiles/hlebushek-big.png?u8tma3') 0 0 no-repeat;
+width:47px;
+height:36px;
+}.animated-smiles .smile.hlebushek.animated {
+background:url('/images/anismiles/hlebushek-gif.gif?u8tma3') 0 0 no-repeat;
+width:47px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.hlebushek.animated {
+background:url('/images/smiles/hlebushek-big.png?u8tma3') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.hlebushek.animated:hover {
+background:url('/images/anismiles/hlebushek-gif.gif?u8tma3') 0 0 no-repeat;
+}.smile.catno, .smiles.catno {
+background:url('/images/smiles/catno.png?u8tmme') 0 0 no-repeat;
+width:19px;
+height:18px;
+}
+.big-smiles .smile.catno, .smile.catno-big, .smiles.catno-big  {
+background:url('/images/smiles/catno-big.png?u8tmme') 0 0 no-repeat;
+width:38px;
+height:36px;
+}.animated-smiles .smile.catno.animated {
+background:url('/images/anismiles/catno-gif.gif?u8tmme') 0 0 no-repeat;
+width:38px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.catno.animated {
+background:url('/images/smiles/catno-big.png?u8tmme') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.catno.animated:hover {
+background:url('/images/anismiles/catno-gif.gif?u8tmme') 0 0 no-repeat;
+}.smile.catyes, .smiles.catyes {
+background:url('/images/smiles/catyes.png?u8tmn6') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.catyes, .smile.catyes-big, .smiles.catyes-big  {
+background:url('/images/smiles/catyes-big.png?u8tmn6') 0 0 no-repeat;
+width:40px;
+height:36px;
+}.animated-smiles .smile.catyes.animated {
+background:url('/images/anismiles/catyes-gif.gif?u8tmn6') 0 0 no-repeat;
+width:40px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.catyes.animated {
+background:url('/images/smiles/catyes-big.png?u8tmn6') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.catyes.animated:hover {
+background:url('/images/anismiles/catyes-gif.gif?u8tmn6') 0 0 no-repeat;
+}.smile.dabgoose, .smiles.dabgoose {
+background:url('/images/smiles/dabgoose.png?u8tmo1') 0 0 no-repeat;
+width:34px;
+height:18px;
+}
+.big-smiles .smile.dabgoose, .smile.dabgoose-big, .smiles.dabgoose-big  {
+background:url('/images/smiles/dabgoose-big.png?u8tmo1') 0 0 no-repeat;
+width:67px;
+height:36px;
+}.animated-smiles .smile.dabgoose.animated {
+background:url('/images/anismiles/dabgoose-gif.gif?u8tmo1') 0 0 no-repeat;
+width:67px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.dabgoose.animated {
+background:url('/images/smiles/dabgoose-big.png?u8tmo1') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.dabgoose.animated:hover {
+background:url('/images/anismiles/dabgoose-gif.gif?u8tmo1') 0 0 no-repeat;
+}.smile.expertm, .smiles.expertm {
+background:url('/images/smiles/expertm.png?u8tmp5') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.expertm, .smile.expertm-big, .smiles.expertm-big  {
+background:url('/images/smiles/expertm-big.png?u8tmp5') 0 0 no-repeat;
+width:52px;
+height:36px;
+}.animated-smiles .smile.expertm.animated {
+background:url('/images/anismiles/expertm-gif.gif?u8tmp5') 0 0 no-repeat;
+width:52px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.expertm.animated {
+background:url('/images/smiles/expertm-big.png?u8tmp5') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.expertm.animated:hover {
+background:url('/images/anismiles/expertm-gif.gif?u8tmp5') 0 0 no-repeat;
+}.smile.fibod, .smiles.fibod {
+background:url('/images/smiles/fibod.png?u8tmq5') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.fibod, .smile.fibod-big, .smiles.fibod-big  {
+background:url('/images/smiles/fibod-big.png?u8tmq5') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.fibod.animated {
+background:url('/images/anismiles/fibod-gif.gif?u8tmq5') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fibod.animated {
+background:url('/images/smiles/fibod-big.png?u8tmq5') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fibod.animated:hover {
+background:url('/images/anismiles/fibod-gif.gif?u8tmq5') 0 0 no-repeat;
+}.smile.keanu, .smiles.keanu {
+background:url('/images/smiles/keanu.png?u8tmrb') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.keanu, .smile.keanu-big, .smiles.keanu-big  {
+background:url('/images/smiles/keanu-big.png?u8tmrb') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.keanu.animated {
+background:url('/images/anismiles/keanu-gif.gif?u8tmrb') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.keanu.animated {
+background:url('/images/smiles/keanu-big.png?u8tmrb') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.keanu.animated:hover {
+background:url('/images/anismiles/keanu-gif.gif?u8tmrb') 0 0 no-repeat;
+}.smile.flashl, .smiles.flashl {
+background:url('/images/smiles/flashl.png?u8tmuv') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.flashl, .smile.flashl-big, .smiles.flashl-big  {
+background:url('/images/smiles/flashl-big.png?u8tmuv') 0 0 no-repeat;
+width:51px;
+height:36px;
+}.animated-smiles .smile.flashl.animated {
+background:url('/images/anismiles/flashl-gif.gif?u8tmuv') 0 0 no-repeat;
+width:51px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.flashl.animated {
+background:url('/images/smiles/flashl-big.png?u8tmuv') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.flashl.animated:hover {
+background:url('/images/anismiles/flashl-gif.gif?u8tmuv') 0 0 no-repeat;
+}.smile.noted, .smiles.noted {
+background:url('/images/smiles/noted.png?u8tmvr') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.noted, .smile.noted-big, .smiles.noted-big  {
+background:url('/images/smiles/noted-big.png?u8tmvr') 0 0 no-repeat;
+width:39px;
+height:36px;
+}.animated-smiles .smile.noted.animated {
+background:url('/images/anismiles/noted-gif.gif?u8tmvr') 0 0 no-repeat;
+width:39px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.noted.animated {
+background:url('/images/smiles/noted-big.png?u8tmvr') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.noted.animated:hover {
+background:url('/images/anismiles/noted-gif.gif?u8tmvr') 0 0 no-repeat;
+}.smile.pepoclown, .smiles.pepoclown {
+background:url('/images/smiles/pepoclown.png?u8tn0q') 0 0 no-repeat;
+width:32px;
+height:18px;
+}
+.big-smiles .smile.pepoclown, .smile.pepoclown-big, .smiles.pepoclown-big  {
+background:url('/images/smiles/pepoclown-big.png?u8tn0q') 0 0 no-repeat;
+width:64px;
+height:36px;
+}.animated-smiles .smile.pepoclown.animated {
+background:url('/images/anismiles/pepoclown-gif.gif?u8tn0q') 0 0 no-repeat;
+width:64px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pepoclown.animated {
+background:url('/images/smiles/pepoclown-big.png?u8tn0q') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pepoclown.animated:hover {
+background:url('/images/anismiles/pepoclown-gif.gif?u8tn0q') 0 0 no-repeat;
+}.smile.hmmm, .smiles.hmmm {
+background:url('/images/smiles/hmmm.png?u8tn1o') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.hmmm, .smile.hmmm-big, .smiles.hmmm-big  {
+background:url('/images/smiles/hmmm-big.png?u8tn1o') 0 0 no-repeat;
+width:52px;
+height:36px;
+}.smile.pepelaugh, .smiles.pepelaugh {
+background:url('/images/smiles/pepelaugh.png?u8tn6e') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.pepelaugh, .smile.pepelaugh-big, .smiles.pepelaugh-big  {
+background:url('/images/smiles/pepelaugh-big.png?u8tn6f') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.pepelaugh.animated {
+background:url('/images/anismiles/pepelaugh-gif.gif?u8tn6f') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pepelaugh.animated {
+background:url('/images/smiles/pepelaugh-big.png?u8tn6f') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pepelaugh.animated:hover {
+background:url('/images/anismiles/pepelaugh-gif.gif?u8tn6f') 0 0 no-repeat;
+}.smile.poggers, .smiles.poggers {
+background:url('/images/smiles/poggers.png?u8tn88') 0 0 no-repeat;
+width:18px;
+height:18px;
+}
+.big-smiles .smile.poggers, .smile.poggers-big, .smiles.poggers-big  {
+background:url('/images/smiles/poggers-big.png?u8tn88') 0 0 no-repeat;
+width:36px;
+height:36px;
+}.animated-smiles .smile.poggers.animated {
+background:url('/images/anismiles/poggers-gif.gif?u8tn88') 0 0 no-repeat;
+width:36px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.poggers.animated {
+background:url('/images/smiles/poggers-big.png?u8tn88') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.poggers.animated:hover {
+background:url('/images/anismiles/poggers-gif.gif?u8tn88') 0 0 no-repeat;
+}.smile.monkas, .smiles.monkas {
+background:url('/images/smiles/monkas.png?u8tn98') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.monkas, .smile.monkas-big, .smiles.monkas-big  {
+background:url('/images/smiles/monkas-big.png?u8tn98') 0 0 no-repeat;
+width:42px;
+height:36px;
+}.animated-smiles .smile.monkas.animated {
+background:url('/images/anismiles/monkas-gif.gif?u8tn98') 0 0 no-repeat;
+width:42px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.monkas.animated {
+background:url('/images/smiles/monkas-big.png?u8tn98') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.monkas.animated:hover {
+background:url('/images/anismiles/monkas-gif.gif?u8tn98') 0 0 no-repeat;
+}.smile.pepehands, .smiles.pepehands {
+background:url('/images/smiles/pepehands.png?u8tna9') 0 0 no-repeat;
+width:22px;
+height:18px;
+}
+.big-smiles .smile.pepehands, .smile.pepehands-big, .smiles.pepehands-big  {
+background:url('/images/smiles/pepehands-big.png?u8tna9') 0 0 no-repeat;
+width:43px;
+height:36px;
+}.smile.think, .smiles.think {
+background:url('/images/smiles/think.png?u8tnbe') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.think, .smile.think-big, .smiles.think-big  {
+background:url('/images/smiles/think-big.png?u8tnbe') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.think.animated {
+background:url('/images/anismiles/think-gif.gif?u8tnbe') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.think.animated {
+background:url('/images/smiles/think-big.png?u8tnbe') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.think.animated:hover {
+background:url('/images/anismiles/think-gif.gif?u8tnbe') 0 0 no-repeat;
+}.smile.eer0, .smiles.eer0 {
+background:url('/images/smiles/eer0.png?ujxhte') 0 0 no-repeat;
+width:34px;
+height:18px;
+}
+.big-smiles .smile.eer0, .smile.eer0-big, .smiles.eer0-big  {
+background:url('/images/smiles/eer0-big.png?ujxhte') 0 0 no-repeat;
+width:68px;
+height:36px;
+}.animated-smiles .smile.eer0.animated {
+background:url('/images/anismiles/eer0-gif.gif?ujxhte') 0 0 no-repeat;
+width:68px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.eer0.animated {
+background:url('/images/smiles/eer0-big.png?ujxhte') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.eer0.animated:hover {
+background:url('/images/anismiles/eer0-gif.gif?ujxhte') 0 0 no-repeat;
+}.smile.bvecher, .smiles.bvecher {
+background:url('/images/smiles/bvecher.png?uksruc') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.bvecher, .smile.bvecher-big, .smiles.bvecher-big  {
+background:url('/images/smiles/bvecher-big.png?uksruc') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.bvecher.animated {
+background:url('/images/anismiles/bvecher-gif.gif?uksruc') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bvecher.animated {
+background:url('/images/smiles/bvecher-big.png?uksruc') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bvecher.animated:hover {
+background:url('/images/anismiles/bvecher-gif.gif?uksruc') 0 0 no-repeat;
+}.smile.hey, .smiles.hey {
+background:url('/images/smiles/hey.png?uksrvk') 0 0 no-repeat;
+width:34px;
+height:18px;
+}
+.big-smiles .smile.hey, .smile.hey-big, .smiles.hey-big  {
+background:url('/images/smiles/hey-big.png?uksrvk') 0 0 no-repeat;
+width:67px;
+height:36px;
+}.animated-smiles .smile.hey.animated {
+background:url('/images/anismiles/hey-gif.gif?uksrvk') 0 0 no-repeat;
+width:67px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.hey.animated {
+background:url('/images/smiles/hey-big.png?uksrvk') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.hey.animated:hover {
+background:url('/images/anismiles/hey-gif.gif?uksrvk') 0 0 no-repeat;
+}.smile.alwayshb, .smiles.alwayshb {
+background:url('/images/smiles/alwayshb.png?ukx2ef') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.alwayshb, .smile.alwayshb-big, .smiles.alwayshb-big  {
+background:url('/images/smiles/alwayshb-big.png?ukx2ef') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.alwayshb.animated {
+background:url('/images/anismiles/alwayshb-gif.gif?ukx2ef') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.alwayshb.animated {
+background:url('/images/smiles/alwayshb-big.png?ukx2ef') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.alwayshb.animated:hover {
+background:url('/images/anismiles/alwayshb-gif.gif?ukx2ef') 0 0 no-repeat;
+}.smile.artas, .smiles.artas {
+background:url('/images/smiles/artas.png?ukx2f5') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.artas, .smile.artas-big, .smiles.artas-big  {
+background:url('/images/smiles/artas-big.png?ukx2f5') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.artas.animated {
+background:url('/images/anismiles/artas-gif.gif?ukx2f5') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.artas.animated {
+background:url('/images/smiles/artas-big.png?ukx2f5') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.artas.animated:hover {
+background:url('/images/anismiles/artas-gif.gif?ukx2f5') 0 0 no-repeat;
+}.smile.onelove, .smiles.onelove {
+background:url('/images/smiles/onelove.png?ukx2gw') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.onelove, .smile.onelove-big, .smiles.onelove-big  {
+background:url('/images/smiles/onelove-big.png?ukx2gw') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.onelove.animated {
+background:url('/images/anismiles/onelove-gif.gif?ukx2gw') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.onelove.animated {
+background:url('/images/smiles/onelove-big.png?ukx2gw') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.onelove.animated:hover {
+background:url('/images/anismiles/onelove-gif.gif?ukx2gw') 0 0 no-repeat;
+}.smile.bshy, .smiles.bshy {
+background:url('/images/smiles/bshy.png?ukx2jf') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.bshy, .smile.bshy-big, .smiles.bshy-big  {
+background:url('/images/smiles/bshy-big.png?ukx2jf') 0 0 no-repeat;
+width:40px;
+height:36px;
+}.animated-smiles .smile.bshy.animated {
+background:url('/images/anismiles/bshy-gif.gif?ukx2jf') 0 0 no-repeat;
+width:40px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bshy.animated {
+background:url('/images/smiles/bshy-big.png?ukx2jf') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bshy.animated:hover {
+background:url('/images/anismiles/bshy-gif.gif?ukx2jf') 0 0 no-repeat;
+}.smile.busted, .smiles.busted {
+background:url('/images/smiles/busted.png?ukx2kv') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.busted, .smile.busted-big, .smiles.busted-big  {
+background:url('/images/smiles/busted-big.png?ukx2kv') 0 0 no-repeat;
+width:57px;
+height:36px;
+}.animated-smiles .smile.busted.animated {
+background:url('/images/anismiles/busted-gif.gif?ukx2kv') 0 0 no-repeat;
+width:57px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.busted.animated {
+background:url('/images/smiles/busted-big.png?ukx2kv') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.busted.animated:hover {
+background:url('/images/anismiles/busted-gif.gif?ukx2kv') 0 0 no-repeat;
+}.smile.chims, .smiles.chims {
+background:url('/images/smiles/chims.png?ukx2mq') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.chims, .smile.chims-big, .smiles.chims-big  {
+background:url('/images/smiles/chims-big.png?ukx2mq') 0 0 no-repeat;
+width:42px;
+height:36px;
+}.animated-smiles .smile.chims.animated {
+background:url('/images/anismiles/chims-gif.gif?ukx2mq') 0 0 no-repeat;
+width:42px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.chims.animated {
+background:url('/images/smiles/chims-big.png?ukx2mq') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.chims.animated:hover {
+background:url('/images/anismiles/chims-gif.gif?ukx2mq') 0 0 no-repeat;
+}.smile.fffibo, .smiles.fffibo {
+background:url('/images/smiles/fffibo.png?ukx2nl') 0 0 no-repeat;
+width:32px;
+height:18px;
+}
+.big-smiles .smile.fffibo, .smile.fffibo-big, .smiles.fffibo-big  {
+background:url('/images/smiles/fffibo-big.png?ukx2nl') 0 0 no-repeat;
+width:64px;
+height:36px;
+}.animated-smiles .smile.fffibo.animated {
+background:url('/images/anismiles/fffibo-gif.gif?ukx2nl') 0 0 no-repeat;
+width:64px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fffibo.animated {
+background:url('/images/smiles/fffibo-big.png?ukx2nl') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fffibo.animated:hover {
+background:url('/images/anismiles/fffibo-gif.gif?ukx2nl') 0 0 no-repeat;
+}.smile.fibo, .smiles.fibo {
+background:url('/images/smiles/fibo.png?ukx2os') 0 0 no-repeat;
+width:28px;
+height:18px;
+}
+.big-smiles .smile.fibo, .smile.fibo-big, .smiles.fibo-big  {
+background:url('/images/smiles/fibo-big.png?ukx2os') 0 0 no-repeat;
+width:55px;
+height:36px;
+}.animated-smiles .smile.fibo.animated {
+background:url('/images/anismiles/fibo-gif.gif?ukx2os') 0 0 no-repeat;
+width:55px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fibo.animated {
+background:url('/images/smiles/fibo-big.png?ukx2os') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fibo.animated:hover {
+background:url('/images/anismiles/fibo-gif.gif?ukx2os') 0 0 no-repeat;
+}.smile.kekw, .smiles.kekw {
+background:url('/images/smiles/kekw.png?ukx2pt') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.kekw, .smile.kekw-big, .smiles.kekw-big  {
+background:url('/images/smiles/kekw-big.png?ukx2pt') 0 0 no-repeat;
+width:52px;
+height:36px;
+}.animated-smiles .smile.kekw.animated {
+background:url('/images/anismiles/kekw-gif.gif?ukx2pt') 0 0 no-repeat;
+width:52px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.kekw.animated {
+background:url('/images/smiles/kekw-big.png?ukx2pt') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.kekw.animated:hover {
+background:url('/images/anismiles/kekw-gif.gif?ukx2pt') 0 0 no-repeat;
+}.smile.pepcard, .smiles.pepcard {
+background:url('/images/smiles/pepcard.png?ukx2qw') 0 0 no-repeat;
+width:31px;
+height:18px;
+}
+.big-smiles .smile.pepcard, .smile.pepcard-big, .smiles.pepcard-big  {
+background:url('/images/smiles/pepcard-big.png?ukx2qw') 0 0 no-repeat;
+width:61px;
+height:36px;
+}.animated-smiles .smile.pepcard.animated {
+background:url('/images/anismiles/pepcard-gif.gif?ukx2qw') 0 0 no-repeat;
+width:61px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pepcard.animated {
+background:url('/images/smiles/pepcard-big.png?ukx2qw') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pepcard.animated:hover {
+background:url('/images/anismiles/pepcard-gif.gif?ukx2qw') 0 0 no-repeat;
+}.smile.sir, .smiles.sir {
+background:url('/images/smiles/sir.png?ukx2s2') 0 0 no-repeat;
+width:33px;
+height:18px;
+}
+.big-smiles .smile.sir, .smile.sir-big, .smiles.sir-big  {
+background:url('/images/smiles/sir-big.png?ukx2s2') 0 0 no-repeat;
+width:66px;
+height:36px;
+}.animated-smiles .smile.sir.animated {
+background:url('/images/anismiles/sir-gif.gif?ukx2s2') 0 0 no-repeat;
+width:66px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sir.animated {
+background:url('/images/smiles/sir-big.png?ukx2s2') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sir.animated:hover {
+background:url('/images/anismiles/sir-gif.gif?ukx2s2') 0 0 no-repeat;
+}.smile.sushicat, .smiles.sushicat {
+background:url('/images/smiles/sushicat.png?ukx2tr') 0 0 no-repeat;
+width:34px;
+height:18px;
+}
+.big-smiles .smile.sushicat, .smile.sushicat-big, .smiles.sushicat-big  {
+background:url('/images/smiles/sushicat-big.png?ukx2tr') 0 0 no-repeat;
+width:67px;
+height:36px;
+}.animated-smiles .smile.sushicat.animated {
+background:url('/images/anismiles/sushicat-gif.gif?ukx2tr') 0 0 no-repeat;
+width:67px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sushicat.animated {
+background:url('/images/smiles/sushicat-big.png?ukx2tr') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sushicat.animated:hover {
+background:url('/images/anismiles/sushicat-gif.gif?ukx2tr') 0 0 no-repeat;
+}.smile.smoon, .smiles.smoon {
+background:url('/images/smiles/smoon.png?ukx2x1') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.smoon, .smile.smoon-big, .smiles.smoon-big  {
+background:url('/images/smiles/smoon-big.png?ukx2x1') 0 0 no-repeat;
+width:60px;
+height:36px;
+}.smile.shmm, .smiles.shmm {
+background:url('/images/smiles/shmm.png?ukx51c') 0 0 no-repeat;
+width:23px;
+height:18px;
+}
+.big-smiles .smile.shmm, .smile.shmm-big, .smiles.shmm-big  {
+background:url('/images/smiles/shmm-big.png?ukx51c') 0 0 no-repeat;
+width:46px;
+height:36px;
+}.animated-smiles .smile.shmm.animated {
+background:url('/images/anismiles/shmm-gif.gif?ukx51c') 0 0 no-repeat;
+width:46px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.shmm.animated {
+background:url('/images/smiles/shmm-big.png?ukx51c') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.shmm.animated:hover {
+background:url('/images/anismiles/shmm-gif.gif?ukx51c') 0 0 no-repeat;
+}.smile.pigeon, .smiles.pigeon {
+background:url('/images/smiles/pigeon.png?ulee6k') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.pigeon, .smile.pigeon-big, .smiles.pigeon-big  {
+background:url('/images/smiles/pigeon-big.png?ulee6k') 0 0 no-repeat;
+width:57px;
+height:36px;
+}.animated-smiles .smile.pigeon.animated {
+background:url('/images/anismiles/pigeon-gif.gif?ulee6k') 0 0 no-repeat;
+width:57px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pigeon.animated {
+background:url('/images/smiles/pigeon-big.png?ulee6k') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pigeon.animated:hover {
+background:url('/images/anismiles/pigeon-gif.gif?ulee6k') 0 0 no-repeat;
+}.smile.pikahuh, .smiles.pikahuh {
+background:url('/images/smiles/pikahuh.png?ulef0h') 0 0 no-repeat;
+width:22px;
+height:18px;
+}
+.big-smiles .smile.pikahuh, .smile.pikahuh-big, .smiles.pikahuh-big  {
+background:url('/images/smiles/pikahuh-big.png?ulef0h') 0 0 no-repeat;
+width:44px;
+height:36px;
+}.animated-smiles .smile.pikahuh.animated {
+background:url('/images/anismiles/pikahuh-gif.gif?ulef0i') 0 0 no-repeat;
+width:44px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pikahuh.animated {
+background:url('/images/smiles/pikahuh-big.png?ulef0h') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pikahuh.animated:hover {
+background:url('/images/anismiles/pikahuh-gif.gif?ulef0i') 0 0 no-repeat;
+}.smile.pop, .smiles.pop {
+background:url('/images/smiles/pop.png?ulef3q') 0 0 no-repeat;
+width:23px;
+height:18px;
+}
+.big-smiles .smile.pop, .smile.pop-big, .smiles.pop-big  {
+background:url('/images/smiles/pop-big.png?ulef3q') 0 0 no-repeat;
+width:46px;
+height:36px;
+}.animated-smiles .smile.pop.animated {
+background:url('/images/anismiles/pop-gif.gif?ulef3q') 0 0 no-repeat;
+width:46px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pop.animated {
+background:url('/images/smiles/pop-big.png?ulef3q') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pop.animated:hover {
+background:url('/images/anismiles/pop-gif.gif?ulef3q') 0 0 no-repeat;
+}.smile.bdance, .smiles.bdance {
+background:url('/images/smiles/bdance.png?v9iso7') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.bdance, .smile.bdance-big, .smiles.bdance-big  {
+background:url('/images/smiles/bdance-big.png?v9iso7') 0 0 no-repeat;
+width:39px;
+height:36px;
+}.animated-smiles .smile.bdance.animated {
+background:url('/images/anismiles/bdance-gif.gif?v9iso7') 0 0 no-repeat;
+width:39px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bdance.animated {
+background:url('/images/smiles/bdance-big.png?v9iso7') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bdance.animated:hover {
+background:url('/images/anismiles/bdance-gif.gif?v9iso7') 0 0 no-repeat;
+}.smile.beverly, .smiles.beverly {
+background:url('/images/smiles/beverly.png?v9isc6') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.beverly, .smile.beverly-big, .smiles.beverly-big  {
+background:url('/images/smiles/beverly-big.png?v9isc6') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.beverly.animated {
+background:url('/images/anismiles/beverly-gif.gif?v9isc6') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.beverly.animated {
+background:url('/images/smiles/beverly-big.png?v9isc6') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.beverly.animated:hover {
+background:url('/images/anismiles/beverly-gif.gif?v9isc6') 0 0 no-repeat;
+}.smile.smudge, .smiles.smudge {
+background:url('/images/smiles/smudge.png?v9isck') 0 0 no-repeat;
+width:26px;
+height:18px;
+}
+.big-smiles .smile.smudge, .smile.smudge-big, .smiles.smudge-big  {
+background:url('/images/smiles/smudge-big.png?v9iscl') 0 0 no-repeat;
+width:52px;
+height:36px;
+}.animated-smiles .smile.smudge.animated {
+background:url('/images/anismiles/smudge-gif.gif?v9iscl') 0 0 no-repeat;
+width:52px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.smudge.animated {
+background:url('/images/smiles/smudge-big.png?v9iscl') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.smudge.animated:hover {
+background:url('/images/anismiles/smudge-gif.gif?v9iscl') 0 0 no-repeat;
+}.smile.fuckoff, .smiles.fuckoff {
+background:url('/images/smiles/fuckoff.png?uo7l5e') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.fuckoff, .smile.fuckoff-big, .smiles.fuckoff-big  {
+background:url('/images/smiles/fuckoff-big.png?uo7l5e') 0 0 no-repeat;
+width:47px;
+height:36px;
+}.animated-smiles .smile.fuckoff.animated {
+background:url('/images/anismiles/fuckoff-gif.gif?uo7l5e') 0 0 no-repeat;
+width:47px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.fuckoff.animated {
+background:url('/images/smiles/fuckoff-big.png?uo7l5e') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.fuckoff.animated:hover {
+background:url('/images/anismiles/fuckoff-gif.gif?uo7l5e') 0 0 no-repeat;
+}.smile.vjuh, .smiles.vjuh {
+background:url('/images/smiles/vjuh.png?v9isif') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.vjuh, .smile.vjuh-big, .smiles.vjuh-big  {
+background:url('/images/smiles/vjuh-big.png?v9isif') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.vjuh.animated {
+background:url('/images/anismiles/vjuh-gif.gif?v9isif') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.vjuh.animated {
+background:url('/images/smiles/vjuh-big.png?v9isif') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.vjuh.animated:hover {
+background:url('/images/anismiles/vjuh-gif.gif?v9isif') 0 0 no-repeat;
+}.smile.sigh, .smiles.sigh {
+background:url('/images/smiles/sigh.png?v9iskc') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.sigh, .smile.sigh-big, .smiles.sigh-big  {
+background:url('/images/smiles/sigh-big.png?v9iskc') 0 0 no-repeat;
+width:47px;
+height:36px;
+}.animated-smiles .smile.sigh.animated {
+background:url('/images/anismiles/sigh-gif.gif?v9iskc') 0 0 no-repeat;
+width:47px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sigh.animated {
+background:url('/images/smiles/sigh-big.png?v9iskc') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sigh.animated:hover {
+background:url('/images/anismiles/sigh-gif.gif?v9iskc') 0 0 no-repeat;
+}.smile.bnews, .smiles.bnews {
+background:url('/images/smiles/bnews.png?v9isnb') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.bnews, .smile.bnews-big, .smiles.bnews-big  {
+background:url('/images/smiles/bnews-big.png?v9isnb') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.bnews.animated {
+background:url('/images/anismiles/bnews-gif.gif?v9isnb') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bnews.animated {
+background:url('/images/smiles/bnews-big.png?v9isnb') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bnews.animated:hover {
+background:url('/images/anismiles/bnews-gif.gif?v9isnb') 0 0 no-repeat;
+}.smile.bearbush, .smiles.bearbush {
+background:url('/images/smiles/bearbush.png?v9isqx') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.bearbush, .smile.bearbush-big, .smiles.bearbush-big  {
+background:url('/images/smiles/bearbush-big.png?v9isqx') 0 0 no-repeat;
+width:58px;
+height:36px;
+}.animated-smiles .smile.bearbush.animated {
+background:url('/images/anismiles/bearbush-gif.gif?v9isqx') 0 0 no-repeat;
+width:58px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.bearbush.animated {
+background:url('/images/smiles/bearbush-big.png?v9isqx') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.bearbush.animated:hover {
+background:url('/images/anismiles/bearbush-gif.gif?v9isqx') 0 0 no-repeat;
+}.smile.thisisfine, .smiles.thisisfine {
+background:url('/images/smiles/thisisfine.png?v9ism6') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.thisisfine, .smile.thisisfine-big, .smiles.thisisfine-big  {
+background:url('/images/smiles/thisisfine-big.png?v9ism6') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.thisisfine.animated {
+background:url('/images/anismiles/thisisfine-gif.gif?v9ism6') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.thisisfine.animated {
+background:url('/images/smiles/thisisfine-big.png?v9ism6') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.thisisfine.animated:hover {
+background:url('/images/anismiles/thisisfine-gif.gif?v9ism6') 0 0 no-repeat;
+}.smile.jasonbobr, .smiles.jasonbobr {
+background:url('/images/smiles/jasonbobr.png?v9isaw') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.jasonbobr, .smile.jasonbobr-big, .smiles.jasonbobr-big  {
+background:url('/images/smiles/jasonbobr-big.png?v9isaw') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.jasonbobr.animated {
+background:url('/images/anismiles/jasonbobr-gif.gif?v9isaw') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.jasonbobr.animated {
+background:url('/images/smiles/jasonbobr-big.png?v9isaw') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.jasonbobr.animated:hover {
+background:url('/images/anismiles/jasonbobr-gif.gif?v9isaw') 0 0 no-repeat;
+}.smile.ledokol, .smiles.ledokol {
+background:url('/images/smiles/ledokol.png?urtyj7') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.ledokol, .smile.ledokol-big, .smiles.ledokol-big  {
+background:url('/images/smiles/ledokol-big.png?urtyj7') 0 0 no-repeat;
+width:53px;
+height:36px;
+}.animated-smiles .smile.ledokol.animated {
+background:url('/images/anismiles/ledokol-gif.gif?urtyj7') 0 0 no-repeat;
+width:53px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.ledokol.animated {
+background:url('/images/smiles/ledokol-big.png?urtyj7') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.ledokol.animated:hover {
+background:url('/images/anismiles/ledokol-gif.gif?urtyj7') 0 0 no-repeat;
+}.smile.lk, .smiles.lk {
+background:url('/images/smiles/lk.png?us6nqi') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.lk, .smile.lk-big, .smiles.lk-big  {
+background:url('/images/smiles/lk-big.png?us6nqi') 0 0 no-repeat;
+width:71px;
+height:36px;
+}.animated-smiles .smile.lk.animated {
+background:url('/images/anismiles/lk-gif.gif?us6nqi') 0 0 no-repeat;
+width:71px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.lk.animated {
+background:url('/images/smiles/lk-big.png?us6nqi') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.lk.animated:hover {
+background:url('/images/anismiles/lk-gif.gif?us6nqi') 0 0 no-repeat;
+}.smile.pervyi, .smiles.pervyi {
+background:url('/images/smiles/pervyi.png?usccts') 0 0 no-repeat;
+width:33px;
+height:18px;
+}
+.big-smiles .smile.pervyi, .smile.pervyi-big, .smiles.pervyi-big  {
+background:url('/images/smiles/pervyi-big.png?usccts') 0 0 no-repeat;
+width:66px;
+height:36px;
+}.animated-smiles .smile.pervyi.animated {
+background:url('/images/anismiles/pervyi-gif.gif?usccts') 0 0 no-repeat;
+width:66px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.pervyi.animated {
+background:url('/images/smiles/pervyi-big.png?usccts') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.pervyi.animated:hover {
+background:url('/images/anismiles/pervyi-gif.gif?usccts') 0 0 no-repeat;
+}.smile.strelka, .smiles.strelka {
+background:url('/images/smiles/strelka.png?usccul') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.strelka, .smile.strelka-big, .smiles.strelka-big  {
+background:url('/images/smiles/strelka-big.png?usccul') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.strelka.animated {
+background:url('/images/anismiles/strelka-gif.gif?usccul') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.strelka.animated {
+background:url('/images/smiles/strelka-big.png?usccul') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.strelka.animated:hover {
+background:url('/images/anismiles/strelka-gif.gif?usccul') 0 0 no-repeat;
+}.smile.belka, .smiles.belka {
+background:url('/images/smiles/belka.png?usccv9') 0 0 no-repeat;
+width:24px;
+height:18px;
+}
+.big-smiles .smile.belka, .smile.belka-big, .smiles.belka-big  {
+background:url('/images/smiles/belka-big.png?usccv9') 0 0 no-repeat;
+width:47px;
+height:36px;
+}.animated-smiles .smile.belka.animated {
+background:url('/images/anismiles/belka-gif.gif?usccv9') 0 0 no-repeat;
+width:47px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.belka.animated {
+background:url('/images/smiles/belka-big.png?usccv9') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.belka.animated:hover {
+background:url('/images/anismiles/belka-gif.gif?usccv9') 0 0 no-repeat;
+}.smile.sputnik, .smiles.sputnik {
+background:url('/images/smiles/sputnik.png?usccwb') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.sputnik, .smile.sputnik-big, .smiles.sputnik-big  {
+background:url('/images/smiles/sputnik-big.png?usccwb') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.sputnik.animated {
+background:url('/images/anismiles/sputnik-gif.gif?usccwb') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.sputnik.animated {
+background:url('/images/smiles/sputnik-big.png?usccwb') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.sputnik.animated:hover {
+background:url('/images/anismiles/sputnik-gif.gif?usccwb') 0 0 no-repeat;
+}.smile.gend, .smiles.gend {
+background:url('/images/smiles/gend.png?v9is60') 0 0 no-repeat;
+width:29px;
+height:18px;
+}
+.big-smiles .smile.gend, .smile.gend-big, .smiles.gend-big  {
+background:url('/images/smiles/gend-big.png?v9is60') 0 0 no-repeat;
+width:57px;
+height:36px;
+}.animated-smiles .smile.gend.animated {
+background:url('/images/anismiles/gend-gif.gif?v9is60') 0 0 no-repeat;
+width:57px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gend.animated {
+background:url('/images/smiles/gend-big.png?v9is60') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gend.animated:hover {
+background:url('/images/anismiles/gend-gif.gif?v9is60') 0 0 no-repeat;
+}.smile.master, .smiles.master {
+background:url('/images/smiles/master.png?uwnwuo') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.master, .smile.master-big, .smiles.master-big  {
+background:url('/images/smiles/master-big.png?uwnwuo') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.master.animated {
+background:url('/images/anismiles/master-gif.gif?uwnwuo') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.master.animated {
+background:url('/images/smiles/master-big.png?uwnwuo') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.master.animated:hover {
+background:url('/images/anismiles/master-gif.gif?uwnwuo') 0 0 no-repeat;
+}.smile.deckard, .smiles.deckard {
+background:url('/images/smiles/deckard.png?v2q1ds') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.deckard, .smile.deckard-big, .smiles.deckard-big  {
+background:url('/images/smiles/deckard-big.png?v2q1dt') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.deckard.animated {
+background:url('/images/anismiles/deckard-gif.gif?v2q1dt') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.deckard.animated {
+background:url('/images/smiles/deckard-big.png?v2q1dt') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.deckard.animated:hover {
+background:url('/images/anismiles/deckard-gif.gif?v2q1dt') 0 0 no-repeat;
+}.smile.tirael, .smiles.tirael {
+background:url('/images/smiles/tirael.png?v2q1eo') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.tirael, .smile.tirael-big, .smiles.tirael-big  {
+background:url('/images/smiles/tirael-big.png?v2q1eo') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.tirael.animated {
+background:url('/images/anismiles/tirael-gif.gif?v2q1eo') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.tirael.animated {
+background:url('/images/smiles/tirael-big.png?v2q1eo') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.tirael.animated:hover {
+background:url('/images/anismiles/tirael-gif.gif?v2q1eo') 0 0 no-repeat;
+}.smile.diablo, .smiles.diablo {
+background:url('/images/smiles/diablo.png?v2q1fo') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.diablo, .smile.diablo-big, .smiles.diablo-big  {
+background:url('/images/smiles/diablo-big.png?v2q1fo') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.diablo.animated {
+background:url('/images/anismiles/diablo-gif.gif?v2q1fo') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.diablo.animated {
+background:url('/images/smiles/diablo-big.png?v2q1fo') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.diablo.animated:hover {
+background:url('/images/anismiles/diablo-gif.gif?v2q1fo') 0 0 no-repeat;
+}.smile.gold, .smiles.gold {
+background:url('/images/smiles/gold.png?v2q1gm') 0 0 no-repeat;
+width:30px;
+height:18px;
+}
+.big-smiles .smile.gold, .smile.gold-big, .smiles.gold-big  {
+background:url('/images/smiles/gold-big.png?v2q1gm') 0 0 no-repeat;
+width:60px;
+height:36px;
+}.animated-smiles .smile.gold.animated {
+background:url('/images/anismiles/gold-gif.gif?v2q1gm') 0 0 no-repeat;
+width:60px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.gold.animated {
+background:url('/images/smiles/gold-big.png?v2q1gm') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.gold.animated:hover {
+background:url('/images/anismiles/gold-gif.gif?v2q1gm') 0 0 no-repeat;
+}.smile.moo, .smiles.moo {
+background:url('/images/smiles/moo.png?v2q1h8') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.moo, .smile.moo-big, .smiles.moo-big  {
+background:url('/images/smiles/moo-big.png?v2q1h8') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.moo.animated {
+background:url('/images/anismiles/moo-gif.gif?v2q1h8') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.moo.animated {
+background:url('/images/smiles/moo-big.png?v2q1h8') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.moo.animated:hover {
+background:url('/images/anismiles/moo-gif.gif?v2q1h8') 0 0 no-repeat;
+}.smile.mana, .smiles.mana {
+background:url('/images/smiles/mana.png?v2q1i1') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.mana, .smile.mana-big, .smiles.mana-big  {
+background:url('/images/smiles/mana-big.png?v2q1i1') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.mana.animated {
+background:url('/images/anismiles/mana-gif.gif?v2q1i1') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.mana.animated {
+background:url('/images/smiles/mana-big.png?v2q1i1') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.mana.animated:hover {
+background:url('/images/anismiles/mana-gif.gif?v2q1i1') 0 0 no-repeat;
+}.smile.support, .smiles.support {
+background:url('/images/smiles/support.png?v2rtlq') 0 0 no-repeat;
+width:27px;
+height:18px;
+}
+.big-smiles .smile.support, .smile.support-big, .smiles.support-big  {
+background:url('/images/smiles/support-big.png?v2rtlq') 0 0 no-repeat;
+width:54px;
+height:36px;
+}.animated-smiles .smile.support.animated {
+background:url('/images/anismiles/support-gif.gif?v2rtlq') 0 0 no-repeat;
+width:54px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.support.animated {
+background:url('/images/smiles/support-big.png?v2rtlq') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.support.animated:hover {
+background:url('/images/anismiles/support-gif.gif?v2rtlq') 0 0 no-repeat;
+}.smile.ohmypeka, .smiles.ohmypeka {
+background:url('/images/smiles/ohmypeka.png?v9is3m') 0 0 no-repeat;
+width:21px;
+height:18px;
+}
+.big-smiles .smile.ohmypeka, .smile.ohmypeka-big, .smiles.ohmypeka-big  {
+background:url('/images/smiles/ohmypeka-big.png?v9is3m') 0 0 no-repeat;
+width:41px;
+height:36px;
+}.smile.whyyy, .smiles.whyyy {
+background:url('/images/smiles/whyyy.png?v9isf6') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.whyyy, .smile.whyyy-big, .smiles.whyyy-big  {
+background:url('/images/smiles/whyyy-big.png?v9isf6') 0 0 no-repeat;
+width:39px;
+height:36px;
+}.smile.doggie, .smiles.doggie {
+background:url('/images/smiles/doggie.png?v9isji') 0 0 no-repeat;
+width:20px;
+height:18px;
+}
+.big-smiles .smile.doggie, .smile.doggie-big, .smiles.doggie-big  {
+background:url('/images/smiles/doggie-big.png?v9isji') 0 0 no-repeat;
+width:40px;
+height:36px;
+}.smile.plasma, .smiles.plasma {
+background:url('/images/smiles/plasma.png?vcnbyl') 0 0 no-repeat;
+width:36px;
+height:18px;
+}
+.big-smiles .smile.plasma, .smile.plasma-big, .smiles.plasma-big  {
+background:url('/images/smiles/plasma-big.png?vcnbyl') 0 0 no-repeat;
+width:72px;
+height:36px;
+}.animated-smiles .smile.plasma.animated {
+background:url('/images/anismiles/plasma-gif.gif?vcnbyl') 0 0 no-repeat;
+width:72px;
+height:36px;
+}
+.animated-smiles .smiles-panel .smile.plasma.animated {
+background:url('/images/smiles/plasma-big.png?vcnbyl') 0 0 no-repeat;
+}
+.animated-smiles .smiles-panel .smile.plasma.animated:hover {
+background:url('/images/anismiles/plasma-gif.gif?vcnbyl') 0 0 no-repeat;
+}
