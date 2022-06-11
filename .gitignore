@@ -20,6 +20,7 @@ node_modules
 
 # style's d.ts
 *.scss.d.ts
+*.css.d.ts
 
 # other
 .DS_Store
