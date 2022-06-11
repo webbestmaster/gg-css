@@ -3,7 +3,7 @@ import {SyntheticEvent, useState} from "react";
 import rawHtml from './../../../material/187145.txt';
 
 // import foreign styles
-// import style1 from '../../../material/187145_files/style-new.css';
+import style1 from '../../../material/187145_files/style-new.css';
 
 // <link href="./187145_files/style-new.css" rel="stylesheet" type="text/css">
 // <link rel="stylesheet" type="text/css" href="./187145_files/style-new(1).css">
@@ -12,15 +12,24 @@ import rawHtml from './../../../material/187145.txt';
 // <link rel="stylesheet" href="./187145_files/channels_smiles.css" media="all">
 // <link rel="stylesheet" href="./187145_files/common_smiles.css" media="all">
 
-// console.log(style1)
+console.log(style1)
 
 console.log(rawHtml)
 
+import {classNames} from "../../../util/css";
+
 import styleClientHome from './client-home.scss';
 
+
 export function ClientHome(): JSX.Element {
-    const [backgroundColor, setBackgroundColor] = useState<string>('#000000');
+    const [backgroundColor, setBackgroundColor] = useState<string>('#00cc00');
     const [backgroundColorAlpha, setBackgroundColorAlpha] = useState<string>('255');
+
+    const css = `
+        .result-wrapper {
+            background-color: ${backgroundColor};
+        }
+    `
 
     return (
         <div className={styleClientHome.home}>
@@ -54,7 +63,8 @@ export function ClientHome(): JSX.Element {
                 </label>
                 <h1>inputs</h1>
             </div>
-            <div className={styleClientHome.home_container}>
+            <div className={classNames(styleClientHome.home_container, 'result-wrapper')}>
+                <style dangerouslySetInnerHTML={{__html: css}}></style>
                 <h1>result</h1>
                 <p>{backgroundColor}</p>
                 <p>{backgroundColorAlpha}</p>
