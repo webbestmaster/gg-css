@@ -1,6 +1,7 @@
 /* global HTMLInputElement */
-import {SyntheticEvent, useState} from "react";
-import rawHtml from './../../../material/187145.txt';
+import {SyntheticEvent, useState} from 'react';
+
+import rawHtml from '../../../material/187145.txt';
 
 // import foreign styles
 import style1 from '../../../material/187145_files/style-new.css';
@@ -18,62 +19,132 @@ console.log(style2);
 
 console.log(rawHtml);
 
-import {classNames} from "../../../util/css";
+import {classNames} from '../../../util/css';
 
 import styleClientHome from './client-home.scss';
 
 export function ClientHome(): JSX.Element {
-    const [backgroundColor, setBackgroundColor] = useState<string>('#00cc00');
-    const [backgroundColorAlpha, setBackgroundColorAlpha] = useState<string>('00');
+    const [backgroundColor, setBackgroundColor] = useState<string>('#0a0d11');
+    const [backgroundColorAlpha, setBackgroundColorAlpha] = useState<string>('255');
+    const [isShowSendButton, setIsShowSendButton] = useState<boolean>(true);
 
     const css = `
-        .result-wrapper {
-            background-color: ${backgroundColor}${backgroundColorAlpha};
-        }
+/* chat-container */
+body, div.chat-container {
+    border-left: none !important;
+    padding: 8px;
+    /* background-color: #0a0d11e3 */;
+    background-color: ${backgroundColor}${Number.parseInt(backgroundColorAlpha, 10).toString(16).padStart(2, '0')};
+}
+
+/* button on the bottom */
+div.chat-control-block {
+    display: ${isShowSendButton ? 'block' : 'none'};
+}
+
+/* shadow line */
+.bg-block {
+    display: none !important;
+}
+
+/* chat height */
+div.content-window {
+    height: 100% !important;
+}
+
+.chat-container_new-guy .content-window {
+    height: 100% !important;
+}
+
+.content-window {
+    height: 100%;
+}
+
+.chat-container .content-window {
+    height: 100%
+}
+
+.chat-container {
+    border-left: 0;
+}
+
+div.content-window {
+    height: 100% !important;
+}
+
+@font-face {
+    font-family: "Hack Regular Nerd Font Complete";
+    src: url("https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf");
+}
+
+.chat-container .message-block .message {
+    font-family: "Hack Regular Nerd Font Complete";
+    font-size: 19px
+}
+
+.chat-container .nick {
+    font-family: "Hack Regular Nerd Font Complete";
+    font-size: 19px
+}
     `;
 
     return (
         <div>
             <div className={styleClientHome.home}>
                 <div className={styleClientHome.home_container}>
-                    <h1>inputs</h1>
                     <label>
                         <p>
-                            Background color:
+                            <span>Background color:</span>
                             <input
+                                defaultValue={backgroundColor}
                                 onChange={(evt: SyntheticEvent<HTMLInputElement>) => {
                                     setBackgroundColor(evt.currentTarget.value);
                                 }}
                                 type="color"
-                                defaultValue={backgroundColor}
                             />
                         </p>
                     </label>
                     <label>
                         <p>
-                            Background transparent:
+                            <span>Background transparent:</span>
                             <input
-                                onChange={(evt: SyntheticEvent<HTMLInputElement>) => {
-                                    setBackgroundColorAlpha(parseInt(evt.currentTarget.value).toString(16));
-                                }}
-                                min="0"
+                                defaultValue={backgroundColorAlpha}
                                 max="255"
+                                min="0"
+                                onChange={(evt: SyntheticEvent<HTMLInputElement>) => {
+                                    setBackgroundColorAlpha(evt.currentTarget.value);
+                                }}
                                 step="1"
                                 type="range"
-                                defaultValue={backgroundColor}
                             />
                         </p>
                     </label>
-                    <textarea key={css}>{css}</textarea>
+                    <label>
+                        <p>
+                            <span>Show send button:</span>
+                            <input
+                                defaultChecked={isShowSendButton}
+                                onChange={(evt: SyntheticEvent<HTMLInputElement>) => {
+                                    setIsShowSendButton(evt.currentTarget.checked);
+                                }}
+                                style={{display: 'inline-block'}}
+                                type="checkbox"
+                            />
+                        </p>
+                    </label>
+                    <textarea key={css} rows={10}>
+                        {css}
+                    </textarea>
                 </div>
                 <div className={classNames(styleClientHome.home_container, 'result-wrapper')}>
-                    <style dangerouslySetInnerHTML={{__html: css}}></style>
-                    {/*<h1>result</h1>*/}
-                    {/*<p>{backgroundColor}</p>*/}
-                    {/*<p>{backgroundColorAlpha}</p>*/}
-
-                    <div dangerouslySetInnerHTML={{__html: rawHtml}}/>
-
+                    <style
+                        // eslint-disable-next-line react/no-danger
+                        dangerouslySetInnerHTML={{__html: css}}
+                    />
+                    <div
+                        // eslint-disable-next-line react/no-danger
+                        dangerouslySetInnerHTML={{__html: rawHtml}}
+                    />
                 </div>
             </div>
         </div>

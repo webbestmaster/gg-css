@@ -1,12 +1,19 @@
 .home {
-    margin: 0;
+    align-items: flex-start;
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
     justify-content: center;
+    margin: 0;
 }
 
 .home_container {
-    position: relative;
+    background-color: #fff;
     flex-grow: 1;
+    position: relative;
+    //color: #000;
+
+    label,
+    p {
+        color: #000;
+    }
 }
