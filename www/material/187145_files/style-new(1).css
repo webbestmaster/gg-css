@@ -367,7 +367,7 @@ a:hover {
     margin: 21% auto 0;
     width: 65px;
     height: 40px;
-    background: url(../../../images/svg/cloud.svg) no-repeat
+/* background: url(../../../images/svg/cloud.svg) no-repeat */
 }
 
 .dropbox .base .tip {
@@ -754,7 +754,7 @@ a:hover {
     width: inherit;
     height: inherit;
     min-width: 54px;
-    background-image: url(/images/chat/ajax_loading.gif);
+/* background-image: url(/images/chat/ajax_loading.gif); */
     background-position: 50%;
     background-repeat: no-repeat
 }
@@ -1927,1031 +1927,1031 @@ gg-custom-spoiler > * {
 }
 
 .flag-icon-ad {
-    background-image: url(../../images/svg/flags/ad.svg)
+/* background-image: url(../../images/svg/flags/ad.svg) */
 }
 
 .flag-icon-ae {
-    background-image: url(../../images/svg/flags/ae.svg)
+/* background-image: url(../../images/svg/flags/ae.svg) */
 }
 
 .flag-icon-af {
-    background-image: url(../../images/svg/flags/af.svg)
+/* background-image: url(../../images/svg/flags/af.svg) */
 }
 
 .flag-icon-ag {
-    background-image: url(../../images/svg/flags/ag.svg)
+/* background-image: url(../../images/svg/flags/ag.svg) */
 }
 
 .flag-icon-ai {
-    background-image: url(../../images/svg/flags/ai.svg)
+/* background-image: url(../../images/svg/flags/ai.svg) */
 }
 
 .flag-icon-al {
-    background-image: url(../../images/svg/flags/al.svg)
+/* background-image: url(../../images/svg/flags/al.svg) */
 }
 
 .flag-icon-am {
-    background-image: url(../../images/svg/flags/am.svg)
+/* background-image: url(../../images/svg/flags/am.svg) */
 }
 
 .flag-icon-ao {
-    background-image: url(../../images/svg/flags/ao.svg)
+/* background-image: url(../../images/svg/flags/ao.svg) */
 }
 
 .flag-icon-aq {
-    background-image: url(../../images/svg/flags/aq.svg)
+/* background-image: url(../../images/svg/flags/aq.svg) */
 }
 
 .flag-icon-ar {
-    background-image: url(../../images/svg/flags/ar.svg)
+/* background-image: url(../../images/svg/flags/ar.svg) */
 }
 
 .flag-icon-as {
-    background-image: url(../../images/svg/flags/as.svg)
+/* background-image: url(../../images/svg/flags/as.svg) */
 }
 
 .flag-icon-at {
-    background-image: url(../../images/svg/flags/at.svg)
+/* background-image: url(../../images/svg/flags/at.svg) */
 }
 
 .flag-icon-au {
-    background-image: url(../../images/svg/flags/au.svg)
+/* background-image: url(../../images/svg/flags/au.svg) */
 }
 
 .flag-icon-aw {
-    background-image: url(../../images/svg/flags/aw.svg)
+/* background-image: url(../../images/svg/flags/aw.svg) */
 }
 
 .flag-icon-ax {
-    background-image: url(../../images/svg/flags/ax.svg)
+/* background-image: url(../../images/svg/flags/ax.svg) */
 }
 
 .flag-icon-az {
-    background-image: url(../../images/svg/flags/az.svg)
+/* background-image: url(../../images/svg/flags/az.svg) */
 }
 
 .flag-icon-ba {
-    background-image: url(../../images/svg/flags/ba.svg)
+/* background-image: url(../../images/svg/flags/ba.svg) */
 }
 
 .flag-icon-bb {
-    background-image: url(../../images/svg/flags/bb.svg)
+/* background-image: url(../../images/svg/flags/bb.svg) */
 }
 
 .flag-icon-bd {
-    background-image: url(../../images/svg/flags/bd.svg)
+/* background-image: url(../../images/svg/flags/bd.svg) */
 }
 
 .flag-icon-be {
-    background-image: url(../../images/svg/flags/be.svg)
+/* background-image: url(../../images/svg/flags/be.svg) */
 }
 
 .flag-icon-bf {
-    background-image: url(../../images/svg/flags/bf.svg)
+/* background-image: url(../../images/svg/flags/bf.svg) */
 }
 
 .flag-icon-bg {
-    background-image: url(../../images/svg/flags/bg.svg)
+/* background-image: url(../../images/svg/flags/bg.svg) */
 }
 
 .flag-icon-bh {
-    background-image: url(../../images/svg/flags/bh.svg)
+/* background-image: url(../../images/svg/flags/bh.svg) */
 }
 
 .flag-icon-bi {
-    background-image: url(../../images/svg/flags/bi.svg)
+/* background-image: url(../../images/svg/flags/bi.svg) */
 }
 
 .flag-icon-bj {
-    background-image: url(../../images/svg/flags/bj.svg)
+/* background-image: url(../../images/svg/flags/bj.svg) */
 }
 
 .flag-icon-bl {
-    background-image: url(../../images/svg/flags/bl.svg)
+/* background-image: url(../../images/svg/flags/bl.svg) */
 }
 
 .flag-icon-bm {
-    background-image: url(../../images/svg/flags/bm.svg)
+/* background-image: url(../../images/svg/flags/bm.svg) */
 }
 
 .flag-icon-bn {
-    background-image: url(../../images/svg/flags/bn.svg)
+/* background-image: url(../../images/svg/flags/bn.svg) */
 }
 
 .flag-icon-bo {
-    background-image: url(../../images/svg/flags/bo.svg)
+/* background-image: url(../../images/svg/flags/bo.svg) */
 }
 
 .flag-icon-bq {
-    background-image: url(../../images/svg/flags/bq.svg)
+/* background-image: url(../../images/svg/flags/bq.svg) */
 }
 
 .flag-icon-br {
-    background-image: url(../../images/svg/flags/br.svg)
+/* background-image: url(../../images/svg/flags/br.svg) */
 }
 
 .flag-icon-bs {
-    background-image: url(../../images/svg/flags/bs.svg)
+/* background-image: url(../../images/svg/flags/bs.svg) */
 }
 
 .flag-icon-bt {
-    background-image: url(../../images/svg/flags/bt.svg)
+/* background-image: url(../../images/svg/flags/bt.svg) */
 }
 
 .flag-icon-bv {
-    background-image: url(../../images/svg/flags/bv.svg)
+/* background-image: url(../../images/svg/flags/bv.svg) */
 }
 
 .flag-icon-bw {
-    background-image: url(../../images/svg/flags/bw.svg)
+/* background-image: url(../../images/svg/flags/bw.svg) */
 }
 
 .flag-icon-by {
-    background-image: url(../../images/svg/flags/by.svg)
+/* background-image: url(../../images/svg/flags/by.svg) */
 }
 
 .flag-icon-bz {
-    background-image: url(../../images/svg/flags/bz.svg)
+/* background-image: url(../../images/svg/flags/bz.svg) */
 }
 
 .flag-icon-ca {
-    background-image: url(../../images/svg/flags/ca.svg)
+/* background-image: url(../../images/svg/flags/ca.svg) */
 }
 
 .flag-icon-cc {
-    background-image: url(../../images/svg/flags/cc.svg)
+/* background-image: url(../../images/svg/flags/cc.svg) */
 }
 
 .flag-icon-cd {
-    background-image: url(../../images/svg/flags/cd.svg)
+/* background-image: url(../../images/svg/flags/cd.svg) */
 }
 
 .flag-icon-cf {
-    background-image: url(../../images/svg/flags/cf.svg)
+/* background-image: url(../../images/svg/flags/cf.svg) */
 }
 
 .flag-icon-cg {
-    background-image: url(../../images/svg/flags/cg.svg)
+/* background-image: url(../../images/svg/flags/cg.svg) */
 }
 
 .flag-icon-ch {
-    background-image: url(../../images/svg/flags/ch.svg)
+/* background-image: url(../../images/svg/flags/ch.svg) */
 }
 
 .flag-icon-ci {
-    background-image: url(../../images/svg/flags/ci.svg)
+/* background-image: url(../../images/svg/flags/ci.svg) */
 }
 
 .flag-icon-ck {
-    background-image: url(../../images/svg/flags/ck.svg)
+/* background-image: url(../../images/svg/flags/ck.svg) */
 }
 
 .flag-icon-cl {
-    background-image: url(../../images/svg/flags/cl.svg)
+/* background-image: url(../../images/svg/flags/cl.svg) */
 }
 
 .flag-icon-cm {
-    background-image: url(../../images/svg/flags/cm.svg)
+/* background-image: url(../../images/svg/flags/cm.svg) */
 }
 
 .flag-icon-cn {
-    background-image: url(../../images/svg/flags/cn.svg)
+/* background-image: url(../../images/svg/flags/cn.svg) */
 }
 
 .flag-icon-co {
-    background-image: url(../../images/svg/flags/co.svg)
+/* background-image: url(../../images/svg/flags/co.svg) */
 }
 
 .flag-icon-cr {
-    background-image: url(../../images/svg/flags/cr.svg)
+/* background-image: url(../../images/svg/flags/cr.svg) */
 }
 
 .flag-icon-cu {
-    background-image: url(../../images/svg/flags/cu.svg)
+/* background-image: url(../../images/svg/flags/cu.svg) */
 }
 
 .flag-icon-cv {
-    background-image: url(../../images/svg/flags/cv.svg)
+/* background-image: url(../../images/svg/flags/cv.svg) */
 }
 
 .flag-icon-cw {
-    background-image: url(../../images/svg/flags/cw.svg)
+/* background-image: url(../../images/svg/flags/cw.svg) */
 }
 
 .flag-icon-cx {
-    background-image: url(../../images/svg/flags/cx.svg)
+/* background-image: url(../../images/svg/flags/cx.svg) */
 }
 
 .flag-icon-cy {
-    background-image: url(../../images/svg/flags/cy.svg)
+/* background-image: url(../../images/svg/flags/cy.svg) */
 }
 
 .flag-icon-cz {
-    background-image: url(../../images/svg/flags/cz.svg)
+/* background-image: url(../../images/svg/flags/cz.svg) */
 }
 
 .flag-icon-de {
-    background-image: url(../../images/svg/flags/de.svg)
+/* background-image: url(../../images/svg/flags/de.svg) */
 }
 
 .flag-icon-dj {
-    background-image: url(../../images/svg/flags/dj.svg)
+/* background-image: url(../../images/svg/flags/dj.svg) */
 }
 
 .flag-icon-dk {
-    background-image: url(../../images/svg/flags/dk.svg)
+/* background-image: url(../../images/svg/flags/dk.svg) */
 }
 
 .flag-icon-dm {
-    background-image: url(../../images/svg/flags/dm.svg)
+/* background-image: url(../../images/svg/flags/dm.svg) */
 }
 
 .flag-icon-do {
-    background-image: url(../../images/svg/flags/do.svg)
+/* background-image: url(../../images/svg/flags/do.svg) */
 }
 
 .flag-icon-dz {
-    background-image: url(../../images/svg/flags/dz.svg)
+/* background-image: url(../../images/svg/flags/dz.svg) */
 }
 
 .flag-icon-ec {
-    background-image: url(../../images/svg/flags/ec.svg)
+/* background-image: url(../../images/svg/flags/ec.svg) */
 }
 
 .flag-icon-ee {
-    background-image: url(../../images/svg/flags/ee.svg)
+/* background-image: url(../../images/svg/flags/ee.svg) */
 }
 
 .flag-icon-eg {
-    background-image: url(../../images/svg/flags/eg.svg)
+/* background-image: url(../../images/svg/flags/eg.svg) */
 }
 
 .flag-icon-eh {
-    background-image: url(../../images/svg/flags/eh.svg)
+/* background-image: url(../../images/svg/flags/eh.svg) */
 }
 
 .flag-icon-er {
-    background-image: url(../../images/svg/flags/er.svg)
+/* background-image: url(../../images/svg/flags/er.svg) */
 }
 
 .flag-icon-es {
-    background-image: url(../../images/svg/flags/es.svg)
+/* background-image: url(../../images/svg/flags/es.svg) */
 }
 
 .flag-icon-et {
-    background-image: url(../../images/svg/flags/et.svg)
+/* background-image: url(../../images/svg/flags/et.svg) */
 }
 
 .flag-icon-fi {
-    background-image: url(../../images/svg/flags/fi.svg)
+/* background-image: url(../../images/svg/flags/fi.svg) */
 }
 
 .flag-icon-fj {
-    background-image: url(../../images/svg/flags/fj.svg)
+/* background-image: url(../../images/svg/flags/fj.svg) */
 }
 
 .flag-icon-fk {
-    background-image: url(../../images/svg/flags/fk.svg)
+/* background-image: url(../../images/svg/flags/fk.svg) */
 }
 
 .flag-icon-fm {
-    background-image: url(../../images/svg/flags/fm.svg)
+/* background-image: url(../../images/svg/flags/fm.svg) */
 }
 
 .flag-icon-fo {
-    background-image: url(../../images/svg/flags/fo.svg)
+/* background-image: url(../../images/svg/flags/fo.svg) */
 }
 
 .flag-icon-fr {
-    background-image: url(../../images/svg/flags/fr.svg)
+/* background-image: url(../../images/svg/flags/fr.svg) */
 }
 
 .flag-icon-ga {
-    background-image: url(../../images/svg/flags/ga.svg)
+/* background-image: url(../../images/svg/flags/ga.svg) */
 }
 
 .flag-icon-gb {
-    background-image: url(../../images/svg/flags/gb.svg)
+/* background-image: url(../../images/svg/flags/gb.svg) */
 }
 
 .flag-icon-gd {
-    background-image: url(../../images/svg/flags/gd.svg)
+/* background-image: url(../../images/svg/flags/gd.svg) */
 }
 
 .flag-icon-ge {
-    background-image: url(../../images/svg/flags/ge.svg)
+/* background-image: url(../../images/svg/flags/ge.svg) */
 }
 
 .flag-icon-gf {
-    background-image: url(../../images/svg/flags/gf.svg)
+/* background-image: url(../../images/svg/flags/gf.svg) */
 }
 
 .flag-icon-gg {
-    background-image: url(../../images/svg/flags/gg.svg)
+/* background-image: url(../../images/svg/flags/gg.svg) */
 }
 
 .flag-icon-gh {
-    background-image: url(../../images/svg/flags/gh.svg)
+/* background-image: url(../../images/svg/flags/gh.svg) */
 }
 
 .flag-icon-gi {
-    background-image: url(../../images/svg/flags/gi.svg)
+/* background-image: url(../../images/svg/flags/gi.svg) */
 }
 
 .flag-icon-gl {
-    background-image: url(../../images/svg/flags/gl.svg)
+/* background-image: url(../../images/svg/flags/gl.svg) */
 }
 
 .flag-icon-gm {
-    background-image: url(../../images/svg/flags/gm.svg)
+/* background-image: url(../../images/svg/flags/gm.svg) */
 }
 
 .flag-icon-gn {
-    background-image: url(../../images/svg/flags/gn.svg)
+/* background-image: url(../../images/svg/flags/gn.svg) */
 }
 
 .flag-icon-gp {
-    background-image: url(../../images/svg/flags/gp.svg)
+/* background-image: url(../../images/svg/flags/gp.svg) */
 }
 
 .flag-icon-gq {
-    background-image: url(../../images/svg/flags/gq.svg)
+/* background-image: url(../../images/svg/flags/gq.svg) */
 }
 
 .flag-icon-gr {
-    background-image: url(../../images/svg/flags/gr.svg)
+/* background-image: url(../../images/svg/flags/gr.svg) */
 }
 
 .flag-icon-gs {
-    background-image: url(../../images/svg/flags/gs.svg)
+/* background-image: url(../../images/svg/flags/gs.svg) */
 }
 
 .flag-icon-gt {
-    background-image: url(../../images/svg/flags/gt.svg)
+/* background-image: url(../../images/svg/flags/gt.svg) */
 }
 
 .flag-icon-gu {
-    background-image: url(../../images/svg/flags/gu.svg)
+/* background-image: url(../../images/svg/flags/gu.svg) */
 }
 
 .flag-icon-gw {
-    background-image: url(../../images/svg/flags/gw.svg)
+/* background-image: url(../../images/svg/flags/gw.svg) */
 }
 
 .flag-icon-gy {
-    background-image: url(../../images/svg/flags/gy.svg)
+/* background-image: url(../../images/svg/flags/gy.svg) */
 }
 
 .flag-icon-hk {
-    background-image: url(../../images/svg/flags/hk.svg)
+/* background-image: url(../../images/svg/flags/hk.svg) */
 }
 
 .flag-icon-hm {
-    background-image: url(../../images/svg/flags/hm.svg)
+/* background-image: url(../../images/svg/flags/hm.svg) */
 }
 
 .flag-icon-hn {
-    background-image: url(../../images/svg/flags/hn.svg)
+/* background-image: url(../../images/svg/flags/hn.svg) */
 }
 
 .flag-icon-hr {
-    background-image: url(../../images/svg/flags/hr.svg)
+/* background-image: url(../../images/svg/flags/hr.svg) */
 }
 
 .flag-icon-ht {
-    background-image: url(../../images/svg/flags/ht.svg)
+/* background-image: url(../../images/svg/flags/ht.svg) */
 }
 
 .flag-icon-hu {
-    background-image: url(../../images/svg/flags/hu.svg)
+/* background-image: url(../../images/svg/flags/hu.svg) */
 }
 
 .flag-icon-id {
-    background-image: url(../../images/svg/flags/id.svg)
+/* background-image: url(../../images/svg/flags/id.svg) */
 }
 
 .flag-icon-ie {
-    background-image: url(../../images/svg/flags/ie.svg)
+/* background-image: url(../../images/svg/flags/ie.svg) */
 }
 
 .flag-icon-il {
-    background-image: url(../../images/svg/flags/il.svg)
+/* background-image: url(../../images/svg/flags/il.svg) */
 }
 
 .flag-icon-im {
-    background-image: url(../../images/svg/flags/im.svg)
+/* background-image: url(../../images/svg/flags/im.svg) */
 }
 
 .flag-icon-in {
-    background-image: url(../../images/svg/flags/in.svg)
+/* background-image: url(../../images/svg/flags/in.svg) */
 }
 
 .flag-icon-io {
-    background-image: url(../../images/svg/flags/io.svg)
+/* background-image: url(../../images/svg/flags/io.svg) */
 }
 
 .flag-icon-iq {
-    background-image: url(../../images/svg/flags/iq.svg)
+/* background-image: url(../../images/svg/flags/iq.svg) */
 }
 
 .flag-icon-ir {
-    background-image: url(../../images/svg/flags/ir.svg)
+/* background-image: url(../../images/svg/flags/ir.svg) */
 }
 
 .flag-icon-is {
-    background-image: url(../../images/svg/flags/is.svg)
+/* background-image: url(../../images/svg/flags/is.svg) */
 }
 
 .flag-icon-it {
-    background-image: url(../../images/svg/flags/it.svg)
+/* background-image: url(../../images/svg/flags/it.svg) */
 }
 
 .flag-icon-je {
-    background-image: url(../../images/svg/flags/je.svg)
+/* background-image: url(../../images/svg/flags/je.svg) */
 }
 
 .flag-icon-jm {
-    background-image: url(../../images/svg/flags/jm.svg)
+/* background-image: url(../../images/svg/flags/jm.svg) */
 }
 
 .flag-icon-jo {
-    background-image: url(../../images/svg/flags/jo.svg)
+/* background-image: url(../../images/svg/flags/jo.svg) */
 }
 
 .flag-icon-jp {
-    background-image: url(../../images/svg/flags/jp.svg)
+/* background-image: url(../../images/svg/flags/jp.svg) */
 }
 
 .flag-icon-ke {
-    background-image: url(../../images/svg/flags/ke.svg)
+/* background-image: url(../../images/svg/flags/ke.svg) */
 }
 
 .flag-icon-kg {
-    background-image: url(../../images/svg/flags/kg.svg)
+/* background-image: url(../../images/svg/flags/kg.svg) */
 }
 
 .flag-icon-kh {
-    background-image: url(../../images/svg/flags/kh.svg)
+/* background-image: url(../../images/svg/flags/kh.svg) */
 }
 
 .flag-icon-ki {
-    background-image: url(../../images/svg/flags/ki.svg)
+/* background-image: url(../../images/svg/flags/ki.svg) */
 }
 
 .flag-icon-km {
-    background-image: url(../../images/svg/flags/km.svg)
+/* background-image: url(../../images/svg/flags/km.svg) */
 }
 
 .flag-icon-kn {
-    background-image: url(../../images/svg/flags/kn.svg)
+/* background-image: url(../../images/svg/flags/kn.svg) */
 }
 
 .flag-icon-kp {
-    background-image: url(../../images/svg/flags/kp.svg)
+/* background-image: url(../../images/svg/flags/kp.svg) */
 }
 
 .flag-icon-kr {
-    background-image: url(../../images/svg/flags/kr.svg)
+/* background-image: url(../../images/svg/flags/kr.svg) */
 }
 
 .flag-icon-kw {
-    background-image: url(../../images/svg/flags/kw.svg)
+/* background-image: url(../../images/svg/flags/kw.svg) */
 }
 
 .flag-icon-ky {
-    background-image: url(../../images/svg/flags/ky.svg)
+/* background-image: url(../../images/svg/flags/ky.svg) */
 }
 
 .flag-icon-kz {
-    background-image: url(../../images/svg/flags/kz.svg)
+/* background-image: url(../../images/svg/flags/kz.svg) */
 }
 
 .flag-icon-la {
-    background-image: url(../../images/svg/flags/la.svg)
+/* background-image: url(../../images/svg/flags/la.svg) */
 }
 
 .flag-icon-lb {
-    background-image: url(../../images/svg/flags/lb.svg)
+/* background-image: url(../../images/svg/flags/lb.svg) */
 }
 
 .flag-icon-lc {
-    background-image: url(../../images/svg/flags/lc.svg)
+/* background-image: url(../../images/svg/flags/lc.svg) */
 }
 
 .flag-icon-li {
-    background-image: url(../../images/svg/flags/li.svg)
+/* background-image: url(../../images/svg/flags/li.svg) */
 }
 
 .flag-icon-lk {
-    background-image: url(../../images/svg/flags/lk.svg)
+/* background-image: url(../../images/svg/flags/lk.svg) */
 }
 
 .flag-icon-lr {
-    background-image: url(../../images/svg/flags/lr.svg)
+/* background-image: url(../../images/svg/flags/lr.svg) */
 }
 
 .flag-icon-ls {
-    background-image: url(../../images/svg/flags/ls.svg)
+/* background-image: url(../../images/svg/flags/ls.svg) */
 }
 
 .flag-icon-lt {
-    background-image: url(../../images/svg/flags/lt.svg)
+/* background-image: url(../../images/svg/flags/lt.svg) */
 }
 
 .flag-icon-lu {
-    background-image: url(../../images/svg/flags/lu.svg)
+/* background-image: url(../../images/svg/flags/lu.svg) */
 }
 
 .flag-icon-lv {
-    background-image: url(../../images/svg/flags/lv.svg)
+/* background-image: url(../../images/svg/flags/lv.svg) */
 }
 
 .flag-icon-ly {
-    background-image: url(../../images/svg/flags/ly.svg)
+/* background-image: url(../../images/svg/flags/ly.svg) */
 }
 
 .flag-icon-ma {
-    background-image: url(../../images/svg/flags/ma.svg)
+/* background-image: url(../../images/svg/flags/ma.svg) */
 }
 
 .flag-icon-mc {
-    background-image: url(../../images/svg/flags/mc.svg)
+/* background-image: url(../../images/svg/flags/mc.svg) */
 }
 
 .flag-icon-md {
-    background-image: url(../../images/svg/flags/md.svg)
+/* background-image: url(../../images/svg/flags/md.svg) */
 }
 
 .flag-icon-me {
-    background-image: url(../../images/svg/flags/me.svg)
+/* background-image: url(../../images/svg/flags/me.svg) */
 }
 
 .flag-icon-mf {
-    background-image: url(../../images/svg/flags/mf.svg)
+/* background-image: url(../../images/svg/flags/mf.svg) */
 }
 
 .flag-icon-mg {
-    background-image: url(../../images/svg/flags/mg.svg)
+/* background-image: url(../../images/svg/flags/mg.svg) */
 }
 
 .flag-icon-mh {
-    background-image: url(../../images/svg/flags/mh.svg)
+/* background-image: url(../../images/svg/flags/mh.svg) */
 }
 
 .flag-icon-mk {
-    background-image: url(../../images/svg/flags/mk.svg)
+/* background-image: url(../../images/svg/flags/mk.svg) */
 }
 
 .flag-icon-ml {
-    background-image: url(../../images/svg/flags/ml.svg)
+/* background-image: url(../../images/svg/flags/ml.svg) */
 }
 
 .flag-icon-mm {
-    background-image: url(../../images/svg/flags/mm.svg)
+/* background-image: url(../../images/svg/flags/mm.svg) */
 }
 
 .flag-icon-mn {
-    background-image: url(../../images/svg/flags/mn.svg)
+/* background-image: url(../../images/svg/flags/mn.svg) */
 }
 
 .flag-icon-mo {
-    background-image: url(../../images/svg/flags/mo.svg)
+/* background-image: url(../../images/svg/flags/mo.svg) */
 }
 
 .flag-icon-mp {
-    background-image: url(../../images/svg/flags/mp.svg)
+/* background-image: url(../../images/svg/flags/mp.svg) */
 }
 
 .flag-icon-mq {
-    background-image: url(../../images/svg/flags/mq.svg)
+/* background-image: url(../../images/svg/flags/mq.svg) */
 }
 
 .flag-icon-mr {
-    background-image: url(../../images/svg/flags/mr.svg)
+/* background-image: url(../../images/svg/flags/mr.svg) */
 }
 
 .flag-icon-ms {
-    background-image: url(../../images/svg/flags/ms.svg)
+/* background-image: url(../../images/svg/flags/ms.svg) */
 }
 
 .flag-icon-mt {
-    background-image: url(../../images/svg/flags/mt.svg)
+/* background-image: url(../../images/svg/flags/mt.svg) */
 }
 
 .flag-icon-mu {
-    background-image: url(../../images/svg/flags/mu.svg)
+/* background-image: url(../../images/svg/flags/mu.svg) */
 }
 
 .flag-icon-mv {
-    background-image: url(../../images/svg/flags/mv.svg)
+/* background-image: url(../../images/svg/flags/mv.svg) */
 }
 
 .flag-icon-mw {
-    background-image: url(../../images/svg/flags/mw.svg)
+/* background-image: url(../../images/svg/flags/mw.svg) */
 }
 
 .flag-icon-mx {
-    background-image: url(../../images/svg/flags/mx.svg)
+/* background-image: url(../../images/svg/flags/mx.svg) */
 }
 
 .flag-icon-my {
-    background-image: url(../../images/svg/flags/my.svg)
+/* background-image: url(../../images/svg/flags/my.svg) */
 }
 
 .flag-icon-mz {
-    background-image: url(../../images/svg/flags/mz.svg)
+/* background-image: url(../../images/svg/flags/mz.svg) */
 }
 
 .flag-icon-na {
-    background-image: url(../../images/svg/flags/na.svg)
+/* background-image: url(../../images/svg/flags/na.svg) */
 }
 
 .flag-icon-nc {
-    background-image: url(../../images/svg/flags/nc.svg)
+/* background-image: url(../../images/svg/flags/nc.svg) */
 }
 
 .flag-icon-ne {
-    background-image: url(../../images/svg/flags/ne.svg)
+/* background-image: url(../../images/svg/flags/ne.svg) */
 }
 
 .flag-icon-nf {
-    background-image: url(../../images/svg/flags/nf.svg)
+/* background-image: url(../../images/svg/flags/nf.svg) */
 }
 
 .flag-icon-ng {
-    background-image: url(../../images/svg/flags/ng.svg)
+/* background-image: url(../../images/svg/flags/ng.svg) */
 }
 
 .flag-icon-ni {
-    background-image: url(../../images/svg/flags/ni.svg)
+/* background-image: url(../../images/svg/flags/ni.svg) */
 }
 
 .flag-icon-nl {
-    background-image: url(../../images/svg/flags/nl.svg)
+/* background-image: url(../../images/svg/flags/nl.svg) */
 }
 
 .flag-icon-no {
-    background-image: url(../../images/svg/flags/no.svg)
+/* background-image: url(../../images/svg/flags/no.svg) */
 }
 
 .flag-icon-np {
-    background-image: url(../../images/svg/flags/np.svg)
+/* background-image: url(../../images/svg/flags/np.svg) */
 }
 
 .flag-icon-nr {
-    background-image: url(../../images/svg/flags/nr.svg)
+/* background-image: url(../../images/svg/flags/nr.svg) */
 }
 
 .flag-icon-nu {
-    background-image: url(../../images/svg/flags/nu.svg)
+/* background-image: url(../../images/svg/flags/nu.svg) */
 }
 
 .flag-icon-nz {
-    background-image: url(../../images/svg/flags/nz.svg)
+/* background-image: url(../../images/svg/flags/nz.svg) */
 }
 
 .flag-icon-om {
-    background-image: url(../../images/svg/flags/om.svg)
+/* background-image: url(../../images/svg/flags/om.svg) */
 }
 
 .flag-icon-pa {
-    background-image: url(../../images/svg/flags/pa.svg)
+/* background-image: url(../../images/svg/flags/pa.svg) */
 }
 
 .flag-icon-pe {
-    background-image: url(../../images/svg/flags/pe.svg)
+/* background-image: url(../../images/svg/flags/pe.svg) */
 }
 
 .flag-icon-pf {
-    background-image: url(../../images/svg/flags/pf.svg)
+/* background-image: url(../../images/svg/flags/pf.svg) */
 }
 
 .flag-icon-pg {
-    background-image: url(../../images/svg/flags/pg.svg)
+/* background-image: url(../../images/svg/flags/pg.svg) */
 }
 
 .flag-icon-ph {
-    background-image: url(../../images/svg/flags/ph.svg)
+/* background-image: url(../../images/svg/flags/ph.svg) */
 }
 
 .flag-icon-pk {
-    background-image: url(../../images/svg/flags/pk.svg)
+/* background-image: url(../../images/svg/flags/pk.svg) */
 }
 
 .flag-icon-pl {
-    background-image: url(../../images/svg/flags/pl.svg)
+/* background-image: url(../../images/svg/flags/pl.svg) */
 }
 
 .flag-icon-pm {
-    background-image: url(../../images/svg/flags/pm.svg)
+/* background-image: url(../../images/svg/flags/pm.svg) */
 }
 
 .flag-icon-pn {
-    background-image: url(../../images/svg/flags/pn.svg)
+/* background-image: url(../../images/svg/flags/pn.svg) */
 }
 
 .flag-icon-pr {
-    background-image: url(../../images/svg/flags/pr.svg)
+/* background-image: url(../../images/svg/flags/pr.svg) */
 }
 
 .flag-icon-ps {
-    background-image: url(../../images/svg/flags/ps.svg)
+/* background-image: url(../../images/svg/flags/ps.svg) */
 }
 
 .flag-icon-pt {
-    background-image: url(../../images/svg/flags/pt.svg)
+/* background-image: url(../../images/svg/flags/pt.svg) */
 }
 
 .flag-icon-pw {
-    background-image: url(../../images/svg/flags/pw.svg)
+/* background-image: url(../../images/svg/flags/pw.svg) */
 }
 
 .flag-icon-py {
-    background-image: url(../../images/svg/flags/py.svg)
+/* background-image: url(../../images/svg/flags/py.svg) */
 }
 
 .flag-icon-qa {
-    background-image: url(../../images/svg/flags/qa.svg)
+/* background-image: url(../../images/svg/flags/qa.svg) */
 }
 
 .flag-icon-re {
-    background-image: url(../../images/svg/flags/re.svg)
+/* background-image: url(../../images/svg/flags/re.svg) */
 }
 
 .flag-icon-ro {
-    background-image: url(../../images/svg/flags/ro.svg)
+/* background-image: url(../../images/svg/flags/ro.svg) */
 }
 
 .flag-icon-rs {
-    background-image: url(../../images/svg/flags/rs.svg)
+/* background-image: url(../../images/svg/flags/rs.svg) */
 }
 
 .flag-icon-ru {
-    background-image: url(../../images/svg/flags/ru.svg)
+/* background-image: url(../../images/svg/flags/ru.svg) */
 }
 
 .flag-icon-rw {
-    background-image: url(../../images/svg/flags/rw.svg)
+/* background-image: url(../../images/svg/flags/rw.svg) */
 }
 
 .flag-icon-sa {
-    background-image: url(../../images/svg/flags/sa.svg)
+/* background-image: url(../../images/svg/flags/sa.svg) */
 }
 
 .flag-icon-sb {
-    background-image: url(../../images/svg/flags/sb.svg)
+/* background-image: url(../../images/svg/flags/sb.svg) */
 }
 
 .flag-icon-sc {
-    background-image: url(../../images/svg/flags/sc.svg)
+/* background-image: url(../../images/svg/flags/sc.svg) */
 }
 
 .flag-icon-sd {
-    background-image: url(../../images/svg/flags/sd.svg)
+/* background-image: url(../../images/svg/flags/sd.svg) */
 }
 
 .flag-icon-se {
-    background-image: url(../../images/svg/flags/se.svg)
+/* background-image: url(../../images/svg/flags/se.svg) */
 }
 
 .flag-icon-sg {
-    background-image: url(../../images/svg/flags/sg.svg)
+/* background-image: url(../../images/svg/flags/sg.svg) */
 }
 
 .flag-icon-sh {
-    background-image: url(../../images/svg/flags/sh.svg)
+/* background-image: url(../../images/svg/flags/sh.svg) */
 }
 
 .flag-icon-si {
-    background-image: url(../../images/svg/flags/si.svg)
+/* background-image: url(../../images/svg/flags/si.svg) */
 }
 
 .flag-icon-sj {
-    background-image: url(../../images/svg/flags/sj.svg)
+/* background-image: url(../../images/svg/flags/sj.svg) */
 }
 
 .flag-icon-sk {
-    background-image: url(../../images/svg/flags/sk.svg)
+/* background-image: url(../../images/svg/flags/sk.svg) */
 }
 
 .flag-icon-sl {
-    background-image: url(../../images/svg/flags/sl.svg)
+/* background-image: url(../../images/svg/flags/sl.svg) */
 }
 
 .flag-icon-sm {
-    background-image: url(../../images/svg/flags/sm.svg)
+/* background-image: url(../../images/svg/flags/sm.svg) */
 }
 
 .flag-icon-sn {
-    background-image: url(../../images/svg/flags/sn.svg)
+/* background-image: url(../../images/svg/flags/sn.svg) */
 }
 
 .flag-icon-so {
-    background-image: url(../../images/svg/flags/so.svg)
+/* background-image: url(../../images/svg/flags/so.svg) */
 }
 
 .flag-icon-sr {
-    background-image: url(../../images/svg/flags/sr.svg)
+/* background-image: url(../../images/svg/flags/sr.svg) */
 }
 
 .flag-icon-ss {
-    background-image: url(../../images/svg/flags/ss.svg)
+/* background-image: url(../../images/svg/flags/ss.svg) */
 }
 
 .flag-icon-st {
-    background-image: url(../../images/svg/flags/st.svg)
+/* background-image: url(../../images/svg/flags/st.svg) */
 }
 
 .flag-icon-sv {
-    background-image: url(../../images/svg/flags/sv.svg)
+/* background-image: url(../../images/svg/flags/sv.svg) */
 }
 
 .flag-icon-sx {
-    background-image: url(../../images/svg/flags/sx.svg)
+/* background-image: url(../../images/svg/flags/sx.svg) */
 }
 
 .flag-icon-sy {
-    background-image: url(../../images/svg/flags/sy.svg)
+/* background-image: url(../../images/svg/flags/sy.svg) */
 }
 
 .flag-icon-sz {
-    background-image: url(../../images/svg/flags/sz.svg)
+/* background-image: url(../../images/svg/flags/sz.svg) */
 }
 
 .flag-icon-tc {
-    background-image: url(../../images/svg/flags/tc.svg)
+/* background-image: url(../../images/svg/flags/tc.svg) */
 }
 
 .flag-icon-td {
-    background-image: url(../../images/svg/flags/td.svg)
+/* background-image: url(../../images/svg/flags/td.svg) */
 }
 
 .flag-icon-tf {
-    background-image: url(../../images/svg/flags/tf.svg)
+/* background-image: url(../../images/svg/flags/tf.svg) */
 }
 
 .flag-icon-tg {
-    background-image: url(../../images/svg/flags/tg.svg)
+/* background-image: url(../../images/svg/flags/tg.svg) */
 }
 
 .flag-icon-th {
-    background-image: url(../../images/svg/flags/th.svg)
+/* background-image: url(../../images/svg/flags/th.svg) */
 }
 
 .flag-icon-tj {
-    background-image: url(../../images/svg/flags/tj.svg)
+/* background-image: url(../../images/svg/flags/tj.svg) */
 }
 
 .flag-icon-tk {
-    background-image: url(../../images/svg/flags/tk.svg)
+/* background-image: url(../../images/svg/flags/tk.svg) */
 }
 
 .flag-icon-tl {
-    background-image: url(../../images/svg/flags/tl.svg)
+/* background-image: url(../../images/svg/flags/tl.svg) */
 }
 
 .flag-icon-tm {
-    background-image: url(../../images/svg/flags/tm.svg)
+/* background-image: url(../../images/svg/flags/tm.svg) */
 }
 
 .flag-icon-tn {
-    background-image: url(../../images/svg/flags/tn.svg)
+/* background-image: url(../../images/svg/flags/tn.svg) */
 }
 
 .flag-icon-to {
-    background-image: url(../../images/svg/flags/to.svg)
+/* background-image: url(../../images/svg/flags/to.svg) */
 }
 
 .flag-icon-tr {
-    background-image: url(../../images/svg/flags/tr.svg)
+/* background-image: url(../../images/svg/flags/tr.svg) */
 }
 
 .flag-icon-tt {
-    background-image: url(../../images/svg/flags/tt.svg)
+/* background-image: url(../../images/svg/flags/tt.svg) */
 }
 
 .flag-icon-tv {
-    background-image: url(../../images/svg/flags/tv.svg)
+/* background-image: url(../../images/svg/flags/tv.svg) */
 }
 
 .flag-icon-tw {
-    background-image: url(../../images/svg/flags/tw.svg)
+/* background-image: url(../../images/svg/flags/tw.svg) */
 }
 
 .flag-icon-tz {
-    background-image: url(../../images/svg/flags/tz.svg)
+/* background-image: url(../../images/svg/flags/tz.svg) */
 }
 
 .flag-icon-ua {
-    background-image: url(../../images/svg/flags/ua.svg)
+/* background-image: url(../../images/svg/flags/ua.svg) */
 }
 
 .flag-icon-ug {
-    background-image: url(../../images/svg/flags/ug.svg)
+/* background-image: url(../../images/svg/flags/ug.svg) */
 }
 
 .flag-icon-um {
-    background-image: url(../../images/svg/flags/um.svg)
+/* background-image: url(../../images/svg/flags/um.svg) */
 }
 
 .flag-icon-us {
-    background-image: url(../../images/svg/flags/us.svg)
+/* background-image: url(../../images/svg/flags/us.svg) */
 }
 
 .flag-icon-uy {
-    background-image: url(../../images/svg/flags/uy.svg)
+/* background-image: url(../../images/svg/flags/uy.svg) */
 }
 
 .flag-icon-uzb {
-    background-image: url(../../images/svg/flags/uzb.svg)
+/* background-image: url(../../images/svg/flags/uzb.svg) */
 }
 
 .flag-icon-va {
-    background-image: url(../../images/svg/flags/va.svg)
+/* background-image: url(../../images/svg/flags/va.svg) */
 }
 
 .flag-icon-vc {
-    background-image: url(../../images/svg/flags/vc.svg)
+/* background-image: url(../../images/svg/flags/vc.svg) */
 }
 
 .flag-icon-ve {
-    background-image: url(../../images/svg/flags/ve.svg)
+/* background-image: url(../../images/svg/flags/ve.svg) */
 }
 
 .flag-icon-vg {
-    background-image: url(../../images/svg/flags/vg.svg)
+/* background-image: url(../../images/svg/flags/vg.svg) */
 }
 
 .flag-icon-vi {
-    background-image: url(../../images/svg/flags/vi.svg)
+/* background-image: url(../../images/svg/flags/vi.svg) */
 }
 
 .flag-icon-vn {
-    background-image: url(../../images/svg/flags/vn.svg)
+/* background-image: url(../../images/svg/flags/vn.svg) */
 }
 
 .flag-icon-vu {
-    background-image: url(../../images/svg/flags/vu.svg)
+/* background-image: url(../../images/svg/flags/vu.svg) */
 }
 
 .flag-icon-wf {
-    background-image: url(../../images/svg/flags/wf.svg)
+/* background-image: url(../../images/svg/flags/wf.svg) */
 }
 
 .flag-icon-ws {
-    background-image: url(../../images/svg/flags/ws.svg)
+/* background-image: url(../../images/svg/flags/ws.svg) */
 }
 
 .flag-icon-ye {
-    background-image: url(../../images/svg/flags/ye.svg)
+/* background-image: url(../../images/svg/flags/ye.svg) */
 }
 
 .flag-icon-yt {
-    background-image: url(../../images/svg/flags/yt.svg)
+/* background-image: url(../../images/svg/flags/yt.svg) */
 }
 
 .flag-icon-za {
-    background-image: url(../../images/svg/flags/za.svg)
+/* background-image: url(../../images/svg/flags/za.svg) */
 }
 
 .flag-icon-zm {
-    background-image: url(../../images/svg/flags/zm.svg)
+/* background-image: url(../../images/svg/flags/zm.svg) */
 }
 
 .flag-icon-zw {
-    background-image: url(../../images/svg/flags/zw.svg)
+/* background-image: url(../../images/svg/flags/zw.svg) */
 }
 
 .flag-icon-es-ct {
-    background-image: url(../../images/svg/flags/es-ct.svg)
+/* background-image: url(../../images/svg/flags/es-ct.svg) */
 }
 
 .flag-icon-eu {
-    background-image: url(../../images/svg/flags/eu.svg)
+/* background-image: url(../../images/svg/flags/eu.svg) */
 }
 
 .flag-icon-gb-eng {
-    background-image: url(../../images/svg/flags/gb-eng.svg)
+/* background-image: url(../../images/svg/flags/gb-eng.svg) */
 }
 
 .flag-icon-gb-nir {
-    background-image: url(../../images/svg/flags/gb-nir.svg)
+/* background-image: url(../../images/svg/flags/gb-nir.svg) */
 }
 
 .flag-icon-gb-sct {
-    background-image: url(../../images/svg/flags/gb-sct.svg)
+/* background-image: url(../../images/svg/flags/gb-sct.svg) */
 }
 
 .flag-icon-gb-wls {
-    background-image: url(../../images/svg/flags/gb-wls.svg)
+/* background-image: url(../../images/svg/flags/gb-wls.svg) */
 }
 
 .flag-icon-un {
-    background-image: url(../../images/svg/flags/un.svg)
+/* background-image: url(../../images/svg/flags/un.svg) */
 }
 
 .flag-icon-xk {
-    background-image: url(../../images/svg/flags/xk.svg)
+/* background-image: url(../../images/svg/flags/xk.svg) */
 }
 
 body, html {
@@ -4014,7 +4014,7 @@ h2 a:hover, h3 a:hover {
     left: 0;
     width: 150px;
     height: 68px;
-    background: url(/images/svg/shade-top.svg) no-repeat
+/* background: url(/images/svg/shade-top.svg) no-repeat */
 }
 
 .stream-list .stream-block .channel-link .viewers {
@@ -4037,7 +4037,7 @@ h2 a:hover, h3 a:hover {
     bottom: 0;
     width: 268px;
     height: 91px;
-    background: url(/images/svg/shade-bot.svg)
+/* background: url(/images/svg/shade-bot.svg) */
 }
 
 .stream-list .stream-block .channel-link .stream-info {
@@ -4269,7 +4269,7 @@ h2 a:hover, h3 a:hover {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -4505,7 +4505,7 @@ h2 a:hover, h3 a:hover {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -5468,7 +5468,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.sc-bw .stripe-block .icon, .tournaments-block .tournaments-list .tournament.sc .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-sc-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-sc-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.sc-bw .stripe-block:hover, .tournaments-block .tournaments-list .tournament.sc .stripe-block:hover {
@@ -5496,7 +5496,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.sc2 .stripe-block .icon, .tournaments-block .tournaments-list .tournament.sc2-lotv .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-sc-2-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-sc-2-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.sc2 .stripe-block:hover, .tournaments-block .tournaments-list .tournament.sc2-lotv .stripe-block:hover {
@@ -5524,7 +5524,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.wc3 .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-wc-3-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-wc-3-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.wc3 .stripe-block:hover {
@@ -5552,7 +5552,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.dota2 .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-dota-2-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-dota-2-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.dota2 .stripe-block:hover {
@@ -5580,7 +5580,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.wot .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-wot-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-wot-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.wot .stripe-block:hover {
@@ -5608,7 +5608,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.lol .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-lol-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-lol-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.lol .stripe-block:hover {
@@ -5636,7 +5636,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.hs .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-hs-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-hs-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.hs .stripe-block:hover {
@@ -5664,7 +5664,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.csgo .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-csgo-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-csgo-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.csgo .stripe-block:hover {
@@ -5692,7 +5692,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.hots .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-hots-icon.svg) 50% no-repeat
+/* background: url(/images/svg/cups/tournament-hots-icon.svg) 50% no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.hots .stripe-block:hover {
@@ -5720,7 +5720,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.rnd .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-othergame-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-othergame-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.rnd .stripe-block:hover {
@@ -5748,7 +5748,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.ow .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-overwatch-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-overwatch-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.ow .stripe-block:hover {
@@ -5776,7 +5776,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.mtg .stripe-block .icon {
-    background: url(/images/svg/games/gm_magic-the-gathering-arena.svg) 50% no-repeat
+/* background: url(/images/svg/games/gm_magic-the-gathering-arena.svg) 50% no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.mtg .stripe-block:hover {
@@ -5804,7 +5804,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.quake .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-quake-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-quake-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.quake .stripe-block:hover {
@@ -5832,7 +5832,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.pubg .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-pubg-ico.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-pubg-ico.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.pubg .stripe-block:hover {
@@ -5860,7 +5860,7 @@ h2 a:hover, h3 a:hover {
 }
 
 .tournaments-block .tournaments-list .tournament.aoe .stripe-block .icon {
-    background: url(/images/svg/cups/tournament-aoe-icon.svg) no-repeat
+/* background: url(/images/svg/cups/tournament-aoe-icon.svg) no-repeat */
 }
 
 .tournaments-block .tournaments-list .tournament.aoe .stripe-block:hover {
@@ -6151,7 +6151,7 @@ h2 a:hover, h3 a:hover {
 .popup-block .loading {
     width: inherit;
     height: 300px;
-    background: url(/images/chat/ajax_loading.gif) no-repeat 50%
+/* background: url(/images/chat/ajax_loading.gif) no-repeat 50% */
 }
 
 .popup-block.make-ban, .popup-block.make-claim {
@@ -6183,7 +6183,7 @@ h2 a:hover, h3 a:hover {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -6897,7 +6897,7 @@ body.hidden a[gg-scroll-to-top] {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -7092,7 +7092,7 @@ body.hidden a[gg-scroll-to-top] {
 }
 
 .acLoading {
-    background: url(../images/chat/ajax_loading.gif) 100% no-repeat
+/* background: url(../images/chat/ajax_loading.gif) 100% no-repeat */
 }
 
 .acSelect {
@@ -7337,7 +7337,7 @@ gg-media, gg-spoiler {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #243056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #243056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -8745,7 +8745,7 @@ header .user-panel .sub-menu li a .icon-Cup-24px:before {
     position: absolute;
     width: 24px;
     height: 24px;
-    background-image: url(/images/Cup_24px.svg);
+/* background-image: url(/images/Cup_24px.svg); */
     top: 0;
     left: 0
 }
@@ -10316,7 +10316,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     left: 0;
     right: 0;
     height: 100%;
-    background: #1c2644 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #1c2644 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 5;
     transition: opacity .3s ease, height .1s ease .3s
 }
@@ -10651,7 +10651,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #1c2644 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #1c2644 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -11557,71 +11557,71 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
 }
 
 .feed-block .event-block .icon-block.info-status {
-    background: url(/images/svg/system-icons/info.svg) no-repeat
+/* background: url(/images/svg/system-icons/info.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.ban-status {
-    background: url(/images/svg/system-icons/ban.svg) no-repeat
+/* background: url(/images/svg/system-icons/ban.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.streamer-notify {
-    background: url(/images/svg/system-icons/streamer.svg) no-repeat
+/* background: url(/images/svg/system-icons/streamer.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.tournament-confirmation {
-    background: url(/images/svg/system-icons/tourney-notify.svg) no-repeat
+/* background: url(/images/svg/system-icons/tourney-notify.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.premium-status {
-    background: url(/images/svg/system-icons/prem.svg) no-repeat
+/* background: url(/images/svg/system-icons/prem.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.claim-status {
-    background: url(/images/svg/system-icons/moderator.svg) no-repeat
+/* background: url(/images/svg/system-icons/moderator.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.finance-notify {
-    background: url(/images/svg/system-icons/coin.svg) no-repeat
+/* background: url(/images/svg/system-icons/coin.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.friends-notify {
-    background: url(/images/svg/system-icons/friends.svg) no-repeat
+/* background: url(/images/svg/system-icons/friends.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.achievement-notify {
-    background: url(/images/svg/system-icons/achievement.svg) no-repeat
+/* background: url(/images/svg/system-icons/achievement.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.comment-notify {
-    background: url(/images/svg/system-icons/comments.svg) no-repeat
+/* background: url(/images/svg/system-icons/comments.svg) no-repeat */
 }
 
 .feed-block .event-block .icon-block.info {
-    background: url(/images/svg/notify/info-copy.svg)
+/* background: url(/images/svg/notify/info-copy.svg) */
 }
 
 .feed-block .event-block .icon-block.work {
-    background: url(/images/svg/notify/work-copy.svg)
+/* background: url(/images/svg/notify/work-copy.svg) */
 }
 
 .feed-block .event-block .icon-block.gg {
-    background: url(/images/svg/notify/gg-mini-copy.svg)
+/* background: url(/images/svg/notify/gg-mini-copy.svg) */
 }
 
 .feed-block .event-block .icon-block.prem {
-    background: url(/images/svg/notify/prem-copy.svg)
+/* background: url(/images/svg/notify/prem-copy.svg) */
 }
 
 .feed-block .event-block .icon-block.stream {
-    background: url(/images/svg/notify/stream-copy.svg)
+/* background: url(/images/svg/notify/stream-copy.svg) */
 }
 
 .feed-block .event-block .icon-block.medal {
-    background: url(/images/svg/notify/medal-copy.svg)
+/* background: url(/images/svg/notify/medal-copy.svg) */
 }
 
 .feed-block .event-block .icon-block.coin {
-    background: url(/images/svg/notify/coin-copy.svg)
+/* background: url(/images/svg/notify/coin-copy.svg) */
 }
 
 .feed-block .event-block .icon-block img {
@@ -11762,7 +11762,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     left: 0;
     width: 150px;
     height: 68px;
-    background: url(/images/svg/shade-top.svg) no-repeat
+/* background: url(/images/svg/shade-top.svg) no-repeat */
 }
 
 .feed-block .event-block .info-block .channel-link .viewers {
@@ -11785,7 +11785,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     width: 268px;
     height: 91px;
-    background: url(/images/svg/shade-bot.svg)
+/* background: url(/images/svg/shade-bot.svg) */
 }
 
 .feed-block .event-block .info-block .channel-link .stream-info {
@@ -13046,7 +13046,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     left: 0;
     right: 0;
     bottom: 0;
-    background: url(/images/gg-loading-spinner.gif) 50% no-repeat
+/* background: url(/images/gg-loading-spinner.gif) 50% no-repeat */
 }
 
 .promo-block .adv-link {
@@ -13506,12 +13506,12 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     height: 27px;
     top: 10px;
     right: 10px;
-    background: url(/images/ggplayer/mute.svg) center 5px no-repeat;
+/* background: url(/images/ggplayer/mute.svg) center 5px no-repeat; */
     background-size: contain
 }
 
 .stream-selector .stream-wrap .stream-list .stream-block #VideoPreviewPl .sound-wrap.active {
-    background-image: url(/images/ggplayer/unmute.svg)
+/* background-image: url(/images/ggplayer/unmute.svg) */
 }
 
 .stream-selector .stream-wrap .stream-list .stream-block #VideoPreviewPl #debugConsole {
@@ -13574,7 +13574,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -14407,7 +14407,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
         width: 100%;
         height: 38px;
         font-size: 12px;
-        background: url(/images/svg/shade-video-small.svg) left -8px no-repeat
+/* background: url(/images/svg/shade-video-small.svg) left -8px no-repeat */
     }
 
     .video-wrap .video-block .video-list .video .img-block .gradient-block .comments-count, .video-wrap .video-block .video-list .video .img-block .gradient-block .rating {
@@ -15048,7 +15048,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     left: 0;
     width: 150px;
     height: 68px;
-    background: url(/images/svg/shade-top.svg) no-repeat
+/* background: url(/images/svg/shade-top.svg) no-repeat */
 }
 
 .promo-tourney-wrap .promo-tourney-block .versus-block .stream-block .channel-link .viewers {
@@ -15071,7 +15071,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     width: 268px;
     height: 91px;
-    background: url(/images/svg/shade-bot.svg)
+/* background: url(/images/svg/shade-bot.svg) */
 }
 
 .promo-tourney-wrap .promo-tourney-block .versus-block .stream-block .channel-link .stream-info {
@@ -15239,7 +15239,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     left: 0;
     width: 150px;
     height: 68px;
-    background: url(/images/svg/shade-top.svg) no-repeat
+/* background: url(/images/svg/shade-top.svg) no-repeat */
 }
 
 .featured-streams-wrap .featured-streams-list .stream-block .stream-inner .viewers {
@@ -15760,7 +15760,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #1c2644 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #1c2644 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -16319,7 +16319,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -16336,7 +16336,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -16658,7 +16658,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -16697,7 +16697,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #36446e url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #36446e url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -16992,7 +16992,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -17379,7 +17379,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     flex-wrap: wrap;
     font-size: 12px;
     color: #fff;
-    background: url(/images/svg/shade-video-top.svg) 0 0 no-repeat
+/* background: url(/images/svg/shade-video-top.svg) 0 0 no-repeat */
 }
 
 .channel-wrap .dashboard-block.user-videos .dashboard-inner .videos-list .video .top-block .rating {
@@ -17411,7 +17411,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     font-size: 14px;
     height: 91px;
     bottom: 0;
-    background: url(/images/svg/shade-video-bottom.svg) left -25px no-repeat;
+/* background: url(/images/svg/shade-video-bottom.svg) left -25px no-repeat; */
     background-size: 220% auto
 }
 
@@ -17921,7 +17921,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -18005,7 +18005,7 @@ header .menu-links.remove li:nth-child(6), header .menu-links.remove li:nth-chil
     bottom: 0;
     right: 0;
     left: 0;
-    background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -20005,7 +20005,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -20045,7 +20045,7 @@ body.theatre:hover .feed-block .opener {
     width: 100%;
     height: 38px;
     font-size: 12px;
-    background: url(/images/svg/shade-video-small.svg) left -8px no-repeat
+/* background: url(/images/svg/shade-video-small.svg) left -8px no-repeat */
 }
 
 .video-page-wrap .dashboard-block.video-wrap .video-block .video-list .video .img-block .gradient-block .comments-count, .video-page-wrap .dashboard-block.video-wrap .video-block .video-list .video .img-block .gradient-block .rating {
@@ -20157,7 +20157,7 @@ body.theatre:hover .feed-block .opener {
     width: 100%;
     height: 38px;
     font-size: 12px;
-    background: url(/images/svg/shade-video-small.svg) left -8px no-repeat
+/* background: url(/images/svg/shade-video-small.svg) left -8px no-repeat */
 }
 
 .video-page-wrap .dashboard-block.suggest-videos .video-list .video .img-block .gradient-block .rating {
@@ -21200,7 +21200,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-popup.loading:before {
-    background: url(/images/chat/ajax_loading.gif) 50% no-repeat rgba(0, 0, 0, .7)
+/* background: url(/images/chat/ajax_loading.gif) 50% no-repeat rgba(0, 0, 0, .7) */
 }
 
 .subscribe-popup.auto {
@@ -21708,7 +21708,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.chest.animated {
-    background: url(https://goodgame.ru/images/anismiles/chest-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/chest-gif.gif) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.cat {
@@ -21716,7 +21716,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.cat.animated {
-    background: url(https://goodgame.ru/images/anismiles/getout-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/getout-gif.gif) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.fry {
@@ -21724,7 +21724,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.fry.animated {
-    background: url(https://goodgame.ru/images/anismiles/fry-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/fry-gif.gif) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.bender {
@@ -21732,7 +21732,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.bender.animated {
-    background: url(https://goodgame.ru/images/anismiles/bender-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/bender-gif.gif) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.scrooge {
@@ -21740,7 +21740,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 .subscribe-content.donation .left-col .levels-list .level .benefits-block .smiles.scrooge.animated {
-    background: url(https://goodgame.ru/images/anismiles/scrooge-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/scrooge-gif.gif) center 0 no-repeat */
 }
 
 .subscribe-content.donation .left-col .levels-list .level:hover .smiles {
@@ -22339,7 +22339,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -22380,7 +22380,7 @@ body.theatre:hover .feed-block .opener {
     flex-wrap: wrap;
     font-size: 12px;
     color: #fff;
-    background: url(/images/svg/shade-video-top.svg) 0 0 no-repeat
+/* background: url(/images/svg/shade-video-top.svg) 0 0 no-repeat */
 }
 
 .stream-list .stream-block .top-block .rating {
@@ -22897,7 +22897,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -24619,7 +24619,7 @@ body.theatre:hover .feed-block .opener {
     left: 0;
     width: 100%;
     height: 37px;
-    background: url(/images/svg/shade-video-small.svg) no-repeat
+/* background: url(/images/svg/shade-video-small.svg) no-repeat */
 }
 
 .tournaments-wrap .right-block-tournament .dashboard-block.stream-block .tournament-stream-list .stream-block .stream-link img {
@@ -26175,7 +26175,7 @@ body.theatre:hover .feed-block .opener {
     left: 4px;
     width: 22px;
     height: 22px;
-    background: url(/images/svg/forum/pin.svg) no-repeat
+/* background: url(/images/svg/forum/pin.svg) no-repeat */
 }
 
 .forum-wrap .topic-table .tbody .topic .title {
@@ -26281,71 +26281,71 @@ body.theatre:hover .feed-block .opener {
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.flood:before {
-    background: url(/images/svg/forum/flood.svg) no-repeat
+/* background: url(/images/svg/forum/flood.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.sc2:before {
-    background: url(/images/svg/forum/sc2.svg) no-repeat
+/* background: url(/images/svg/forum/sc2.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.home:before {
-    background: url(/images/svg/forum/home.svg) no-repeat
+/* background: url(/images/svg/forum/home.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.stream:before {
-    background: url(/images/svg/forum/streamers.svg) no-repeat
+/* background: url(/images/svg/forum/streamers.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.hardware:before {
-    background: url(/images/svg/forum/hardware.svg) no-repeat
+/* background: url(/images/svg/forum/hardware.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.market:before {
-    background: url(/images/svg/forum/market.svg) no-repeat
+/* background: url(/images/svg/forum/market.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.wc3:before {
-    background: url(/images/svg/forum/wc3.svg) no-repeat
+/* background: url(/images/svg/forum/wc3.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.cs-go:before {
-    background: url(/images/svg/forum/csgo.svg) no-repeat
+/* background: url(/images/svg/forum/csgo.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.d3:before {
-    background: url(/images/svg/forum/d3.svg) no-repeat
+/* background: url(/images/svg/forum/d3.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.dota:before {
-    background: url(/images/svg/forum/dota2.svg) no-repeat
+/* background: url(/images/svg/forum/dota2.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.lol:before {
-    background: url(/images/svg/forum/lol.svg) no-repeat
+/* background: url(/images/svg/forum/lol.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.quake-live:before {
-    background: url(/images/svg/forum/quake.svg) no-repeat
+/* background: url(/images/svg/forum/quake.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.wow:before {
-    background: url(/images/svg/forum/wow.svg) no-repeat
+/* background: url(/images/svg/forum/wow.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.hs:before {
-    background: url(/images/svg/forum/hs.svg) no-repeat
+/* background: url(/images/svg/forum/hs.svg) no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.hots:before {
-    background: url(/images/svg/forum/hots.svg) 50% no-repeat
+/* background: url(/images/svg/forum/hots.svg) 50% no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.overwatch:before {
-    background: url(/images/svg/forum/overwatch.svg) 50% no-repeat
+/* background: url(/images/svg/forum/overwatch.svg) 50% no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic .ico.othergames:before {
-    background: url(/images/svg/forum/gamepad.svg) 50% no-repeat
+/* background: url(/images/svg/forum/gamepad.svg) 50% no-repeat */
 }
 
 .forum-wrap .right-col .hot-thread-table .tr .topic a {
@@ -26732,7 +26732,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -27629,7 +27629,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -27834,7 +27834,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -27934,7 +27934,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #151c34 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -30483,7 +30483,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #243056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #243056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -30639,7 +30639,7 @@ body.theatre:hover .feed-block .opener {
     left: -25px;
     width: 12px;
     height: 14px;
-    background: url(/images/svg/page.svg) no-repeat
+/* background: url(/images/svg/page.svg) no-repeat */
 }
 
 .help-wrap .help-list .help-block .icon {
@@ -30850,7 +30850,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -30904,7 +30904,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: rgba(79, 88, 119, .5) url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: rgba(79, 88, 119, .5) url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -31077,12 +31077,12 @@ body.theatre:hover .feed-block .opener {
     height: 27px;
     top: 10px;
     right: 10px;
-    background: url(/images/ggplayer/mute.svg) center 5px no-repeat;
+/* background: url(/images/ggplayer/mute.svg) center 5px no-repeat; */
     background-size: contain
 }
 
 .search-results-wrap .search-results-block-list .search-results-block .stream-list .stream-block #VideoPreviewPl .sound-wrap.active {
-    background-image: url(/images/ggplayer/unmute.svg)
+/* background-image: url(/images/ggplayer/unmute.svg) */
 }
 
 .search-results-wrap .search-results-block-list .search-results-block .stream-list .stream-block #VideoPreviewPl #debugConsole {
@@ -31923,7 +31923,7 @@ body.theatre:hover .feed-block .opener {
     display: block;
     opacity: 1;
     height: 200px;
-    background: url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     transition: opacity .3s ease, height .1s ease .3s
 }
 
@@ -32819,13 +32819,13 @@ body.theatre:hover .feed-block .opener {
 
 .player-block .favorite-wrap .hearth-button {
     display: block;
-    background: url(/images/ggplayer/heart.svg) no-repeat 50%;
+/* background: url(/images/ggplayer/heart.svg) no-repeat 50%; */
     width: 23px;
     height: 30px
 }
 
 .player-block .favorite-wrap.on .hearth-button {
-    background: url(/images/ggplayer/heart-full.svg) no-repeat 50%
+/* background: url(/images/ggplayer/heart-full.svg) no-repeat 50% */
 }
 
 .player-block .favorite-wrap.active:hover .tooltip1, .player-block .favorite-wrap.active:hover .tooltip2 {
@@ -33184,7 +33184,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 #preview-player .sound-wrap {
-    background: url(/images/ggplayer/mute.svg);
+/* background: url(/images/ggplayer/mute.svg); */
     width: 21px;
     height: 25px;
     display: block;
@@ -33196,7 +33196,7 @@ body.theatre:hover .feed-block .opener {
 }
 
 #preview-player .sound-wrap.active {
-    background: url(/images/ggplayer/unmute.svg)
+/* background: url(/images/ggplayer/unmute.svg) */
 }
 
 .player.in-feed .player-wrap .player-controls {
@@ -33880,7 +33880,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -33925,7 +33925,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -34001,7 +34001,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -34369,7 +34369,7 @@ body.theatre:hover .feed-block .opener {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -34651,7 +34651,7 @@ gg-buy-premium {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #1c2644 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #1c2644 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -34992,7 +34992,7 @@ gg-buy-premium {
 
 .premium-popup-block .premium-content .tab-panel .tab-content .present-block .img-block {
     height: 128px;
-    background: url(../../images/premium/banner-anim.gif) 50% no-repeat
+/* background: url(../../images/premium/banner-anim.gif) 50% no-repeat */
 }
 
 .premium-popup-block .premium-content .tab-panel .tab-content .prem-activate-window {
@@ -35462,7 +35462,7 @@ gg-buy-premium {
 }
 
 .premium-popup-block .premium-content .sub-list-block .sub-list .radio input[type=radio]:checked + label {
-    background: url(../../images/svg/premium/selected.svg)
+/* background: url(../../images/svg/premium/selected.svg) */
 }
 
 .premium-popup-block .premium-content .sub-list-block .sub-list .radio input[type=radio]:checked + label .price-block.cut {
@@ -35533,7 +35533,7 @@ gg-buy-premium {
 }
 
 .premium-popup-block .premium-content .sub-list-block .sub-list .radio.subbed .label {
-    background: url(../../images/svg/premium/selected-green.svg);
+/* background: url(../../images/svg/premium/selected-green.svg); */
     background-size: cover
 }
 
@@ -35990,7 +35990,7 @@ gg-buy-premium {
 
 .game-page-wrap .game-page-head .bg-block {
     opacity: .24;
-    background: url(../../images/games-pages/page_pubg.jpg) 50% no-repeat
+/* background: url(../../images/games-pages/page_pubg.jpg) 50% no-repeat */
 }
 
 .game-page-wrap .game-page-head .info-block, .game-page-wrap .game-page-head .poster-block {
@@ -36386,7 +36386,7 @@ gg-buy-premium {
     left: 0;
     width: 150px;
     height: 68px;
-    background: url(/images/svg/shade-top.svg) no-repeat
+/* background: url(/images/svg/shade-top.svg) no-repeat */
 }
 
 .game-page-wrap .game-page-body .stream-list .stream-block .channel-link .viewers {
@@ -36409,7 +36409,7 @@ gg-buy-premium {
     bottom: 0;
     width: 100%;
     height: 91px;
-    background: url(/images/svg/shade-bot.svg)
+/* background: url(/images/svg/shade-bot.svg) */
 }
 
 .game-page-wrap .game-page-body .stream-list .stream-block .channel-link .stream-info {
@@ -37088,31 +37088,31 @@ gg-buy-premium {
 }
 
 .notify-center .icon-block.info {
-    background: url(/images/svg/notify/info-copy.svg)
+/* background: url(/images/svg/notify/info-copy.svg) */
 }
 
 .notify-center .icon-block.work {
-    background: url(/images/svg/notify/work-copy.svg)
+/* background: url(/images/svg/notify/work-copy.svg) */
 }
 
 .notify-center .icon-block.gg {
-    background: url(/images/svg/notify/gg-mini-copy.svg)
+/* background: url(/images/svg/notify/gg-mini-copy.svg) */
 }
 
 .notify-center .icon-block.prem {
-    background: url(/images/svg/notify/prem-copy.svg)
+/* background: url(/images/svg/notify/prem-copy.svg) */
 }
 
 .notify-center .icon-block.stream {
-    background: url(/images/svg/notify/stream-copy.svg)
+/* background: url(/images/svg/notify/stream-copy.svg) */
 }
 
 .notify-center .icon-block.medal {
-    background: url(/images/svg/notify/medal-copy.svg)
+/* background: url(/images/svg/notify/medal-copy.svg) */
 }
 
 .notify-center .icon-block.coin {
-    background: url(/images/svg/notify/coin-copy.svg)
+/* background: url(/images/svg/notify/coin-copy.svg) */
 }
 
 .notify-center .option-list .option-block, .notify-center .option-list .option-block .radio {
@@ -37324,87 +37324,87 @@ gg-buy-premium {
 }
 
 .forum-icon.home {
-    background: url(/images/svg/forum/home.svg) no-repeat;
+/* background: url(/images/svg/forum/home.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.stream {
-    background: url(/images/svg/forum/streamers.svg) no-repeat;
+/* background: url(/images/svg/forum/streamers.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.hardware {
-    background: url(/images/svg/forum/hardware.svg) no-repeat;
+/* background: url(/images/svg/forum/hardware.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.market {
-    background: url(/images/svg/forum/market.svg) no-repeat;
+/* background: url(/images/svg/forum/market.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.overwatch {
-    background: url(/images/svg/forum/overwatch.svg) no-repeat;
+/* background: url(/images/svg/forum/overwatch.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.flood {
-    background: url(/images/svg/forum/flood.svg) no-repeat;
+/* background: url(/images/svg/forum/flood.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.sc2 {
-    background: url(/images/svg/forum/sc2.svg) no-repeat;
+/* background: url(/images/svg/forum/sc2.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.wc3 {
-    background: url(/images/svg/forum/wc3.svg) no-repeat;
+/* background: url(/images/svg/forum/wc3.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.cs, .forum-icon.cs-go {
-    background: url(/images/svg/forum/csgo.svg) no-repeat;
+/* background: url(/images/svg/forum/csgo.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.d3 {
-    background: url(/images/svg/forum/d3.svg) no-repeat;
+/* background: url(/images/svg/forum/d3.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.dota {
-    background: url(/images/svg/forum/dota2.svg) no-repeat;
+/* background: url(/images/svg/forum/dota2.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.lol {
-    background: url(/images/svg/forum/lol.svg) no-repeat;
+/* background: url(/images/svg/forum/lol.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.quake-live {
-    background: url(/images/svg/forum/quake.svg) no-repeat;
+/* background: url(/images/svg/forum/quake.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.wow {
-    background: url(/images/svg/forum/wow.svg) no-repeat;
+/* background: url(/images/svg/forum/wow.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.hs {
-    background: url(/images/svg/forum/hs.svg) no-repeat;
+/* background: url(/images/svg/forum/hs.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.hots {
-    background: url(/images/svg/forum/hots.svg) no-repeat;
+/* background: url(/images/svg/forum/hots.svg) no-repeat; */
     background-size: contain
 }
 
 .forum-icon.othergames {
-    background: url(/images/svg/forum/gamepad.svg) no-repeat;
+/* background: url(/images/svg/forum/gamepad.svg) no-repeat; */
     background-size: contain
 }
 
@@ -38998,7 +38998,7 @@ i.icon {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -40283,7 +40283,7 @@ i.icon {
 }
 
 .chat-container .popup-wrap .popup-block.gift-block.empty:hover .gift .gift-img {
-    background: url(/images/promo/gifts/gift-empty.gif) no-repeat
+/* background: url(/images/promo/gifts/gift-empty.gif) no-repeat */
 }
 
 .chat-container .popup-wrap .popup-block.gift-block.empty:hover .text-block .full {
@@ -40314,7 +40314,7 @@ i.icon {
     margin: 3px 0 0;
     width: 43px;
     height: 36px;
-    background: url(/images/promo/gifts/gift-1.gif) no-repeat
+/* background: url(/images/promo/gifts/gift-1.gif) no-repeat */
 }
 
 .chat-container .popup-wrap .popup-block.gift-block:hover .gift .gift-img .count, .chat-container .popup-wrap .popup-block.gift-block:hover .text-block, .chat-container .popup-wrap .popup-block.show {
@@ -41375,7 +41375,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.chest.animated {
-    background: url(https://goodgame.ru/images/anismiles/chest-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/chest-gif.gif) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.cat {
@@ -41383,7 +41383,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.cat.animated {
-    background: url(https://goodgame.ru/images/anismiles/getout-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/getout-gif.gif) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.fry {
@@ -41391,7 +41391,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.fry.animated {
-    background: url(https://goodgame.ru/images/anismiles/fry-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/fry-gif.gif) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.bender {
@@ -41399,7 +41399,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.bender.animated {
-    background: url(https://goodgame.ru/images/anismiles/bender-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/bender-gif.gif) center 0 no-repeat */
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.scrooge {
@@ -41407,7 +41407,7 @@ i.icon {
 }
 
 .donate-wrap-container .content.help .levels-list .level .benefits-block .smiles.scrooge.animated {
-    background: url(https://goodgame.ru/images/anismiles/scrooge-gif.gif) center 0 no-repeat
+/* background: url(https://goodgame.ru/images/anismiles/scrooge-gif.gif) center 0 no-repeat */
 }
 
 .donate-wrap-container .flex {
@@ -41452,7 +41452,7 @@ i.icon {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #171d30 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #171d30 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -44761,7 +44761,7 @@ body.hidden .tse-scrollable.scroller > .simplebar-track, body.hidden .tse-scroll
     bottom: 0;
     right: 0;
     left: 0;
-    background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -45160,7 +45160,7 @@ gg-profile-gallery .new-gallery .btn {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -45429,7 +45429,7 @@ gg-profile-gallery .new-gallery .btn {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #0d1221 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
@@ -46234,7 +46234,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .login-wrap-block .login-list .btn.btn-vk2:before {
-    background: url(/images/svg/social/vk-24-px.svg)
+/* background: url(/images/svg/social/vk-24-px.svg) */
 }
 
 .login-wrap-block .login-list .btn.btn-vk2:hover {
@@ -46246,7 +46246,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .login-wrap-block .login-list .btn.btn-twitch:before {
-    background: url(/images/svg/social/twitch-24-px.svg)
+/* background: url(/images/svg/social/twitch-24-px.svg) */
 }
 
 .login-wrap-block .login-list .btn.btn-twitch:hover {
@@ -46258,7 +46258,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .login-wrap-block .login-list .btn.btn-fb2:before {
-    background: url(/images/svg/social/fb-24-px.svg)
+/* background: url(/images/svg/social/fb-24-px.svg) */
 }
 
 .login-wrap-block .login-list .btn.btn-fb2:hover {
@@ -46270,7 +46270,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .login-wrap-block .login-list .btn.btn-twitter:before {
-    background: url(/images/svg/social/twitter-24-px.svg)
+/* background: url(/images/svg/social/twitter-24-px.svg) */
 }
 
 .login-wrap-block .login-list .btn.btn-twitter:hover {
@@ -46283,7 +46283,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .login-wrap-block .login-list .btn.btn-google:before {
-    background: url(/images/svg/social/google-24-px.svg)
+/* background: url(/images/svg/social/google-24-px.svg) */
 }
 
 .login-wrap-block .login-list .btn.btn-google:hover {
@@ -46295,7 +46295,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .login-wrap-block .login-list .btn.btn-bnet:before {
-    background: url(/images/svg/social/bnet-24-px.svg)
+/* background: url(/images/svg/social/bnet-24-px.svg) */
 }
 
 .login-wrap-block .login-list .btn.btn-bnet:hover {
@@ -46307,7 +46307,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .login-wrap-block .login-list .btn.btn-od:before {
-    background: url(/images/svg/social/od-24-px.svg)
+/* background: url(/images/svg/social/od-24-px.svg) */
 }
 
 .login-wrap-block .login-list .btn.btn-od:hover {
@@ -47028,7 +47028,7 @@ gg-ads-block[zone-id="26"] a img {
     vertical-align: top;
     width: 12px;
     height: 12px;
-    background: url(../img/outer-link.svg) no-repeat
+/* background: url(../img/outer-link.svg) no-repeat */
 }
 
 .typography-block cite a:active, .typography-block cite a:focus {
@@ -47100,7 +47100,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .typography-block .white cite a:before {
-    background: url(../img/outer-link-white.svg) no-repeat
+/* background: url(../img/outer-link-white.svg) no-repeat */
 }
 
 .typography-block .white cite a:active, .typography-block .white cite a:focus {
@@ -47114,7 +47114,7 @@ gg-ads-block[zone-id="26"] a img {
 }
 
 .typography-block .white cite a:hover:before {
-    background: url(../img/outer-link-white.svg) no-repeat
+/* background: url(../img/outer-link-white.svg) no-repeat */
 }
 
 .typography-block .white hr {
@@ -48292,7 +48292,7 @@ textarea {
     bottom: 0;
     right: 0;
     left: 0;
-    background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%;
+/* background: #233056 url(/images/chat/ajax_loading.gif) no-repeat 50%; */
     z-index: 9;
     opacity: .8
 }
