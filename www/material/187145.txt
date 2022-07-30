@@ -16,7 +16,7 @@
         <div class="bg-block"></div>
         <div class="tse-scrollable" gg-scrollable=""><div class="tse-scrollbar" style="display: block;">
         </div>
-        <div class="tse-scroll-content" style="width: 793px; height: 675px;"><div class="tse-content"><ng-transclude>
+        <div class="tse-scroll-content"><div class="tse-content"><ng-transclude>
             <div class="chat-section ng-scope" ng-class="{'ban-icon': vm.room.user.rights &amp;&amp; vm.settings.quickBan,'delete-icon':vm.room.user.rights &amp;&amp; vm.settings.quickDelete, format: vm.settings.alignType > 0}">
                 <!-- ngRepeat: message in vm.room.messages --><!-- ngIf: (!message.deleted || vm.room.user.rights || vm.room.user.id == message.user.id) && !message.hide --><div class="message-block " ng-if="(!message.deleted || vm.room.user.rights || vm.room.user.id == message.user.id) &amp;&amp; !message.hide" ng-class="{deleted: message.deleted, private: message.mine, bubble: message.private, gift: message.gift}" ng-repeat="message in vm.room.messages" tooltip="06.04 23:45:44">
                     <!-- ngIf: message.user.nickname --><div class="user ng-scope" ng-if="message.user.nickname">
