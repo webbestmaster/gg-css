@@ -1,3 +1,10 @@
+body {
+    background-image: url('./image/background.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .home {
     align-items: flex-start;
     display: flex;
@@ -7,13 +14,15 @@
 }
 
 .home_container {
-    background-color: #fff;
     flex-grow: 1;
     position: relative;
-    //color: #000;
 
     label,
     p {
         color: #000;
     }
+}
+
+.home_input_container {
+    background-color: #fff;
 }
