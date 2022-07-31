@@ -16,7 +16,7 @@ body {
 }
 
 .home_container__left {
-    align-content: stretch;
+    align-items: stretch;
     background-color: #fff;
     display: flex;
     flex-direction: column;
@@ -28,14 +28,13 @@ body {
     width: 50%;
 
     label {
-        align-content: center;
+        align-items: center;
         color: #000;
         column-gap: 8px;
         display: flex;
         flex-direction: row;
         justify-content: flex-start;
         padding: 4px 8px;
-        width: 100%;
 
         span,
         select,
@@ -47,7 +46,7 @@ body {
 }
 
 .home_container__right {
-    align-content: stretch;
+    align-items: stretch;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
@@ -67,9 +66,12 @@ body {
 //}
 
 .home_form {
+    align-items: flex-start;
     background-color: #fff;
-    display: block;
+    display: flex;
+    flex-direction: column;
     flex-grow: 1;
+    justify-content: flex-start;
 }
 
 .home_result {

@@ -1,4 +1,4 @@
-/* global HTMLInputElement, HTMLSelectElement */
+/* global HTMLInputElement, HTMLSelectElement, navigator, alert */
 /* eslint-disable react/jsx-max-depth */
 
 import {SyntheticEvent, useState} from 'react';
@@ -28,29 +28,37 @@ type FontFamilyType = {
     name: string;
 };
 
+const enum LetterFormEnum {
+    cursive = 'cursive',
+    monospace = 'monospace',
+    sansSerif = 'sans-serif',
+    serif = 'serif',
+}
+
 const fontFamilyMap: Array<FontFamilyType> = [
     {
-        letterForm: 'sans-serif',
+        // eslint-disable-next-line sonarjs/no-duplicate-string
+        letterForm: LetterFormEnum.sansSerif,
         name: 'Open Sans',
     },
     {
-        letterForm: 'sans-serif',
+        letterForm: LetterFormEnum.sansSerif,
         name: 'Hack Regular Nerd Font Complete',
     },
     {
-        letterForm: 'sans-serif',
+        letterForm: LetterFormEnum.sansSerif,
         name: 'Arial',
     },
     {
-        letterForm: 'serif',
+        letterForm: LetterFormEnum.serif,
         name: 'Georgia',
     },
     {
-        letterForm: 'monospace',
+        letterForm: LetterFormEnum.monospace,
         name: 'Courier New',
     },
     {
-        letterForm: 'cursive',
+        letterForm: LetterFormEnum.cursive,
         name: 'Brush Script MT',
     },
 ];
@@ -64,68 +72,6 @@ export function ClientHome(): JSX.Element {
     const [isShowSendButton, setIsShowSendButton] = useState<boolean>(true);
     const [fontSize, setFontSize] = useState<number>(defaultFontSize);
     const [fontFamilyIndex, setFontFamilyIndex] = useState<number>(0);
-
-    /*
-        const cssOld = `
-    /!* chat-container *!/
-    body, div.chat-container {
-        border-left: none !important;
-        padding: 8px;
-        /!* background-color: #0a0d11e3 *!/;
-        background-color: ${backgroundColor}${Number.parseInt(backgroundColorAlpha, 10).toString(16).padStart(2, '0')};
-    }
-
-    /!* button on the bottom *!/
-    div.chat-control-block {
-        display: ${isShowSendButton ? 'block' : 'none'};
-    }
-
-    /!* shadow line *!/
-    .bg-block {
-        display: none !important;
-    }
-
-    /!* chat height *!/
-    div.content-window {
-        height: 100% !important;
-    }
-
-    .chat-container_new-guy .content-window {
-        height: 100% !important;
-    }
-
-    .content-window {
-        height: 100%;
-    }
-
-    .chat-container .content-window {
-        height: 100%
-    }
-
-    .chat-container {
-        border-left: 0;
-    }
-
-    div.content-window {
-        height: 100% !important;
-    }
-
-    @font-face {
-        font-family: "Hack Regular Nerd Font Complete";
-        src: url("https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf");
-    }
-
-    .chat-container .message-block .message {
-        font-family: "Hack Regular Nerd Font Complete";
-        font-size: 19px
-    }
-
-    .chat-container .nick {
-        font-family: "Hack Regular Nerd Font Complete";
-        font-size: 19px
-    }
-        `;
-    */
 
     const css = `
 /* Цвет фона окна чата. Для настройки прозрачности из единого места. */
@@ -225,7 +171,6 @@ your-nick {
     return (
         <div className={styleClientHome.home}>
             <div className={styleClientHome.home_container__left}>
-                {/* <div className={styleClientHome.home_input_container}>*/}
                 <form className={styleClientHome.home_form}>
                     <label>
                         <span>Цвет фона:</span>
@@ -287,18 +232,30 @@ your-nick {
                             {fontFamilyMap.map((fontFamilyItem: FontFamilyType, index: number): JSX.Element => {
                                 return (
                                     <option key={fontFamilyItem.name} value={index}>
-                                        {fontFamilyItem.name}, ({fontFamilyItem.letterForm})
+                                        {fontFamilyItem.name} ({fontFamilyItem.letterForm})
                                     </option>
                                 );
                             })}
                         </select>
+                    </label>
+                    {/* eslint-disable-next-line jsx-a11y/label-has-associated-control */}
+                    <label>
+                        <button
+                            onClick={async () => {
+                                await navigator.clipboard.writeText(css);
+                                // eslint-disable-next-line no-alert
+                                alert('Стили скопированы');
+                            }}
+                            type="button"
+                        >
+                            Скопировать стили
+                        </button>
                     </label>
                 </form>
 
                 <pre className={styleClientHome.home_result} key={css}>
                     <div>{css}</div>
                 </pre>
-                {/* </div>*/}
             </div>
 
             <div className={styleClientHome.home_container__right}>
