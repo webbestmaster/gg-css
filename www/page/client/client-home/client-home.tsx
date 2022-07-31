@@ -171,7 +171,6 @@ your-nick {
     return (
         <div className={styleClientHome.home}>
             <div className={styleClientHome.home_container__left}>
-                {/* <div className={styleClientHome.home_input_container}>*/}
                 <form className={styleClientHome.home_form}>
                     <label>
                         <span>Цвет фона:</span>
@@ -257,7 +256,6 @@ your-nick {
                 <pre className={styleClientHome.home_result} key={css}>
                     <div>{css}</div>
                 </pre>
-                {/* </div>*/}
             </div>
 
             <div className={styleClientHome.home_container__right}>
