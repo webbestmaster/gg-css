@@ -1,19 +1,98 @@
+body {
+    background-image: url('./image/background.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .home {
     align-items: flex-start;
     display: flex;
     flex-direction: row;
+    height: 100vh;
     justify-content: center;
     margin: 0;
+    width: 100vw;
 }
 
-.home_container {
+.home_container__left {
+    align-items: stretch;
     background-color: #fff;
+    display: flex;
+    flex-direction: column;
     flex-grow: 1;
+    height: 100%;
+    justify-content: stretch;
+    padding-top: 8px;
     position: relative;
-    //color: #000;
+    width: 50%;
 
-    label,
-    p {
+    label {
+        align-items: center;
         color: #000;
+        column-gap: 8px;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        padding: 4px 8px;
+
+        span,
+        select,
+        input {
+            display: block;
+            line-height: 26px;
+        }
     }
+}
+
+.home_container__right {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: 100%;
+    justify-content: stretch;
+    overflow-y: scroll;
+    position: relative;
+    width: 50%;
+
+    div {
+        flex-grow: 1;
+    }
+}
+
+//.home_input_container {
+//    background-color: #fff;
+//}
+
+.home_form {
+    align-items: flex-start;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: flex-start;
+}
+
+.home_result {
+    border: 1px solid #777;
+    color: #121212;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    line-height: 1.4;
+    overflow-y: scroll;
+    padding: 8px;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: icomoon;
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://static.goodgame.ru/css/fonts/icomoon/fonts/icomoon.eot?ver=373');
+    src:
+        url('https://static.goodgame.ru/css/fonts/icomoon/fonts/icomoon.eot?rnd=373#iefix') format('embedded-opentype'),
+        url('https://static.goodgame.ru/css/fonts/icomoon/fonts/icomoon.woff?ver=373') format('woff'),
+        url('https://static.goodgame.ru/css/fonts/icomoon/fonts/icomoon.ttf?ver=373') format('truetype'),
+        url('https://static.goodgame.ru/css/fonts/icomoon/fonts/icomoon.svg?rnd=373#icomoon') format('svg');
 }
